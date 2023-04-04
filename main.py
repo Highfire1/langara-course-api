@@ -1,13 +1,17 @@
 import os
-
-from parser.Parser import Parser
+import logging
 import uvicorn
 import schedule
+
+from parser.Parser import Parser
+
 
 
 # refresh current semester every 24 hours
 # TODO: implement smarter way to keep data updated
 def job():
+    logging.info("Fetching fresh course data from the Langara website.")
+    
     p = Parser(2023, 20)
     p.loadPageFromWeb()
     p.parseAndSave()
@@ -23,4 +27,4 @@ if __name__ == "__main__":
     job()
     schedule.every().day.do(job)
     
-    uvicorn.run("api.Api:app", host="0.0.0.0", port=5000)
+    uvicorn.run("api.Api:app", host="localhost", port=5000)
