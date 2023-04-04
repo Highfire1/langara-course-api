@@ -5,9 +5,11 @@ from fastapi import FastAPI, HTTPException
 from api.Enums import Years, Semesters
 from api.Schema import Semester
 
+desc = "Gets course data from the Langara website. Data refreshes daily at midnight. Pull requests welcome!"
+
 app = FastAPI(
     title="Langara Courses API (unofficial)",
-    description="Gets course data from the langara website. Refreshes hourly.",
+    description=desc,
     contact={"name" : "Anderson T"}
     )
 
@@ -19,6 +21,7 @@ app = FastAPI(
     )
 async def get_courses(year:Years, semester:Semesters):
     
+    # TODO: put other error codes in the schema
     if year == 2023 and semester >= 30:
         raise HTTPException(status_code=404, detail="Semester data is not available yet.")
     

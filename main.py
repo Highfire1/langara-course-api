@@ -25,6 +25,6 @@ if __name__ == "__main__":
         Parser.loadParseSaveAll()
     
     job()
-    schedule.every().day.do(job)
+    schedule.every().day.at("00:00:00").do(job)
     
     uvicorn.run("api.Api:app", host="0.0.0.0", port=5000)
