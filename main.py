@@ -27,4 +27,4 @@ if __name__ == "__main__":
     job()
     schedule.every().day.do(job)
     
-    uvicorn.run("api.Api:app", host="localhost", port=5000)
+    uvicorn.run("api.Api:app", host="0.0.0.0", port=5000)
