@@ -3,3 +3,4 @@ lxml
 fastapi
 uvicorn
 schedule
+requests
