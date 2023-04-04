@@ -6,17 +6,17 @@ import schedule
 
 
 # refresh current semester every 24 hours
+# TODO: implement smarter way to keep data updated
 def job():
     p = Parser(2023, 20)
     p.loadPageFromWeb()
     p.parseAndSave()
     
-    Parser.loadParseSaveAll()
 
 
 if __name__ == "__main__":
     
-    if not os.path.exists("/json"):
+    if not os.path.exists("json/"):
         print("No data found. Downloading and parsing all course data.")
         Parser.loadParseSaveAll()
     

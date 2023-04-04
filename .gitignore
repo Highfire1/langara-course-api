@@ -1,4 +1,3 @@
-/pages
-/json
 /venv
 /__pycache__
+*.pyc

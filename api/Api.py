@@ -1,7 +1,7 @@
 from fastapi import FastAPI, HTTPException
 import json
 
-from Enums import Years, Semesters
+from api.Enums import Years, Semesters
 
 
 app = FastAPI()
