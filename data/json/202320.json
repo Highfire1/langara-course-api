@@ -1,5 +1,5 @@
 {
-    "datetime_retrieved": "2023-04-06 05:21:36",
+    "datetime_retrieved": "2023-04-06 05:29:24",
     "year": 2023,
     "semester": 20,
     "courses_first_day": "2023-5-08",
@@ -985,7 +985,7 @@
         },
         {
             "RP": null,
-            "seats": 2,
+            "seats": 1,
             "waitlist": 25,
             "crn": 20161,
             "subject": "BIOL",
@@ -1979,7 +1979,7 @@
         {
             "RP": "P",
             "seats": 4,
-            "waitlist": 7,
+            "waitlist": 8,
             "crn": 20228,
             "subject": "BIOL",
             "course_code": 2380,
@@ -2256,7 +2256,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 39,
+            "waitlist": 37,
             "crn": 20781,
             "subject": "BCAP",
             "course_code": 1200,
@@ -2382,7 +2382,7 @@
         },
         {
             "RP": null,
-            "seats": 8,
+            "seats": 7,
             "waitlist": 10,
             "crn": 20115,
             "subject": "BCAP",
@@ -2510,7 +2510,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 45,
+            "waitlist": 44,
             "crn": 20766,
             "subject": "BCAP",
             "course_code": 1200,
@@ -2721,7 +2721,7 @@
         {
             "RP": null,
             "seats": 16,
-            "waitlist": 24,
+            "waitlist": 27,
             "crn": 20301,
             "subject": "BUSM",
             "course_code": 1100,
@@ -2771,7 +2771,7 @@
         {
             "RP": null,
             "seats": 12,
-            "waitlist": 22,
+            "waitlist": 23,
             "crn": 20303,
             "subject": "BUSM",
             "course_code": 1100,
@@ -2914,7 +2914,7 @@
         {
             "RP": null,
             "seats": 13,
-            "waitlist": 26,
+            "waitlist": 27,
             "crn": 20308,
             "subject": "BUSM",
             "course_code": 1100,
@@ -3209,7 +3209,7 @@
         {
             "RP": null,
             "seats": 7,
-            "waitlist": 23,
+            "waitlist": 24,
             "crn": 20316,
             "subject": "BUSM",
             "course_code": 1500,
@@ -3259,7 +3259,7 @@
         {
             "RP": null,
             "seats": 8,
-            "waitlist": 23,
+            "waitlist": 24,
             "crn": 20318,
             "subject": "BUSM",
             "course_code": 1500,
@@ -3359,7 +3359,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 43,
+            "waitlist": 42,
             "crn": 20322,
             "subject": "BUSM",
             "course_code": 1500,
@@ -3502,7 +3502,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": null,
+            "waitlist": 1,
             "crn": 20325,
             "subject": "BUSM",
             "course_code": 2115,
@@ -3838,7 +3838,7 @@
         {
             "RP": "RP",
             "seats": 0,
-            "waitlist": 10,
+            "waitlist": 9,
             "crn": 20336,
             "subject": "BUSM",
             "course_code": 4300,
@@ -4682,7 +4682,7 @@
         {
             "RP": null,
             "seats": 7,
-            "waitlist": 43,
+            "waitlist": 42,
             "crn": 20104,
             "subject": "CNST",
             "course_code": 1110,
@@ -5597,7 +5597,7 @@
         {
             "RP": null,
             "seats": 7,
-            "waitlist": 28,
+            "waitlist": 27,
             "crn": 20511,
             "subject": "CHIN",
             "course_code": 3381,
@@ -5631,7 +5631,7 @@
         {
             "RP": null,
             "seats": 11,
-            "waitlist": 25,
+            "waitlist": 24,
             "crn": 20755,
             "subject": "CHIN",
             "course_code": 3383,
@@ -6427,7 +6427,7 @@
         },
         {
             "RP": "P",
-            "seats": 0,
+            "seats": 1,
             "waitlist": 18,
             "crn": 20676,
             "subject": "CMNS",
@@ -7028,7 +7028,7 @@
         },
         {
             "RP": null,
-            "seats": 0,
+            "seats": 1,
             "waitlist": 29,
             "crn": 20428,
             "subject": "CPSC",
@@ -7063,7 +7063,7 @@
         {
             "RP": null,
             "seats": 19,
-            "waitlist": 35,
+            "waitlist": 34,
             "crn": 20807,
             "subject": "CPSC",
             "course_code": 1045,
@@ -7423,7 +7423,7 @@
         {
             "RP": null,
             "seats": 17,
-            "waitlist": 44,
+            "waitlist": 45,
             "crn": 20805,
             "subject": "CPSC",
             "course_code": 1050,
@@ -7466,7 +7466,7 @@
         {
             "RP": null,
             "seats": 17,
-            "waitlist": 43,
+            "waitlist": 45,
             "crn": 20808,
             "subject": "CPSC",
             "course_code": 1050,
@@ -7576,7 +7576,7 @@
         },
         {
             "RP": "P",
-            "seats": 2,
+            "seats": 3,
             "waitlist": 17,
             "crn": 20439,
             "subject": "CPSC",
@@ -7678,7 +7678,7 @@
         },
         {
             "RP": "P",
-            "seats": 2,
+            "seats": 1,
             "waitlist": 17,
             "crn": 20442,
             "subject": "CPSC",
@@ -8154,7 +8154,7 @@
         },
         {
             "RP": "P",
-            "seats": 15,
+            "seats": 14,
             "waitlist": null,
             "crn": 20806,
             "subject": "CPSC",
@@ -8299,7 +8299,7 @@
         },
         {
             "RP": "P",
-            "seats": 1,
+            "seats": 0,
             "waitlist": 25,
             "crn": 20459,
             "subject": "CPSC",
@@ -8538,7 +8538,7 @@
         {
             "RP": null,
             "seats": 14,
-            "waitlist": 25,
+            "waitlist": 28,
             "crn": 20123,
             "subject": "CSIS",
             "course_code": 1300,
@@ -9346,8 +9346,8 @@
         },
         {
             "RP": null,
-            "seats": 22,
-            "waitlist": 40,
+            "seats": 20,
+            "waitlist": 39,
             "crn": 20126,
             "subject": "ECON",
             "course_code": 1220,
@@ -9490,7 +9490,7 @@
         {
             "RP": null,
             "seats": 23,
-            "waitlist": 38,
+            "waitlist": 39,
             "crn": 20133,
             "subject": "ECON",
             "course_code": 1221,
@@ -9826,7 +9826,7 @@
             "title": "Language & Composition I",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -9851,7 +9851,7 @@
             "title": "Language & Composition I",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -9876,7 +9876,7 @@
             "title": "Language & Composition I",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -9951,7 +9951,7 @@
             "title": "Reading & Writing Skills",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "**Please note: ENGL 1121 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: ENGL 1121 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -10367,7 +10367,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 33,
+            "waitlist": 34,
             "crn": 20713,
             "subject": "ENGL",
             "course_code": 1129,
@@ -10492,7 +10492,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 20,
+            "waitlist": 21,
             "crn": 20717,
             "subject": "ENGL",
             "course_code": 1130,
@@ -11168,8 +11168,8 @@
         },
         {
             "RP": null,
-            "seats": 15,
-            "waitlist": 24,
+            "seats": 14,
+            "waitlist": 23,
             "crn": 20468,
             "subject": "FMGT",
             "course_code": 1115,
@@ -11321,7 +11321,7 @@
         {
             "RP": null,
             "seats": 16,
-            "waitlist": 24,
+            "waitlist": 23,
             "crn": 20742,
             "subject": "FMGT",
             "course_code": 1115,
@@ -11438,7 +11438,7 @@
         },
         {
             "RP": "R",
-            "seats": 13,
+            "seats": 14,
             "waitlist": 24,
             "crn": 20477,
             "subject": "FMGT",
@@ -11531,7 +11531,7 @@
         },
         {
             "RP": "R",
-            "seats": 17,
+            "seats": 15,
             "waitlist": 28,
             "crn": 20475,
             "subject": "FMGT",
@@ -13028,7 +13028,7 @@
         {
             "RP": null,
             "seats": 15,
-            "waitlist": 46,
+            "waitlist": 47,
             "crn": 20206,
             "subject": "GEOG",
             "course_code": 1180,
@@ -13190,8 +13190,8 @@
         },
         {
             "RP": null,
-            "seats": 17,
-            "waitlist": 30,
+            "seats": 16,
+            "waitlist": 29,
             "crn": 20209,
             "subject": "GEOG",
             "course_code": 1190,
@@ -13268,7 +13268,7 @@
         {
             "RP": null,
             "seats": 1,
-            "waitlist": 48,
+            "waitlist": 49,
             "crn": 20210,
             "subject": "GEOL",
             "course_code": 1107,
@@ -13586,7 +13586,7 @@
         {
             "RP": null,
             "seats": 36,
-            "waitlist": 49,
+            "waitlist": "Full",
             "crn": 20144,
             "subject": "HIST",
             "course_code": 1116,
@@ -13686,7 +13686,7 @@
         {
             "RP": null,
             "seats": 30,
-            "waitlist": 43,
+            "waitlist": 44,
             "crn": 20148,
             "subject": "HIST",
             "course_code": 2255,
@@ -13965,7 +13965,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 42,
+            "waitlist": 41,
             "crn": 20518,
             "subject": "JAPN",
             "course_code": 1115,
@@ -14090,7 +14090,7 @@
         {
             "RP": null,
             "seats": 17,
-            "waitlist": 43,
+            "waitlist": 42,
             "crn": 20068,
             "subject": "KINS",
             "course_code": 1100,
@@ -14148,7 +14148,7 @@
         },
         {
             "RP": null,
-            "seats": 0,
+            "seats": 1,
             "waitlist": 14,
             "crn": 20799,
             "subject": "KINS",
@@ -14199,7 +14199,7 @@
         {
             "RP": null,
             "seats": 10,
-            "waitlist": 47,
+            "waitlist": 48,
             "crn": 20070,
             "subject": "KINS",
             "course_code": 1100,
@@ -14233,7 +14233,7 @@
         {
             "RP": null,
             "seats": 9,
-            "waitlist": 46,
+            "waitlist": 47,
             "crn": 20071,
             "subject": "KINS",
             "course_code": 1100,
@@ -14410,7 +14410,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 37,
+            "waitlist": 38,
             "crn": 20780,
             "subject": "KINS",
             "course_code": 1100,
@@ -14503,7 +14503,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 1,
+            "waitlist": 2,
             "crn": 20785,
             "subject": "KINS",
             "course_code": 1110,
@@ -14639,7 +14639,7 @@
         {
             "RP": null,
             "seats": 10,
-            "waitlist": 72,
+            "waitlist": 73,
             "crn": 20076,
             "subject": "KINS",
             "course_code": 1120,
@@ -15122,7 +15122,7 @@
         {
             "RP": null,
             "seats": 7,
-            "waitlist": 60,
+            "waitlist": 61,
             "crn": 20087,
             "subject": "KINS",
             "course_code": 2030,
@@ -15205,8 +15205,8 @@
         },
         {
             "RP": null,
-            "seats": 7,
-            "waitlist": 42,
+            "seats": 6,
+            "waitlist": 41,
             "crn": 20092,
             "subject": "KINS",
             "course_code": 2205,
@@ -15793,8 +15793,8 @@
         },
         {
             "RP": null,
-            "seats": 1,
-            "waitlist": "Full",
+            "seats": 0,
+            "waitlist": 24,
             "crn": 20798,
             "subject": "MARK",
             "course_code": 1115,
@@ -16418,7 +16418,7 @@
             "title": "Mathematics Skill Development",
             "add_fees": 3.8,
             "rpt_limit": 2,
-            "notes": "**Please note: MATH 1100 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: MATH 1100 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -16443,7 +16443,7 @@
             "title": "Basic Algebra",
             "add_fees": 3.8,
             "rpt_limit": 2,
-            "notes": "**Please note: MATH 1101 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: MATH 1101 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -16468,7 +16468,7 @@
             "title": "Basic & Intermediate Algebra",
             "add_fees": 3.8,
             "rpt_limit": 2,
-            "notes": "**Please note: MATH 1150 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: MATH 1150 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -16484,7 +16484,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 5,
+            "waitlist": 6,
             "crn": 20586,
             "subject": "MATH",
             "course_code": 1152,
@@ -16533,7 +16533,7 @@
         },
         {
             "RP": "P",
-            "seats": 11,
+            "seats": 10,
             "waitlist": 21,
             "crn": 20588,
             "subject": "MATH",
@@ -16684,7 +16684,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 10,
+            "waitlist": 9,
             "crn": 20594,
             "subject": "MATH",
             "course_code": 1173,
@@ -16902,7 +16902,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 31,
+            "waitlist": 32,
             "crn": 20601,
             "subject": "MATH",
             "course_code": 2362,
@@ -18633,7 +18633,7 @@
         {
             "RP": null,
             "seats": 5,
-            "waitlist": 23,
+            "waitlist": 25,
             "crn": 20057,
             "subject": "NUTR",
             "course_code": 1100,
@@ -18861,7 +18861,7 @@
         },
         {
             "RP": null,
-            "seats": 2,
+            "seats": 1,
             "waitlist": 25,
             "crn": 20064,
             "subject": "NUTR",
@@ -18887,7 +18887,7 @@
         {
             "RP": null,
             "seats": 10,
-            "waitlist": 24,
+            "waitlist": 25,
             "crn": 20065,
             "subject": "NUTR",
             "course_code": 2500,
@@ -18921,7 +18921,7 @@
         {
             "RP": null,
             "seats": 13,
-            "waitlist": 24,
+            "waitlist": 25,
             "crn": 20756,
             "subject": "NUTR",
             "course_code": 2500,
@@ -19030,7 +19030,7 @@
         {
             "RP": null,
             "seats": 1,
-            "waitlist": 41,
+            "waitlist": 42,
             "crn": 20573,
             "subject": "PHIL",
             "course_code": 1101,
@@ -19387,7 +19387,7 @@
         },
         {
             "RP": null,
-            "seats": 5,
+            "seats": 6,
             "waitlist": 39,
             "crn": 20149,
             "subject": "POLI",
@@ -19531,7 +19531,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 49,
+            "waitlist": "Full",
             "crn": 20764,
             "subject": "PHOT",
             "course_code": 1100,
@@ -19734,7 +19734,7 @@
         },
         {
             "RP": null,
-            "seats": 24,
+            "seats": 23,
             "waitlist": 25,
             "crn": 20537,
             "subject": "PSYC",
@@ -20255,7 +20255,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 38,
+            "waitlist": 37,
             "crn": 20758,
             "subject": "PUBL",
             "course_code": 1900,
@@ -20304,7 +20304,7 @@
         },
         {
             "RP": null,
-            "seats": 15,
+            "seats": 14,
             "waitlist": 25,
             "crn": 20017,
             "subject": "RELS",
@@ -20507,7 +20507,7 @@
         {
             "RP": null,
             "seats": 37,
-            "waitlist": 49,
+            "waitlist": "Full",
             "crn": 20728,
             "subject": "SOCI",
             "course_code": 1121,
@@ -20590,8 +20590,8 @@
         },
         {
             "RP": null,
-            "seats": 22,
-            "waitlist": 39,
+            "seats": 23,
+            "waitlist": 41,
             "crn": 20731,
             "subject": "SOCI",
             "course_code": 1195,
@@ -20624,8 +20624,8 @@
         },
         {
             "RP": null,
-            "seats": 4,
-            "waitlist": 35,
+            "seats": 5,
+            "waitlist": 37,
             "crn": 20522,
             "subject": "SPAN",
             "course_code": 1115,
@@ -20650,7 +20650,7 @@
         {
             "RP": null,
             "seats": 2,
-            "waitlist": 28,
+            "waitlist": 29,
             "crn": 20523,
             "subject": "SPAN",
             "course_code": 1115,
