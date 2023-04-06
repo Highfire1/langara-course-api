@@ -271,9 +271,9 @@ class Parser:
                 if j == 9:
                     # some courses have a section note and a normal note
                     if current_course.notes == None:
-                        current_course.notes = rawdata[i].replace("\n", "") # dont save newlines
+                        current_course.notes = rawdata[i].replace("\n", "").replace("\r", "") # dont save newlines
                     else:
-                        current_course.notes = rawdata[i].replace("\n", "") + "\n" + current_course.notes
+                        current_course.notes = rawdata[i].replace("\n", "").replace("\r", "") + "\n" + current_course.notes
                     i += 5
                     break
                 
