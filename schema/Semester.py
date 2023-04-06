@@ -1,10 +1,10 @@
 from pydantic import BaseModel, Field
 from enum import Enum, IntEnum
-from datetime import date
 
-import datetime
+from datetime import date, datetime
 import os
 import json
+import logging
 
 class scheduleTypes(Enum):
     _ = " "
@@ -57,33 +57,29 @@ class RPEnum(Enum):
 class seatsEnum(Enum):
     inactive = "Inact" # registration not open yet
     cancel = "Cancel" # course cancelled
-    full = "Full" # seats are full
 
 class waitlistEnum(Enum):
-    empty : None = None # waitlist empty
     no_waitlist = "N/A" # course does not have a waitlist
+    full = "Full"
     
 
 class Course(BaseModel):
-    RP : int | RPEnum | None           = Field(description='Prerequisites of the course.')
-    seats: int | seatsEnum      = Field(description='```"Inact"``` means registration isn\'t open yet. \n\n```"Cancel"``` means that the course is cancelled.')
-    waitlist: int | waitlistEnum | None= Field(description='```null``` means that the course has no waitlist (ie MATH 1183 & MATH 1283). \n\n```"N/A"``` means the course does not have a waitlist.')
-    crn: int            = Field(description="Always 5 digits long.")
-    subject: str        = Field(description="Subject area e.g. ```CPSC```.")
-    course_code: int    = Field(description="Course code e.g. ```1050```.")
-    section: str        = Field(description="Section e.g. ```001```, ```W01```, ```M01```.")
-    credits: float      = Field(description="Credits the course is worth.")
-    title: str          = Field(description="Title of the course e.g. ```Intro to Computer Science```.")
-    add_fees: float | None = Field(description="Additional fees (in dollars).")
-    rpt_limit: int | None  = Field(description="Repeat limit. There may be other repeat limits not listed here you should keep in mind.")
-    notes: str          = Field(description="Notes for a section.")
-    schedule:list[ScheduleEntry] = Field(description="Times that the course meets.")
+    RP : RPEnum | None                  = Field(description='Prerequisites of the course.')
+    seats: int | seatsEnum              = Field(description='```"Inact"``` means registration isn\'t open yet. \n\n```"Cancel"``` means that the course is cancelled.')
+    waitlist: int | waitlistEnum | None = Field(description='```null``` means that the course has no waitlist (ie MATH 1183 & MATH 1283). \n\n```"N/A"``` means the course does not have a waitlist.')
+    crn: int                            = Field(description="Always 5 digits long.")
+    subject: str                        = Field(description="Subject area e.g. ```CPSC```.")
+    course_code: int                    = Field(description="Course code e.g. ```1050```.")
+    section: str                        = Field(description="Section e.g. ```001```, ```W01```, ```M01```.")
+    credits: float                      = Field(description="Credits the course is worth.")
+    title: str                          = Field(description="Title of the course e.g. ```Intro to Computer Science```.")
+    add_fees: float | None              = Field(description="Additional fees (in dollars).")
+    rpt_limit: int | None               = Field(description="Repeat limit. There may be other repeat limits not listed here you should keep in mind.")
+    notes: str | None                   = Field(description="Notes for a section.")
+    schedule:list[ScheduleEntry]        = Field(description="Times that the course meets.")
     
     def __str__(self):
         return f"Course: {self.subject} {self.course} CRN: {self.crn}"
-    
-    def toJSON(self):
-        return str(self.__dict__)
     
     class Config:
         schema_extra = {
@@ -99,7 +95,7 @@ class Course(BaseModel):
                 "title" : "Intro to Cultural Anthropology",
                 "add_fees" : 0,
                 "rpt_limit" : None,
-                "notes" : "",
+                "notes" : None,
                 "schedule" : [ScheduleEntry.Config.schema_extra["example"]],
             }
         }
@@ -137,19 +133,36 @@ class Years(IntEnum):
     
 
 class Semester(BaseModel):
-    datetime_retrieved: str = Field(
-        default=datetime.datetime.utcnow().strftime("%Y-%m-%d"),
+    datetime_retrieved: date = Field(
+        default=datetime.now().strftime("%Y-%m-%d %H:%M:%S"), #iso standards aren't real
         description='Date data was retrieved.'
         )
-    year: Years             = Field(description='Year of semester.')
-    semester: Semesters     = Field(description='Term of semester')
-    courses_first_day: date | None = Field(description='Date semester courses start.')
-    courses_last_day: date | None  = Field(description='Date semester courses end.')
-    courses: list[Course]   = Field(default=[], description='List of courses in semester.')
-
+    
+    year: Years                     = Field(description='Year of semester.')
+    semester: Semesters             = Field(description='Term of semester')
+    courses_first_day: date | None  = Field(description='Date semester courses start. This is a best estimate and should not be taken as fact.')
+    courses_last_day: date | None   = Field(description='Date semester courses end. This is a best estimate and should not be taken as fact.')
+    courses: list[Course]           = Field(
+        default=[], 
+        description='List of courses in semester.'
+        )
+    
+    # this is really the proper way to do it???
     def __init__(__pydantic_self__, year, semester) -> None:
         super().__init__(year=year, semester=semester)
         
+    class Config:
+        schema_extra = {
+            "example": {
+                "datetime_retrieved" : "2023-04-04",
+                "year": Years._2023,
+                "semester" : Semesters.spring,
+                "courses_first_day" : "2023-5-08",
+                "courses_last_day" : "2023-8-31",
+                "courses" : [Course.Config.schema_extra["example"]]
+            }
+        }
+    
     def addCourse(self, course:Course):
         self.courses.append(course)
     
@@ -159,8 +172,8 @@ class Semester(BaseModel):
     def uniqueCoursecount(self):
         uniques = []
         for c in self.courses:
-            if f"{c.subject} {c.course}" not in uniques:
-                uniques.append(f"{c.subject} {c.course}")
+            if f"{c.subject} {c.course_code}" not in uniques:
+                uniques.append(f"{c.subject} {c.course_code}")
         return len(uniques)
 
 
@@ -171,6 +184,7 @@ class Semester(BaseModel):
         return s
     
     def toJSON(self):
+        # ugly but neccessary to pretty print the json file
         return json.dumps(json.loads(self.json()), default=vars, indent=4)
     
     def saveToFile(self, location="data/json/", filename = None):
@@ -206,25 +220,36 @@ class Semester(BaseModel):
                         ends[sch.end] = 0
                     ends[sch.end] += 1
         
-        #print(starts, "\n", ends)
+        #print(starts, "\n", ends, "\n")
         
+        # get rid of impossible starts
+        if self.semester == 10:
+            allowed_start = [12, 1]
+        if self.semester == 20:
+            allowed_start = [5, 4]
+        if self.semester == 30:
+            allowed_start = [7, 8]
+            
+        for date in starts:
+            month = int( date.split("-")[1] )
+            if month not in allowed_start:
+                starts[date] = 0
+                
         # magic from stackoverflow
         s = max(starts, key=starts.get)
+        
+        # get rid of impossible end dates
+        month_start = int(s.split("-")[1])
+        for date in ends:
+            month_end = int( date.split("-")[1] )
+            if month_start + 1 >= month_end:
+                ends[date] = 0
+
         e = max(ends, key=ends.get)
         
+        #print(starts, "\n", ends)
         #print("start:", s)
         #print("end:", e)
+        logging.info(f"Semester {self.year}{self.semester} starts on {s} and ends on {e}.")
         self.courses_first_day = s
         self.courses_last_day = e
-        
-    class Config:
-        schema_extra = {
-            "example": {
-                "datetime_retrieved" : "2023-04-04",
-                "year": Years._2023,
-                "semester" : Semesters.spring,
-                "courses_first_day" : "2023-5-08",
-                "courses_last_day" : "2023-8-31",
-                "courses" : [Course.Config.schema_extra["example"]]
-            }
-        }

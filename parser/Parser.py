@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import unicodedata
 import os
+import datetime
 
 #from parser.Semester import Semester
 
@@ -101,7 +102,15 @@ class Parser:
         s = self.parse()
         s.saveToFile(location=location)
         
-    # parses a page and returns a Semester
+    """
+    Parses a page and returns all of the information contained therein.
+    
+    Naturally there are a few caveats
+    1) If they ever change the course search interface, this will break horribly
+    2) For a few years, they had a course-code note that applied to all sections of a course.
+       Instead of storing that properly, we simply append that note to the end of all sections of a course.
+    
+    """
     def parse(self) -> Semester:
         semester = Semester(self.year, self.semester)
                 
@@ -180,33 +189,38 @@ class Parser:
             if rawdata[i].isdigit():
                 i -= 1
             
+            fee:str = formatProp(rawdata[i+10])
+            # required to convert "$5,933.55" -> 5933.55
+            if fee != None:
+                fee = fee.replace("$", "")
+                fee = fee.replace(",", "")
+                fee = float(fee)
             
             rpt = formatProp(rawdata[i+11])
             if rpt == "-":
-                rpt = None   
-                         
-            
+                rpt = None  
+                        
             current_course = Course(
                 RP          = formatProp(rawdata[i]),
                 seats       = formatProp(rawdata[i+1]),
+                waitlist    = formatProp(rawdata[i+2]),
                 # skip the select column
-                waitlist    = formatProp(rawdata[i+3]),
                 crn         = formatProp(rawdata[i+4]),
                 subject     = rawdata[i+5],
                 course_code = formatProp(rawdata[i+6]),
                 section     = rawdata[i+7],
                 credits     = formatProp(rawdata[i+8]),
                 title       = rawdata[i+9],
-                add_fees    = formatProp(rawdata[i+10]),
+                add_fees    = fee,
                 rpt_limit   = rpt,
                 
-                notes = "",
+                notes = None,
                 schedule = [],
                 
             )
             
             if sectionNotes != None:
-                if sectionNotes[0] == f"{current_course.subject} {current_course.course}":
+                if sectionNotes[0] == f"{current_course.subject} {current_course.course_code}":
                     
                     current_course.notes = sectionNotes[1]
                 else:
@@ -225,8 +239,8 @@ class Parser:
                     type       = rawdata[i],
                     days       = rawdata[i+1],
                     time       = rawdata[i+2], 
-                    start      = rawdata[i+3], 
-                    end        = rawdata[i+4], 
+                    start      = formatDate(rawdata[i+3]), 
+                    end        = formatDate(rawdata[i+4]), 
                     room       = rawdata[i+5], 
                     instructor = rawdata[i+6], 
                 )
@@ -273,12 +287,26 @@ class Parser:
         semester.extractDates()
         return semester
 
+# formats inputs for course entries
+# this should be turned into a lambda
 def formatProp(s:str) -> str | int | float:
-        if "$" in s:
-            return float(s.replace("$", ""))
         if s.isdecimal():
             return int(s)
         if s.isspace():
             return None
         else:
             return s.strip()
+
+
+# converts date from "11-Apr-23" to "2023-04-11" (ISO 8601)
+def formatDate(date:str) -> datetime.date:
+    if date == None:
+        return None
+    
+    if len(date) != 9 or len(date.split("-")) != 3 or date.split("-")[1].isdigit():
+        return date
+        
+    date = date.split("-")
+    months = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]
+    return f"20{date[2]}-{months.index(date[1].lower())+1}-{date[0]}"
+    
