@@ -3,8 +3,9 @@ from bs4 import BeautifulSoup
 import unicodedata
 import os
 
-from parser.Semester import Semester
-from parser.Course import Course, ScheduleEntry
+#from parser.Semester import Semester
+
+from schema.Semester import Course, Semester, ScheduleEntry, RPEnum, seatsEnum, waitlistEnum
 
 
 class Parser:
@@ -23,7 +24,7 @@ class Parser:
     # Tries to load page from pages/
     def loadPageFromFile(self, file_location=None) -> None:
         if file_location == None:
-            file_location = f"pages/{self.year}{self.semester}.html"
+            file_location = f"data/pages/{self.year}{self.semester}.html"
         
         with open(file_location, "r") as p:
             self.page = p.read()
@@ -64,7 +65,7 @@ class Parser:
     def loadPage(self, save=True) -> None:
         try:
             self.loadPageFromFile()
-            print(f"Loaded {self.year}{self.semester} from pages/.")
+            print(f"Loaded {self.year}{self.semester} from data/pages/.")
         except:
             print(f"Downloading {self.year}{self.semester} from langara.ca because no local copy was found.")
             self.loadPageFromWeb(save)
@@ -82,7 +83,7 @@ class Parser:
                 print(s)
     
     # saves a page to file
-    def savePage(self, location="pages/", filename=None) -> None:
+    def savePage(self, location="data/pages/", filename=None) -> None:
         if filename == None:
             filename = f"{self.year}{self.semester}.html"
             
@@ -95,13 +96,14 @@ class Parser:
         with open(location + filename, "w+") as fi:
             fi.write(self.page)
             
-    def parseAndSave(self, location="json/", filename=None):
+            
+    def parseAndSave(self, location="data/json/", filename=None):
         s = self.parse()
         s.saveToFile(location=location)
         
     # parses a page and returns a Semester
     def parse(self) -> Semester:
-        semester = Semester(self.year, self.semester, self.courses_first_day, self.courses_last_day)
+        semester = Semester(self.year, self.semester)
                 
         # use BeautifulSoup to change html to Python friendly format
         soup = BeautifulSoup(self.page, 'lxml')
@@ -177,19 +179,30 @@ class Parser:
             # terrible way to fix off by one error (see 30566 in 201530)
             if rawdata[i].isdigit():
                 i -= 1
-
+            
+            
+            rpt = formatProp(rawdata[i+11])
+            if rpt == "-":
+                rpt = None   
+                         
+            
             current_course = Course(
-                RP        = rawdata[i],
-                seats     = rawdata[i+1],
-                waitlist  = rawdata[i+2], # skip the select column
-                crn       = rawdata[i+4],
-                subject   = rawdata[i+5],
-                course    = rawdata[i+6],
-                section   = rawdata[i+7],
-                credits   = rawdata[i+8],
-                title     = rawdata[i+9],
-                add_fees  = rawdata[i+10],
-                rpt_limit = rawdata[i+11],
+                RP          = formatProp(rawdata[i]),
+                seats       = formatProp(rawdata[i+1]),
+                # skip the select column
+                waitlist    = formatProp(rawdata[i+3]),
+                crn         = formatProp(rawdata[i+4]),
+                subject     = rawdata[i+5],
+                course_code = formatProp(rawdata[i+6]),
+                section     = rawdata[i+7],
+                credits     = formatProp(rawdata[i+8]),
+                title       = rawdata[i+9],
+                add_fees    = formatProp(rawdata[i+10]),
+                rpt_limit   = rpt,
+                
+                notes = "",
+                schedule = [],
+                
             )
             
             if sectionNotes != None:
@@ -259,3 +272,13 @@ class Parser:
         
         semester.extractDates()
         return semester
+
+def formatProp(s:str) -> str | int | float:
+        if "$" in s:
+            return float(s.replace("$", ""))
+        if s.isdecimal():
+            return int(s)
+        if s.isspace():
+            return None
+        else:
+            return s.strip()
