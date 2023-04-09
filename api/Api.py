@@ -48,7 +48,10 @@ async def get_semester_courses(year:Years, semester:Semesters) -> Semester:
 @app.get(
     "/v1/courses/{year}/{semester}/{crn}", 
     summary="Get a course from a semester",
-    description="Returns the course with a crn in the given year and semester."
+    description="Returns the course with a crn in the given year and semester.",
+    responses= {
+        404: {"model" : ErrorMessage}
+    },
     )
 async def get_course_from_semester(year:Years, semester:Semesters, crn:int) -> Course:
         
@@ -59,18 +62,15 @@ async def get_course_from_semester(year:Years, semester:Semesters, crn:int) -> C
     try:
         
         with open (f"data/json/{year}{semester}.json", "r") as fi:
-            data:json = json.loads(fi.read())
+            s = Semester()
+            s.parse_file(f"data/json/{year}{semester}.json")
             
-            for c in data["courses"]:
-                if c["crn"] == crn:
-                    
-                    print("FOUNDDDD", c)
+            for c in s.courses:
+                if c.crn == crn:
                     return c
                 
     except Exception as e:
-        print("hello?")
-        print(repr(e))
-        raise HTTPException(status_code=500)
+        raise HTTPException(status_code=500, detail="Something went wrong: " + e)
     
     
     raise HTTPException(status_code=404, detail="CRN not found.")
@@ -79,34 +79,14 @@ async def get_course_from_semester(year:Years, semester:Semesters, crn:int) -> C
 
 @app.get(
     "/v1/courses/courseinfo/{subject}/{coursecode}", 
-    summary="Get information about a course.",
-    description="Returns information about a course."
+    summary="Get information about a course. (NOT IMPLEMENTED)",
+    description="Returns information about a course.",
+    responses= {
+        404: {"model" : ErrorMessage}
+    },
     )
 async def get_course(subject: str, coursecode: int) -> CourseInfo:
     
+    # TODO: implement
     return CourseInfo()
-    
-    # TODO: put other error codes in the schema
-    if year == 2023 and semester >= 30:
-        raise HTTPException(status_code=404, detail="Semester data is not available yet.")
-    
-    try:
-        
-        
-        with open (f"data/json/{year}{semester}.json", "r") as fi:
-            data:json = json.loads(fi.read())
-            
-            for c in data["courses"]:
-                if c["crn"] == crn:
-                    
-                    print("FOUNDDDD", c)
-                    return c
-                
-    except Exception as e:
-        print("hello?")
-        print(repr(e))
-        raise HTTPException(status_code=500)
-    
-    
-    raise HTTPException(status_code=404, detail="CRN not found.")
-        
+

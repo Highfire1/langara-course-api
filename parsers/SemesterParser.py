@@ -4,46 +4,98 @@ import unicodedata
 import os
 import datetime
 
-#from parser.Semester import Semester
-
 from schema.Semester import Course, Semester, ScheduleEntry, RPEnum, seatsEnum, waitlistEnum
 
 
-class Parser:
-    def __init__(self, year, semester) -> None:
+'''
+Parses the Langara Course Search into json
+
+this classname is very deceptive: This class has methods for
+- fetching course pages from the internet
+- downloading course pages
+- parsing course page
+
+TODO: speed it up - it takes 3 mins to download and parse all 20 years of data :sob:
+'''
+
+class SemesterParser:
+    def __init__(self, year:int, semester:int) -> None:
         
         if year < 2000:
             raise Exception("Course data is not available prior to 2000.")
+        if year > 2023:
+            raise Exception("Course data is not available for the future.")
+        if semester not in [10, 20, 30]:
+            raise Exception(f"Invalid semester {semester}. Semester must be 10, 20 or 30.")
         
         self.year = year 
         self.semester = semester
         
-        self.page = None
+        self.page: str = None
         self.courses_first_day = None
         self.courses_last_day = None    # last day of classes - does not include final exam period
+        
+        self.save_location = "data"
     
-    # Tries to load page from pages/
-    def loadPageFromFile(self, file_location=None) -> None:
-        if file_location == None:
-            file_location = f"data/pages/{self.year}{self.semester}.html"
+    # Tries to load page from file system
+    # TODO: if we ever speed up the parsing put a ratelimit on this
+    def loadPageFromFile(self) -> None:
+        file_location = f"{self.save_location}/pages/{self.year}{self.semester}.html"
         
         with open(file_location, "r") as p:
             self.page = p.read()
                 
     # Tries to get page from website
-    def loadPageFromWeb(self, save=True) -> None:
+    def loadPageFromWeb(self, saveHTML:bool = True) -> None:
+        self.page = self.getPageFromWeb(self.year, self.semester)
+        
+        if saveHTML:
+            self.savePage()
+    
+    # Tries to load page from file, then tries to access it on the internet
+    def loadPage(self, getPageFromWeb:bool = False, saveHTML:bool = True) -> None:
+        
+        if getPageFromWeb:
+            print(f"Downloading {self.year}{self.semester} from langara.ca.")
+            self.loadPageFromWeb(saveHTML)
+            print(f"Download complete.")
+            return
+        
+        try:
+            self.loadPageFromFile()
+            print(f"Loaded {self.year}{self.semester} from {self.save_location}/pages/.")
+        except:
+            print(f"Downloading {self.year}{self.semester} from langara.ca because no local copy was found.")
+            self.loadPageFromWeb(saveHTML)
+            print(f"Download complete.")
+    
+    # Loads and parses ALL pages 
+    def loadParseSaveAll(getPagesFromWeb:bool = False) -> None:
+        for year in range(2000, 2023 + 1):
+            for semester in range(10, 31, 10):
+                
+                if year == 2023 and semester == 30:
+                    return
+                
+                p = SemesterParser(year, semester)
+                p.loadPage(getPageFromWeb=getPagesFromWeb)
+                
+                s = p.parseAndSave()
+                print(s)
+                
+    # Returns raw html of a course search for a given semester
+    def getPageFromWeb(self, year:int, semester:int) -> str:
+        
         # get available subjects (ie ABST, ANTH, APPL, etc)
-        
-        url = f"https://swing.langara.bc.ca/prod/hzgkfcls.P_Sel_Crse_Search?term={self.year}{self.semester}"
+        url = f"https://swing.langara.bc.ca/prod/hzgkfcls.P_Sel_Crse_Search?term={year}{semester}"
         i = requests.post(url)
-        soup = BeautifulSoup(i.text, "lxml")
         
-
+        # TODO: optimize finding this list
+        soup = BeautifulSoup(i.text, "lxml")
         courses = soup.find("select", {"id":"subj_id"})
         courses = courses.findChildren()
-        
         subjects = []
-        for c in courses: #c = ['<option value=', 'SPAN', '>Spanish</option>']
+        for c in courses: # c = ['<option value=', 'SPAN', '>Spanish</option>']
             subjects.append(str(c).split('"')[1])
 
         #print("Available subjects: ", subjects)
@@ -55,64 +107,42 @@ class Parser:
         url = "https://swing.langara.bc.ca/prod/hzgkfcls.P_GetCrse"
         headers = {'Content-type': 'application/x-www-form-urlencoded'}
 
-        data = f"term_in={self.year}{self.semester}&sel_subj=dummy&sel_day=dummy&sel_schd=dummy&sel_insm=dummy&sel_camp=dummy&sel_levl=dummy&sel_sess=dummy&sel_instr=dummy&sel_ptrm=dummy&sel_attr=dummy&sel_dept=dummy{subjects_data}&sel_crse=&sel_title=%25&sel_dept=%25&begin_hh=0&begin_mi=0&begin_ap=a&end_hh=0&end_mi=0&end_ap=a&sel_incl_restr=Y&sel_incl_preq=Y&SUB_BTN=Get+Courses"
+        data = f"term_in={year}{semester}&sel_subj=dummy&sel_day=dummy&sel_schd=dummy&sel_insm=dummy&sel_camp=dummy&sel_levl=dummy&sel_sess=dummy&sel_instr=dummy&sel_ptrm=dummy&sel_attr=dummy&sel_dept=dummy{subjects_data}&sel_crse=&sel_title=%25&sel_dept=%25&begin_hh=0&begin_mi=0&begin_ap=a&end_hh=0&end_mi=0&end_ap=a&sel_incl_restr=Y&sel_incl_preq=Y&SUB_BTN=Get+Courses"
         i = requests.post(url, headers=headers, data=data)
-        self.page = i.text  
         
-        if save:
-            self.savePage()
-    
-    # Tries to load page from /pages, then tries to access it on the internet
-    def loadPage(self, save=True) -> None:
-        try:
-            self.loadPageFromFile()
-            print(f"Loaded {self.year}{self.semester} from data/pages/.")
-        except:
-            print(f"Downloading {self.year}{self.semester} from langara.ca because no local copy was found.")
-            self.loadPageFromWeb(save)
-            print(f"Download complete.")
-    
-    # Loads and parses ALL pages 
-    def loadParseSaveAll() -> None:
-        for year in range(2000, 2023):
-            for semester in range(10, 31, 10):
-                p = Parser(year, semester)
-                p.loadPage()
-                
-                s = p.parse()
-                s.saveToFile()
-                print(s)
+        return i.text
     
     # saves a page to file
-    def savePage(self, location="data/pages/", filename=None) -> None:
-        if filename == None:
-            filename = f"{self.year}{self.semester}.html"
+    def savePage(self) -> None:
             
         if self.page == "":
             raise Exception("Cannot save empty page.")
         
-        
+        path = f"{self.save_location}/pages/{self.year}{self.semester}.html"
         # create dir if it doesn't exist
-        os.makedirs(os.path.dirname(location + filename), exist_ok=True)
-        with open(location + filename, "w+") as fi:
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        
+        with open(path, "w+") as fi:
             fi.write(self.page)
             
-            
-    def parseAndSave(self, location="data/json/", filename=None):
+    # parses self.page and saves the parsed result
+    def parseAndSave(self) -> Semester:
         s = self.parse()
-        s.saveToFile(location=location)
+        s.saveToFile(location=self.save_location)
+        return s
         
     """
     Parses a page and returns all of the information contained therein.
     
-    Naturally there are a few caveats
+    Naturally there are a few caveats"
     1) If they ever change the course search interface, this will break horribly
     2) For a few years, they had a course-code note that applied to all sections of a course.
        Instead of storing that properly, we simply append that note to the end of all sections of a course.
     
     """
+    # TODO: refactor this method to make it quicker
     def parse(self) -> Semester:
-        semester = Semester(self.year, self.semester)
+        semester = Semester(year=self.year, semester=self.semester)
                 
         # use BeautifulSoup to change html to Python friendly format
         soup = BeautifulSoup(self.page, 'lxml')
@@ -161,7 +191,9 @@ class Parser:
             # remove the header for each course (e.g. CPSC 1150)
             if (len(txt) == 9 and txt[0:4].isalpha() and txt[5:9].isnumeric()):
                 continue
+            
             # remove non standard header (e.g. BINF 4225 ***NEW COURSE***)
+            # TODO: maybe add this to notes at some point?
             if txt[-3:] == "***":
                 continue
             
@@ -174,7 +206,6 @@ class Parser:
             
             # some class-wide notes that apply to all sections of a course are put in front of the course (see 10439 in 201110)
             # this is a bad way to deal with them
-            # this fails for some cases (ie 20105 in 200710)
             if len(rawdata[i]) > 2:
                 # 0 stores the subj and course id (ie CPSC 1150)
                 # 1 stores the note and edits it properly

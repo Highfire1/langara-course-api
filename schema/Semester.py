@@ -30,8 +30,8 @@ class ScheduleEntry(BaseModel):
     type: 'scheduleTypes'   = Field(description='Type of the section.')
     days: str               = Field(description='Days of the week of the session e.g. ```M-W----```.')
     time: str               = Field(description='Time session starts and ends e.g. ```1030-1220```.')
-    start: str              = Field(description='Date session starts (```YYYY-MM-DD```).')
-    end: str                = Field(description='Date session ends (```YYYY-MM-DD```).')
+    start: str | None       = Field(description='Date session starts (```YYYY-MM-DD```).')
+    end: str | None         = Field(description='Date session ends (```YYYY-MM-DD```).')
     room: str               = Field(description='Room session is in.')
     instructor: str         = Field(description='Instructor(s) for this session.')
     
@@ -133,7 +133,7 @@ class Years(IntEnum):
     
 
 class Semester(BaseModel):
-    datetime_retrieved: date = Field(
+    datetime_retrieved: str = Field(
         default=datetime.now().strftime("%Y-%m-%d %H:%M:%S"), #iso standards aren't real
         description='Date data was retrieved.'
         )
@@ -148,8 +148,8 @@ class Semester(BaseModel):
         )
     
     # this is really the proper way to do it???
-    def __init__(__pydantic_self__, year, semester) -> None:
-        super().__init__(year=year, semester=semester)
+    def __init__(__pydantic_self__, **data: any) -> None:
+        super().__init__(**data)
         
     class Config:
         schema_extra = {
@@ -187,14 +187,14 @@ class Semester(BaseModel):
         # ugly but neccessary to pretty print the json file
         return json.dumps(json.loads(self.json()), default=vars, indent=4)
     
-    def saveToFile(self, location="data/json/", filename = None):
-        if filename == None:
-            filename = f"{self.year}{self.semester}.json"
+    def saveToFile(self, location):
+        
+        file_location = f"{location}/json/{self.year}{self.semester}.json"
         
         # create dir if it doesn't exist
-        os.makedirs(os.path.dirname(location + filename), exist_ok=True)
+        os.makedirs(os.path.dirname(file_location), exist_ok=True)
         
-        with open(location + filename, "w+") as fi:
+        with open(file_location, "w+") as fi:
             fi.write(self.toJSON())
     
     # sets start/end dates of semesters by looking for most common start/end dates

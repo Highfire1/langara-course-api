@@ -26,9 +26,12 @@ class TransferInfo(BaseModel):
                 "effective_date" : "Sep/08 ongoing"
             }
         }
+
+class Prerequisite(BaseModel):
+    pass
+
     
-    
-class avail(Enum):
+class availability(Enum):
     spring = "spring"
     summer = "summer"
     fall = "fall"
@@ -58,16 +61,18 @@ class CourseInfo(BaseModel):
     description: str    = Field(description="Description of course.")
     add_fees: float     = Field(description="Additional fees (in dollars).")
     rpt_limit: int      = Field(description="Repeat limit. ```0``` means there is no repeat limit.")
-    availability: 'avail'                   = Field(description="Availability of course. Extracted automatically - may not be correct. Consult langara advisors if in doubt.")
+    availability: 'availability'            = Field(description="Availability of course. Extracted automatically - may not be correct. Consult langara advisors if in doubt.")
     last_offered : list[int]                = Field(description="last 5 semesters the course was offered e.g. ```[202310, 202210, 202010, 201910, 201810]```. Note that cancelled sections are included.")
     # how do i get this to show on docs???
     attributes : dict['attributes', bool]   = Field(description="Langara attributes for a course.")
-    transfer: list[TransferInfo]            = Field(description="Information on how the course transfers. Only supports UBC & SFU.")
+    transfer: list[TransferInfo] | None     = Field(description="Information on how the course transfers. Only supports UBC & SFU.")
+    prerequisites: list[Prerequisite] | None= Field(description="Prerequisites for the course. Accuracy not guaranteed")
+    restriction: str | None                 = Field(description="Program you must be in to register for this course")
     
     class Config:
         schema_extra = {
             "example": {
-                "RP" : RPEnum._,
+                "RP" : None,
                 "subject" : "CPSC",
                 "course_code" : 1000,
                 "credits" : 3.0,
@@ -75,7 +80,7 @@ class CourseInfo(BaseModel):
                 "description" : "Offers a broad overview of the computer science discipline. Provides students with an appreciation for and an understanding of the many different aspects of the discipline. Topics include information and data representation; introduction to computer hardware and programming; networks; applications (e.g., spreadsheet, database); social networking; ethics; and history. Intended for both students expecting to continue in computer science as well as for those taking it for general interest.",
                 "add_fees" : 34.00,
                 "rpt_limit" : 2,
-                "availability" : avail.all,
+                "availability" : availability.all,
                 "last_offered" : [202320, 202310, 202230, 202220, 202210],
                 "attributes" : {
                     "2AR" : False,
