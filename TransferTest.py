@@ -10,4 +10,4 @@ from parsers.TransferParser import TransferParser
 from builders.CourseInfoBuilder import CourseInfoBuilder
 
 c = CourseInfoBuilder()
-c.build()
+c.hydrateBuildSave()
