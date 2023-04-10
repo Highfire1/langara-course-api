@@ -8,26 +8,6 @@ class institutions(Enum):
     SFU = "SFU"
     UBCV = "UBCV"
 
-
-class TransferInfo(BaseModel):
-    institution: 'institutions' = Field(description='Institution this transfer credit is for.')
-    credit: str                 = Field(description='How the credit transfers e.g.  SFU CMPT 1XX (3), Q/B-Sci.')
-    effective_date: str         = Field(description="Effective Date e.g. Sep/99 ongoing.")
-
-    class Config:
-        schema_extra = {
-            "example": {
-                "institution" : institutions.SFU,
-                "credit" : "SFU CMPT 1XX (3), Q/B-Sci",
-                "effective_date" : "Sep/99 ongoing"
-            },
-            "example2": {
-                "institution" : institutions.UBCV,
-                "credit" : " UBCV CPSC 101 (4)",
-                "effective_date" : "Sep/08 ongoing"
-            }
-        }
-
 class Prerequisite(BaseModel):
     pass
 
@@ -64,7 +44,7 @@ class CourseInfo(BaseModel):
     add_fees: float | None    = Field(description="Additional fees (in dollars).")
     rpt_limit: int | None     = Field(description="Repeat limit. ```0``` means there is no repeat limit.")
     availability: 'availability'            = Field(description="Availability of course. Extracted automatically - may not be correct. Consult langara advisors if in doubt.")
-    last_offered : list[int]                = Field(description="last 5 semesters the course was offered e.g. ```[202310, 202210, 202010, 201910, 201810]```. Note that cancelled sections are included.")
+    prev_offered : list[int]                = Field(description="last 5 semesters the course was offered e.g. ```[202310, 202210, 202010, 201910, 201810]```. Note that cancelled sections are included.")
     # how do i get this to show on docs???
     attributes : dict[str, bool] | None  = Field(description="Langara attributes for a course.")
     transfer: list[Transfer] | None     = Field(description="Information on how the course transfers.")
@@ -76,14 +56,19 @@ class CourseInfo(BaseModel):
             "example": {
                 "RP" : None,
                 "subject" : "CPSC",
-                "course_code" : 1000,
+                "course_code" : 1050,
                 "credits" : 3.0,
                 "title": "Introduction to Computer Science",
-                "description" : "Offers a broad overview of the computer science discipline. Provides students with an appreciation for and an understanding of the many different aspects of the discipline. Topics include information and data representation; introduction to computer hardware and programming; networks; applications (e.g., spreadsheet, database); social networking; ethics; and history. Intended for both students expecting to continue in computer science as well as for those taking it for general interest.",
-                "add_fees" : 34.00,
+                "description" : "Offers a broad overview of the computer science discipline.  Provides students with an appreciation for and an understanding of the many different aspects of the discipline.  Topics include information and data representation; introduction to computer hardware and programming; networks; applications (e.g., spreadsheet, database); social networking; ethics; and history.  Intended for both students expecting to continue in computer science as well as for those taking it for general interest.",
+                "hours": {
+                    "lecture": 4,
+                    "seminar": 0,
+                    "lab": 2
+                },
+                "add_fees" : 34.,
                 "rpt_limit" : 2,
                 "availability" : availability.all,
-                "last_offered" : [202320, 202310, 202230, 202220, 202210],
+                "prev_offered" : [202320, 202310, 202230, 202220, 202210],
                 "attributes" : {
                     "2AR" : False,
                     "2SC" : False,
@@ -94,9 +79,11 @@ class CourseInfo(BaseModel):
                     "UT" :  True,
                 },
                 "transfer" : [
-                    TransferInfo.Config.schema_extra["example"],
-                    TransferInfo.Config.schema_extra["example2"]
+                    Transfer.Config.schema_extra["example1"],
+                    Transfer.Config.schema_extra["example2"]
                     ],
+                "prerequisites" : None,
+                "restriction" : None,
             }
         }
 
@@ -105,3 +92,12 @@ class CourseInfoAll(BaseModel):
     
     def __init__(__pydantic_self__, **data: any) -> None:
         super().__init__(**data)
+        
+    class Config:
+        schema_extra = {
+            "example": {
+                "courses" : [
+                    CourseInfo.Config.schema_extra["example"],
+                ]
+            }
+        }

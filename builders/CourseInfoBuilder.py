@@ -157,14 +157,14 @@ class CourseInfoBuilder:
                     avail = availability.fall
             
             elif len(set(terms)) == 3:
-                avail == availability.all
+                avail = availability.all
             
             elif abs(terms.count(10)-terms.count(20)) <= 1 and terms.count(10) >= 2 and terms.count(30) == 0:
-                avail == availability.springsummer
+                avail = availability.springsummer
             elif abs(terms.count(10)-terms.count(30)) <= 1 and terms.count(10) >= 2 and terms.count(20) == 0:
-                avail == availability.springfall
+                avail = availability.springfall
             elif abs(terms.count(30)-terms.count(20)) <= 1 and terms.count(30) >= 2 and terms.count(10) == 0:
-                avail == availability.summerfall
+                avail = availability.summerfall
             
             #print(f"{avail.value}\t\t{terms}")  
             
@@ -213,7 +213,7 @@ class CourseInfoBuilder:
                 add_fees = add_fees,
                 rpt_limit = rpt_limit,
                 availability = avail,
-                last_offered = semesters_offered,
+                prev_offered = semesters_offered,
                 attributes = attr,
                 transfer = transfers,
                 

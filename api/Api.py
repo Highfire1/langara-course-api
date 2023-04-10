@@ -16,12 +16,13 @@ app = FastAPI(
     )
 
 
+
 class ErrorMessage(BaseModel):
     message: str
 
 @app.get(
-    "/v1/courses/{year}/{semester}", 
-    summary="Get Semester Courses",
+    "/v1/courselist/{year}/{semester}", 
+    summary="Get all courses in a semester.",
     description="Returns all courses for a given year and semester.",
     responses= {
         404: {"model" : ErrorMessage}
@@ -46,8 +47,8 @@ async def get_semester_courses(year:Years, semester:Semesters) -> Semester:
 
 
 @app.get(
-    "/v1/courses/{year}/{semester}/{crn}", 
-    summary="Get a course from a semester",
+    "/v1/courselist/{year}/{semester}/{crn}", 
+    summary="Get a course from a semester.",
     description="Returns the course with a crn in the given year and semester.",
     responses= {
         404: {"model" : ErrorMessage}
@@ -77,8 +78,8 @@ async def get_course_from_semester(year:Years, semester:Semesters, crn:int) -> C
         
 
 @app.get(
-    "/v1/courses/courseinfo", 
-    summary="Retrieves information about all courses.",
+    "/v1/courses/all", 
+    summary="Get information about all courses.",
     #description="Returns information about a course.",
     responses= {
     },
@@ -89,19 +90,24 @@ async def get_courseInfo() -> CourseInfoAll:
 
 
 @app.get(
-    "/v1/courses/courseinfo/{subject}/{coursecode}", 
-    summary="Get information about a course.",
+    "/v1/courses/{subject}/{course_code}", 
+    summary="Gets information about a course.",
     description="Returns information about a course.",
     responses= {
         404: {"model" : ErrorMessage}
     },
     )
 async def get_course(subject: str, course_code: int) -> CourseInfo:
-    courses = CourseInfoAll.parse_file("data/build/courseInfo.json")
+    global courses
     
+    if courses == None:
+        courses = CourseInfoAll.parse_file("data/build/courseInfo.json")
+                
     for c in courses.courses:
         
         if subject == c.subject and course_code == c.course_code:
             return c
     
     raise HTTPException(status_code=404, detail="Course not found.")
+
+courses = CourseInfoAll.parse_file("data/build/courseInfo.json")

@@ -13,6 +13,32 @@ class Transfer(BaseModel):
     
     def __init__(__pydantic_self__, **data: any) -> None:
         super().__init__(**data)
+        
+    
+    class Config:
+        schema_extra = {
+            "example1": {
+                 "subject": "CPSC",
+                "course_code": 1050,
+                "source": "LANG",
+                "destination": "ALEX",
+                "credit": "ALEX CPSC 1XX (3)",
+                "effective_start": "Sep/15",
+                "effective_end": "present"
+            },
+            "example2": {
+                "subject": "CPSC",
+                "course_code": 1050,
+                "source": "LANG",
+                "destination": "AU",
+                "credit": "AU COMP 2XX (3)",
+                "effective_start": "May/15",
+                "effective_end": "present"
+            }
+        }
+        
+        
+        
     
 class Transfers(BaseModel):
     courses:list[Transfer]
