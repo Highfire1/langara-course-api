@@ -2,6 +2,7 @@ from pydantic import BaseModel, Field
 from enum import Enum
 
 from schema.Semester import RPEnum
+from schema.Transfer import Transfer
 
 class institutions(Enum):
     SFU = "SFU"
@@ -30,7 +31,7 @@ class TransferInfo(BaseModel):
 class Prerequisite(BaseModel):
     pass
 
-    
+  
 class availability(Enum):
     spring = "spring"
     summer = "summer"
@@ -40,6 +41,7 @@ class availability(Enum):
     summerfall = "summerfall"
     all = "all"
     unknown = "unknown"
+    discontinued="discontinued"
     
 class attributes(Enum):
     AR =  "2AR"
@@ -52,20 +54,21 @@ class attributes(Enum):
 
 
 class CourseInfo(BaseModel):
-    RP : 'RPEnum'           = Field(description='Prerequisites of the course.')
+    RP : RPEnum | None           = Field(description='Prerequisites of the course.')
     subject: str        = Field(description="Subject area e.g. ```CPSC```.")
     course_code: int    = Field(description="Course code e.g. ```1050```.")     
     credits: float      = Field(description="Credits the course is worth.")
     title: str          = Field(description="*Unabbreviated* title of the course e.g. ```Intro to Computer Science```.")
-    description: str    = Field(description="Description of course.")
-    add_fees: float     = Field(description="Additional fees (in dollars).")
-    rpt_limit: int      = Field(description="Repeat limit. ```0``` means there is no repeat limit.")
+    description: str | None = Field(description="Description of course.")
+    hours: dict[str, float] | None = Field(description="Hours of the course (lecture, seminar & lab)")
+    add_fees: float | None    = Field(description="Additional fees (in dollars).")
+    rpt_limit: int | None     = Field(description="Repeat limit. ```0``` means there is no repeat limit.")
     availability: 'availability'            = Field(description="Availability of course. Extracted automatically - may not be correct. Consult langara advisors if in doubt.")
     last_offered : list[int]                = Field(description="last 5 semesters the course was offered e.g. ```[202310, 202210, 202010, 201910, 201810]```. Note that cancelled sections are included.")
     # how do i get this to show on docs???
-    attributes : dict[str, bool]   = Field(description="Langara attributes for a course.")
-    transfer: list[TransferInfo] | None     = Field(description="Information on how the course transfers.")
-    prerequisites: list[Prerequisite] | None= Field(description="Prerequisites for the course. Accuracy not guaranteed")
+    attributes : dict[str, bool] | None  = Field(description="Langara attributes for a course.")
+    transfer: list[Transfer] | None     = Field(description="Information on how the course transfers.")
+    prerequisites: str | None= Field(description="Prerequisites for the course. Accuracy not guaranteed")
     restriction: str | None                 = Field(description="Program you must be in to register for this course")
     
     class Config:

@@ -4,7 +4,7 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
 
 from schema.Semester import Semester, Years, Semesters, Course
-from schema.CourseInfo import CourseInfo
+from schema.CourseInfo import CourseInfo, CourseInfoAll
 
 
 desc = "Gets course data from the Langara website. Data refreshes daily at midnight. Pull requests welcome!"
@@ -76,17 +76,32 @@ async def get_course_from_semester(year:Years, semester:Semesters, crn:int) -> C
     raise HTTPException(status_code=404, detail="CRN not found.")
         
 
+@app.get(
+    "/v1/courses/courseinfo", 
+    summary="Retrieves information about all courses.",
+    #description="Returns information about a course.",
+    responses= {
+    },
+    )
+async def get_courseInfo() -> CourseInfoAll:
+    return CourseInfoAll.parse_file("data/build/courseInfo.json")
+
+
 
 @app.get(
     "/v1/courses/courseinfo/{subject}/{coursecode}", 
-    summary="Get information about a course. (NOT IMPLEMENTED)",
+    summary="Get information about a course.",
     description="Returns information about a course.",
     responses= {
         404: {"model" : ErrorMessage}
     },
     )
-async def get_course(subject: str, coursecode: int) -> CourseInfo:
+async def get_course(subject: str, course_code: int) -> CourseInfo:
+    courses = CourseInfoAll.parse_file("data/build/courseInfo.json")
     
-    # TODO: implement
-    return CourseInfo()
-
+    for c in courses.courses:
+        
+        if subject == c.subject and course_code == c.course_code:
+            return c
+    
+    raise HTTPException(status_code=404, detail="Course not found.")
