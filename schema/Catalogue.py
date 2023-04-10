@@ -18,3 +18,5 @@ class Catalogue(BaseModel):
 
     def __init__(__pydantic_self__, **data: any) -> None:
         super().__init__(**data)
+    
+    

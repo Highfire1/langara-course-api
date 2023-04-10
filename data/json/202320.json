@@ -1,5 +1,5 @@
 {
-    "datetime_retrieved": "2023-04-08 03:09:37",
+    "datetime_retrieved": "2023-04-08 05:19:54",
     "year": 2023,
     "semester": 20,
     "courses_first_day": "2023-5-08",
@@ -1088,7 +1088,7 @@
         {
             "RP": "P",
             "seats": 12,
-            "waitlist": 25,
+            "waitlist": 24,
             "crn": 20164,
             "subject": "BIOL",
             "course_code": 1115,
@@ -2231,7 +2231,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 45,
+            "waitlist": 46,
             "crn": 20765,
             "subject": "BCAP",
             "course_code": 1200,
@@ -2256,7 +2256,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 43,
+            "waitlist": 44,
             "crn": 20781,
             "subject": "BCAP",
             "course_code": 1200,
@@ -2544,7 +2544,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 49,
+            "waitlist": "Full",
             "crn": 20782,
             "subject": "BCAP",
             "course_code": 1200,
@@ -2796,7 +2796,7 @@
         {
             "RP": null,
             "seats": 6,
-            "waitlist": 24,
+            "waitlist": 25,
             "crn": 20304,
             "subject": "BUSM",
             "course_code": 1100,
@@ -2914,7 +2914,7 @@
         {
             "RP": null,
             "seats": 9,
-            "waitlist": 24,
+            "waitlist": 25,
             "crn": 20308,
             "subject": "BUSM",
             "course_code": 1100,
@@ -2948,7 +2948,7 @@
         {
             "RP": null,
             "seats": 6,
-            "waitlist": 25,
+            "waitlist": 26,
             "crn": 20752,
             "subject": "BUSM",
             "course_code": 1100,
@@ -2982,7 +2982,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 42,
+            "waitlist": 41,
             "crn": 20788,
             "subject": "BUSM",
             "course_code": 1100,
@@ -3016,7 +3016,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 37,
+            "waitlist": 36,
             "crn": 20789,
             "subject": "BUSM",
             "course_code": 1100,
@@ -4802,7 +4802,7 @@
         {
             "RP": null,
             "seats": 4,
-            "waitlist": 25,
+            "waitlist": 24,
             "crn": 20283,
             "subject": "CHEM",
             "course_code": 1114,
@@ -5110,7 +5110,7 @@
         {
             "RP": "P",
             "seats": 20,
-            "waitlist": 21,
+            "waitlist": 23,
             "crn": 20773,
             "subject": "CHEM",
             "course_code": 1118,
@@ -5630,7 +5630,7 @@
         },
         {
             "RP": null,
-            "seats": 5,
+            "seats": 4,
             "waitlist": 13,
             "crn": 20755,
             "subject": "CHIN",
@@ -6428,7 +6428,7 @@
         {
             "RP": "P",
             "seats": 1,
-            "waitlist": 20,
+            "waitlist": 19,
             "crn": 20676,
             "subject": "CMNS",
             "course_code": 1118,
@@ -7336,7 +7336,7 @@
         },
         {
             "RP": null,
-            "seats": 7,
+            "seats": 6,
             "waitlist": 25,
             "crn": 20435,
             "subject": "CPSC",
@@ -11311,7 +11311,7 @@
         },
         {
             "RP": null,
-            "seats": 13,
+            "seats": 12,
             "waitlist": 22,
             "crn": 20794,
             "subject": "FMGT",
@@ -12903,7 +12903,7 @@
         {
             "RP": null,
             "seats": 15,
-            "waitlist": 41,
+            "waitlist": 42,
             "crn": 20201,
             "subject": "GEOG",
             "course_code": 1110,
@@ -13411,7 +13411,7 @@
         {
             "RP": "P",
             "seats": 17,
-            "waitlist": 24,
+            "waitlist": 25,
             "crn": 20736,
             "subject": "HSCI",
             "course_code": 1130,
@@ -13560,7 +13560,7 @@
         },
         {
             "RP": "P",
-            "seats": 5,
+            "seats": 4,
             "waitlist": 1,
             "crn": 20237,
             "subject": "HSCI",
@@ -15694,7 +15694,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 23,
+            "waitlist": 22,
             "crn": 20178,
             "subject": "MARK",
             "course_code": 1115,
@@ -15819,7 +15819,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": "Full",
+            "waitlist": 24,
             "crn": 20798,
             "subject": "MARK",
             "course_code": 1115,
@@ -15878,7 +15878,7 @@
         {
             "RP": null,
             "seats": 14,
-            "waitlist": 13,
+            "waitlist": 12,
             "crn": 20182,
             "subject": "MARK",
             "course_code": 1115,
@@ -16005,7 +16005,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 14,
+            "waitlist": 13,
             "crn": 20186,
             "subject": "MARK",
             "course_code": 1115,
@@ -16684,7 +16684,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 26,
+            "waitlist": 25,
             "crn": 20593,
             "subject": "MATH",
             "course_code": 1171,
@@ -19472,7 +19472,7 @@
         {
             "RP": null,
             "seats": 30,
-            "waitlist": 45,
+            "waitlist": 46,
             "crn": 20151,
             "subject": "POLI",
             "course_code": 1119,
@@ -19556,7 +19556,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 46,
+            "waitlist": 47,
             "crn": 20764,
             "subject": "PHOT",
             "course_code": 1100,
@@ -19649,7 +19649,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 47,
+            "waitlist": 48,
             "crn": 20038,
             "subject": "PHOT",
             "course_code": 1100,
@@ -19683,7 +19683,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 47,
+            "waitlist": 48,
             "crn": 20039,
             "subject": "PHOT",
             "course_code": 1100,

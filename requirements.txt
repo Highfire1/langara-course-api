@@ -4,3 +4,4 @@ fastapi
 uvicorn
 schedule
 requests
+pdfquery

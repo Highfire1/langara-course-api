@@ -2,7 +2,7 @@ import pdfquery
 import os
 
 from schema.Catalogue import Catalogue
-from schema.Transer import Transfers, Transfer
+from schema.Transfer import Transfers, Transfer
 '''
 Parses bctransferguide.ca with an ahk script (and much pain)
 

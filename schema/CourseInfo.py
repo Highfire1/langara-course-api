@@ -49,7 +49,6 @@ class attributes(Enum):
     SCI = "SCI"
     SOC = "SOC"
     UT = "UT"
-    
 
 
 class CourseInfo(BaseModel):
@@ -64,8 +63,8 @@ class CourseInfo(BaseModel):
     availability: 'availability'            = Field(description="Availability of course. Extracted automatically - may not be correct. Consult langara advisors if in doubt.")
     last_offered : list[int]                = Field(description="last 5 semesters the course was offered e.g. ```[202310, 202210, 202010, 201910, 201810]```. Note that cancelled sections are included.")
     # how do i get this to show on docs???
-    attributes : dict['attributes', bool]   = Field(description="Langara attributes for a course.")
-    transfer: list[TransferInfo] | None     = Field(description="Information on how the course transfers. Only supports UBC & SFU.")
+    attributes : dict[str, bool]   = Field(description="Langara attributes for a course.")
+    transfer: list[TransferInfo] | None     = Field(description="Information on how the course transfers.")
     prerequisites: list[Prerequisite] | None= Field(description="Prerequisites for the course. Accuracy not guaranteed")
     restriction: str | None                 = Field(description="Program you must be in to register for this course")
     
@@ -97,3 +96,9 @@ class CourseInfo(BaseModel):
                     ],
             }
         }
+
+class CourseInfoAll(BaseModel):
+    courses: list[CourseInfo]    
+    
+    def __init__(__pydantic_self__, **data: any) -> None:
+        super().__init__(**data)
