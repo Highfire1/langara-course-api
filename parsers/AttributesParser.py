@@ -107,7 +107,7 @@ class AttributesParser:
         with open(file_location, "w+") as fi:
             fi.write(save)
         
-    def LoadParseAndSave(self):
-        self.loadPage()
+    def LoadParseAndSave(self, getPageFromWeb:bool = False):
+        self.loadPage(getPageFromWeb=getPageFromWeb)
         self.parsePage()
         self.saveCourses()
