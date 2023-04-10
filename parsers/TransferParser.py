@@ -80,7 +80,7 @@ class TransferParser:
         
     def parse_and_save_transfer_pdfs() -> None:
         pdfs = os.listdir("data/transfer/pdf/")
-        transfers: Transfers = Transfers()
+        transfers: Transfers = Transfers(courses=[])
         
         #pdfs = ["FSRV.pdf"]
         

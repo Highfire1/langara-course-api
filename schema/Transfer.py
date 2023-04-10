@@ -18,7 +18,7 @@ class Transfers(BaseModel):
     courses:list[Transfer]
 
     def __init__(__pydantic_self__, **data: any) -> None:
-        super().__init__(**data, courses=[])
+        super().__init__(**data)
         
     def toJSON(self):
         # ugly but neccessary to pretty print the json file

@@ -15,5 +15,5 @@ class Attributes(BaseModel):
     attributes:list[Attribute]
     
     def __init__(__pydantic_self__, **data: any) -> None:
-        super().__init__(**data, attributes=[])
+        super().__init__(**data)
         

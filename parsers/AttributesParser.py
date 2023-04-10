@@ -56,7 +56,7 @@ class AttributesParser:
         
         
     def parsePage(self) -> None:
-        self.attributesObj:Attributes = Attributes()
+        self.attributesObj:Attributes = Attributes(attributes=[])
         
         soup = BeautifulSoup(self.page, 'lxml')
 
