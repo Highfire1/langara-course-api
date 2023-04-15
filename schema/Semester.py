@@ -78,6 +78,8 @@ class Course(BaseModel):
     notes: str | None                   = Field(description="Notes for a section.")
     schedule:list[ScheduleEntry]        = Field(description="Times that the course meets.")
     
+    yearsemester: str | None  # used internally 
+    
     def __str__(self):
         return f"Course: {self.subject} {self.course} CRN: {self.crn}"
     

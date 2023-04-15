@@ -1,7 +1,7 @@
 from pydantic import BaseModel, Field
 from enum import Enum
 
-from schema.Semester import RPEnum
+from schema.Semester import Course, RPEnum
 from schema.Transfer import Transfer
 
 class institutions(Enum):
@@ -50,6 +50,8 @@ class CourseInfo(BaseModel):
     transfer: list[Transfer] | None     = Field(description="Information on how the course transfers.")
     prerequisites: str | None= Field(description="Prerequisites for the course. Accuracy not guaranteed")
     restriction: str | None                 = Field(description="Program you must be in to register for this course")
+    
+    offered: list[Course] | None # used internally 
     
     class Config:
         schema_extra = {
