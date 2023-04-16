@@ -200,7 +200,7 @@ class CourseInfoBuilder:
             
             prereq = None
             if description != None and "Prerequisite(s): " in description:
-                prereq = self.parsePrerequisite(description.split("Prerequisite(s): ")[-1])
+                prereq = self.parsePrerequisite(description)
             
             c = CourseInfo(
                 RP = restrictions,
@@ -226,8 +226,148 @@ class CourseInfoBuilder:
             #print(c)
         print("Done!")
     
+    
+    
     def parsePrerequisite(self, text:str) -> str:
+        text = text.split("Prerequisite(s): ")[-1]
+        
         return text
+        
+        print(text)
+
+        conditions = []
+        
+        known_conditions = {
+            "; or permission of the instructor." : "or permission of the instructor.",
+            
+            "Permission of the instructor." : "Permission of the instructor.",
+            
+            "Will be announced in the Registration Guide and Course Schedule." : "Will be announced in the Registration Guide and Course Schedule."
+            
+        }
+        
+        for string in known_conditions:
+            if string in text:
+                text = text.replace(string, "")
+                conditions.append(known_conditions[string])
+        
+        
+                
+        if "Corequisite(s):" in text:
+            text = text.split("Corequisite(s):")
+            conditions.append("Corequisite(s):" + text[1])
+            text = text[0].strip()
+        
+        # todo: fix later
+        if "China or Taiwan" in text:
+            conditions.append(text)
+            return
+        if "\n\n" in text:
+            r = text.split("\n\n")
+            text = r[0]
+            conditions.append(text[1])
+        
+        text = text.replace(";", "SPLIT")
+        #text = text.replace(".", "SPLIT") DOESN'T WORK
+        text = text.split("SPLIT")
+        
+        print(text)
+        
+        for i, line in enumerate(text):
+            line = line.strip()
+            
+            if line.isspace():
+                continue
+            
+            overrides = [
+                # Completion of the third year of the Bachelor of Science in Bioinformatics
+                "Bachelor",  
+                # BBA courses
+                "ompletion of a minimum of",
+                "Priority registration in this course is offered",
+                'At least one course in',
+                'or permission of ',
+                'department permission',
+                'Successful completion or concurrent registration in',
+                'must achieve a minimum',
+                'students who need to reinforce their grammar can enrol concurrently',
+                # pain and suffering
+                'Enrolment limited to students of the Study in Greece program',
+                'Must be enrolled in the journalism program, unless otherwise indicated in the Registration Guide and Course Schedule',
+                'Post-Degree Diploma in Web and Mobile App Design and Development',
+                'Registration in this course is restricted to students admitted to Post-Degree Diploma programs with a co-op work term option',
+                # english requirements are horrible
+                'English Studies 12',
+                'LET',
+                'LPI',
+                "IELTS",
+                'TOEFL',
+            ]
+            cont = False
+            for t in overrides:
+                if t in line:
+                    conditions.append(line)
+                    cont = True
+            
+            if cont:
+                continue
+                        
+            if line.strip().startswith("and"):
+                conditions.append(line)
+                continue
+            
+            print("LINE", line)
+
+            parsed = False
+
+            for mark in ["in one of the following", "in all of the following", "in one of", "in all of", " in both ", " in ", "and an "]:
+                
+                if mark in line:
+                    split = line.split(mark, maxsplit=1)
+                                                            
+                    grade = split[0]
+                    # WHY IS THERE CURLY QUOTE
+                    if '“' in grade:
+                        grade = grade.split('“')[1].split('”')[0]
+                    else:
+                        grade = grade.split('"')[1]
+                
+                    courses = split[1]
+                    courses = courses.replace("and", "SPLIT")
+                    courses = courses.replace("or", "SPLIT")
+                    courses = courses.replace(",", "SPLIT")
+                    courses = courses.split("SPLIT")
+                    
+                    courses[0] = courses[0].replace(": ", "")
+                    subject = courses[0][0:4]
+                    
+                    courses[-1] = courses[-1].replace(".", "")
+                    
+                    for j, item in enumerate(courses):
+                        courses[j] = item.strip()
+                        
+                        if courses[j][0:4].isnumeric():
+                            courses[j] = subject + " " + courses[j]
+                    
+                    if "one of" in line or " or " in line:
+                        mode = "one of"
+                    elif "all of" in line or "both of" in line:
+                        mode = "all of"         
+                    else:
+                        mode = "all of"
+                    
+                    conditions.append([grade, mode, str(courses)])
+                    parsed = True
+                    break
+            
+            if not parsed:
+                conditions.append(line)
+                
+                
+        
+        print()
+        print(conditions,"\n\n")
+        return str(conditions)
         if "Corequisite(s): " in text:
             text.split("Corequisite(s): ")
         

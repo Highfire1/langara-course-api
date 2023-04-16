@@ -9,5 +9,10 @@ from parsers.TransferParser import TransferParser
 
 from builders.CourseInfoBuilder import CourseInfoBuilder
 
-c = CourseInfoBuilder()
+from builders.AllBuilder import AllBuilder
+
+c = AllBuilder()
 c.hydrateBuildSave()
+
+
+print("Done!")
