@@ -5,3 +5,5 @@ uvicorn
 schedule
 requests
 pdfquery
+six
+pydantic
