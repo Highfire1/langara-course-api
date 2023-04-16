@@ -2,9 +2,11 @@ import os
 import logging
 import uvicorn
 import schedule
+import sys
+
+from builders.AllBuilder import AllBuilder
 from builders.CourseInfoBuilder import CourseInfoBuilder
 from parsers.CatalogueParser import CatalogueParser
-
 from parsers.SemesterParser import SemesterParser
 from parsers.TransferParser import TransferParser
 from parsers.AttributesParser import AttributesParser
@@ -39,6 +41,21 @@ def parse_build_data(getFromWeb = False):
     
     c = CourseInfoBuilder()
     c.hydrateBuildSave()
+    
+    a = AllBuilder()
+    a.hydrateBuildSave()
+
+def UPDATE_ALL(): 
+    p = SemesterParser(2023, 20)
+    p.loadPageFromWeb()
+    p.parseAndSave()
+
+    parse_build_data()
+    sys.exit()
+    
+# WARNING: this takes 9 minutes and 30 seconds to finish on my laptop
+# TODO: make this faster (?)
+UPDATE_ALL() 
 
 # refresh current semester every 24 hours
 def daily_update():
@@ -46,9 +63,6 @@ def daily_update():
     #p = SemesterParser(2023, 20)
     #p.loadPageFromWeb()
     #p.parseAndSave()
-    
-
-
 
 
 if not os.path.exists("data/json/"):
