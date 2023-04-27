@@ -1,5 +1,5 @@
 {
-    "datetime_retrieved": "2023-04-16 02:27:18",
+    "datetime_retrieved": "2023-04-27 14:25:11",
     "year": 2022,
     "semester": 30,
     "courses_first_day": "2022-12-09",
@@ -1169,7 +1169,7 @@
         },
         {
             "RP": null,
-            "seats": 4,
+            "seats": 5,
             "waitlist": 5,
             "crn": 30266,
             "subject": "AHIS",
@@ -2724,7 +2724,7 @@
         },
         {
             "RP": "P",
-            "seats": 1,
+            "seats": 2,
             "waitlist": 13,
             "crn": 30740,
             "subject": "BIOL",
@@ -4510,7 +4510,7 @@
         },
         {
             "RP": null,
-            "seats": 1,
+            "seats": 2,
             "waitlist": 4,
             "crn": 30501,
             "subject": "BCAP",
@@ -5501,7 +5501,7 @@
         },
         {
             "RP": null,
-            "seats": 9,
+            "seats": 10,
             "waitlist": 1,
             "crn": 30833,
             "subject": "BUSM",
@@ -13570,7 +13570,7 @@
         },
         {
             "RP": "P",
-            "seats": 3,
+            "seats": 4,
             "waitlist": 7,
             "crn": 30379,
             "subject": "CPSC",
@@ -14019,7 +14019,7 @@
         },
         {
             "RP": "P",
-            "seats": 11,
+            "seats": 12,
             "waitlist": null,
             "crn": 30389,
             "subject": "CPSC",
@@ -16685,7 +16685,7 @@
         },
         {
             "RP": null,
-            "seats": 6,
+            "seats": 7,
             "waitlist": 4,
             "crn": 31175,
             "subject": "ECON",
@@ -16790,7 +16790,7 @@
         },
         {
             "RP": null,
-            "seats": 7,
+            "seats": 8,
             "waitlist": 2,
             "crn": 31178,
             "subject": "ECON",
@@ -18051,7 +18051,7 @@
             "title": "Language & Composition I",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -18086,7 +18086,7 @@
             "title": "Language & Composition I",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -18121,7 +18121,7 @@
             "title": "Language & Composition I",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -18156,7 +18156,7 @@
             "title": "Language & Composition I",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -18191,7 +18191,7 @@
             "title": "Language & Composition I",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -18226,7 +18226,7 @@
             "title": "Language & Composition I",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "ENGL 1107 section M01 will also meet for 2 hours per week as a WWW component.**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "ENGL 1107 section M01 will also meet for 2 hours per week as a WWW component. **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -18270,7 +18270,7 @@
             "title": "Language & Composition I",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "ENGL 1107 section M02 will also meet for 2 hours per week as a WWW component.**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "ENGL 1107 section M02 will also meet for 2 hours per week as a WWW component. **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -18358,7 +18358,7 @@
             "title": "Language & Composition II",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "ENGL 1108 section M01 will also meet for 2 hours per week as a WWW component.**Please note: ENGL 1108 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "ENGL 1108 section M01 will also meet for 2 hours per week as a WWW component. **Please note: ENGL 1108 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -18454,7 +18454,7 @@
             "title": "Reading & Writing Skills",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "**Please note: ENGL 1121 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: ENGL 1121 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -18470,7 +18470,7 @@
         },
         {
             "RP": "P",
-            "seats": 6,
+            "seats": 7,
             "waitlist": null,
             "crn": 31024,
             "subject": "ENGL",
@@ -18480,7 +18480,7 @@
             "title": "Reading & Writing Skills",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "**Please note: ENGL 1121 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: ENGL 1121 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -19950,7 +19950,7 @@
         },
         {
             "RP": "P",
-            "seats": 3,
+            "seats": 4,
             "waitlist": 9,
             "crn": 31056,
             "subject": "ENGL",
@@ -29839,7 +29839,7 @@
         },
         {
             "RP": "P",
-            "seats": 3,
+            "seats": 4,
             "waitlist": 5,
             "crn": 30534,
             "subject": "KINS",
@@ -31490,7 +31490,7 @@
         },
         {
             "RP": null,
-            "seats": 2,
+            "seats": 3,
             "waitlist": 34,
             "crn": 30567,
             "subject": "KINS",
@@ -31930,7 +31930,7 @@
         },
         {
             "RP": "P",
-            "seats": 1,
+            "seats": 2,
             "waitlist": 19,
             "crn": 30577,
             "subject": "KINS",
@@ -33946,7 +33946,7 @@
             "title": "Mathematics Skill Development",
             "add_fees": 3.75,
             "rpt_limit": 2,
-            "notes": "**Please note: MATH 1100 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: MATH 1100 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -33981,7 +33981,7 @@
             "title": "Mathematics Skill Development",
             "add_fees": 3.75,
             "rpt_limit": 2,
-            "notes": "**Please note: MATH 1100 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: MATH 1100 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -34016,7 +34016,7 @@
             "title": "Basic Algebra",
             "add_fees": 3.75,
             "rpt_limit": 2,
-            "notes": "**Please note: MATH 1101 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: MATH 1101 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -34401,7 +34401,7 @@
             "title": "Basic & Intermediate Algebra",
             "add_fees": 3.75,
             "rpt_limit": 2,
-            "notes": "**Please note: MATH 1150 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: MATH 1150 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -34436,7 +34436,7 @@
             "title": "Basic & Intermediate Algebra",
             "add_fees": 3.75,
             "rpt_limit": 2,
-            "notes": "**Please note: MATH 1150 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: MATH 1150 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -34724,7 +34724,7 @@
         },
         {
             "RP": "P",
-            "seats": 8,
+            "seats": 9,
             "waitlist": 2,
             "crn": 30693,
             "subject": "MATH",
@@ -43833,7 +43833,7 @@
         },
         {
             "RP": null,
-            "seats": 10,
+            "seats": 11,
             "waitlist": null,
             "crn": 30756,
             "subject": "STAT",

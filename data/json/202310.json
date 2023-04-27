@@ -1,5 +1,5 @@
 {
-    "datetime_retrieved": "2023-04-16 02:27:18",
+    "datetime_retrieved": "2023-04-27 14:25:11",
     "year": 2023,
     "semester": 10,
     "courses_first_day": "2023-1-04",
@@ -917,7 +917,7 @@
         },
         {
             "RP": null,
-            "seats": 1,
+            "seats": 2,
             "waitlist": 1,
             "crn": 11124,
             "subject": "APPL",
@@ -5307,7 +5307,7 @@
         },
         {
             "RP": null,
-            "seats": 6,
+            "seats": 7,
             "waitlist": 10,
             "crn": 10345,
             "subject": "BUSM",
@@ -7452,7 +7452,7 @@
                     "time": "1830-2125",
                     "start": "2023-4-17",
                     "end": "2023-4-17",
-                    "room": "B015",
+                    "room": "B254",
                     "instructor": "Adrienne Petersohn, Neil Mathur"
                 }
             ],
@@ -7540,7 +7540,7 @@
                     "time": "1830-2125",
                     "start": "2023-4-17",
                     "end": "2023-4-17",
-                    "room": "A216",
+                    "room": "B253",
                     "instructor": "Neil Mathur"
                 }
             ],
@@ -9975,7 +9975,7 @@
         },
         {
             "RP": null,
-            "seats": 0,
+            "seats": 1,
             "waitlist": 1,
             "crn": 10878,
             "subject": "CLST",
@@ -16841,7 +16841,7 @@
         },
         {
             "RP": null,
-            "seats": 29,
+            "seats": 30,
             "waitlist": null,
             "crn": 10791,
             "subject": "ECON",
@@ -18273,7 +18273,7 @@
             "title": "Language & Composition I",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -18308,7 +18308,7 @@
             "title": "Language & Composition I",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -18343,7 +18343,7 @@
             "title": "Language & Composition I",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -18378,7 +18378,7 @@
             "title": "Language & Composition I",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -18413,7 +18413,7 @@
             "title": "Language & Composition I",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -18448,7 +18448,7 @@
             "title": "Language & Composition I",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -18483,7 +18483,7 @@
             "title": "Language & Composition I",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -18518,7 +18518,7 @@
             "title": "Language & Composition I",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -18553,7 +18553,7 @@
             "title": "Language & Composition I",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "This section will meet asynchronously and does not have scheduled meeting times. All coursework will be provided through Brightspace or another online platform. Please contact the instructor or department for more information.**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "This section will meet asynchronously and does not have scheduled meeting times. All coursework will be provided through Brightspace or another online platform. Please contact the instructor or department for more information. **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "WWW",
@@ -18588,7 +18588,7 @@
             "title": "Language & Composition I",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "This section will meet asynchronously and does not have scheduled meeting times. All coursework will be provided through Brightspace or another online platform. Please contact the instructor or department for more information.**Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "This section will meet asynchronously and does not have scheduled meeting times. All coursework will be provided through Brightspace or another online platform. Please contact the instructor or department for more information. **Please note: ENGL 1107 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "WWW",
@@ -18623,7 +18623,7 @@
             "title": "Language & Composition II",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "ENGL 1108 section M01 will also meet for 2 hours per week as a WWW component.**Please note: ENGL 1108 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "ENGL 1108 section M01 will also meet for 2 hours per week as a WWW component. **Please note: ENGL 1108 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -18667,7 +18667,7 @@
             "title": "Language & Composition II",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "ENGL 1108 section M02 will also meet for 2 hours per week as a WWW component.**Please note: ENGL 1108 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": "ENGL 1108 section M02 will also meet for 2 hours per week as a WWW component. **Please note: ENGL 1108 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -18763,7 +18763,7 @@
             "title": "Reading & Writing Skills",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "**Please note: ENGL 1121 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: ENGL 1121 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -21196,7 +21196,7 @@
         },
         {
             "RP": "P",
-            "seats": 11,
+            "seats": 12,
             "waitlist": null,
             "crn": 10141,
             "subject": "ENGL",
@@ -21955,7 +21955,7 @@
         },
         {
             "RP": null,
-            "seats": 5,
+            "seats": 6,
             "waitlist": 5,
             "crn": 11186,
             "subject": "FMGT",
@@ -23571,7 +23571,7 @@
                     "time": "0900-1155",
                     "start": "2023-4-15",
                     "end": "2023-4-15",
-                    "room": "C412",
+                    "room": "L103",
                     "instructor": "Shonna Reynolds"
                 }
             ],
@@ -24077,7 +24077,7 @@
         },
         {
             "RP": null,
-            "seats": 3,
+            "seats": 4,
             "waitlist": 7,
             "crn": 11296,
             "subject": "FINA",
@@ -27323,7 +27323,7 @@
         },
         {
             "RP": null,
-            "seats": 9,
+            "seats": 10,
             "waitlist": null,
             "crn": 10768,
             "subject": "HIST",
@@ -27463,7 +27463,7 @@
         },
         {
             "RP": null,
-            "seats": 6,
+            "seats": 7,
             "waitlist": null,
             "crn": 10771,
             "subject": "HIST",
@@ -28209,7 +28209,7 @@
                     "start": null,
                     "end": null,
                     "room": "A254",
-                    "instructor": "Effie Klein"
+                    "instructor": "Petti Fong, Effie Klein"
                 },
                 {
                     "type": "Lecture",
@@ -28218,7 +28218,7 @@
                     "start": null,
                     "end": null,
                     "room": "A254",
-                    "instructor": "Effie Klein"
+                    "instructor": "Petti Fong, Effie Klein"
                 }
             ],
             "yearsemester": null
@@ -33884,7 +33884,7 @@
             "title": "Mathematics Skill Development",
             "add_fees": 3.75,
             "rpt_limit": 2,
-            "notes": "**Please note: MATH 1100 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: MATH 1100 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -33919,7 +33919,7 @@
             "title": "Mathematics Skill Development",
             "add_fees": 3.75,
             "rpt_limit": 2,
-            "notes": "**Please note: MATH 1100 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: MATH 1100 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -33954,7 +33954,7 @@
             "title": "Basic Algebra",
             "add_fees": 3.75,
             "rpt_limit": 2,
-            "notes": "**Please note: MATH 1101 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: MATH 1101 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -34217,7 +34217,7 @@
             "title": "Basic & Intermediate Algebra",
             "add_fees": 3.75,
             "rpt_limit": 2,
-            "notes": "**Please note: MATH 1150 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
+            "notes": " **Please note: MATH 1150 is an Adult Basic Education class and will not be counted towards your credential. Its credits DO NOT count towards enrollment eligibility for Government Student Loans and Grants. Domestic students will not be charged tuition for this class.  For more information, please see the Financial Aid Office**",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -35838,7 +35838,7 @@
                     "start": null,
                     "end": null,
                     "room": "T334",
-                    "instructor": "Patrick de Sousa, Nicole Abaya"
+                    "instructor": "Nicole Abaya, Patrick de Sousa"
                 },
                 {
                     "type": "Exam",
@@ -35873,7 +35873,7 @@
                     "start": null,
                     "end": null,
                     "room": "T334",
-                    "instructor": "Patrick de Sousa, Nicole Abaya"
+                    "instructor": "Nicole Abaya, Patrick de Sousa"
                 },
                 {
                     "type": "Exam",
@@ -45548,7 +45548,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Raes Calvert, Anita Rochon"
+                    "instructor": "Anita Rochon, Raes Calvert"
                 },
                 {
                     "type": "Lecture",
@@ -45557,7 +45557,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Raes Calvert, Anita Rochon"
+                    "instructor": "Anita Rochon, Raes Calvert"
                 },
                 {
                     "type": "Lecture",
@@ -45566,7 +45566,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Raes Calvert, Anita Rochon"
+                    "instructor": "Anita Rochon, Raes Calvert"
                 },
                 {
                     "type": "Lecture",
@@ -45575,7 +45575,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Raes Calvert, Anita Rochon"
+                    "instructor": "Anita Rochon, Raes Calvert"
                 },
                 {
                     "type": "Lecture",
@@ -45584,7 +45584,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Raes Calvert, Anita Rochon"
+                    "instructor": "Anita Rochon, Raes Calvert"
                 }
             ],
             "yearsemester": null
@@ -45610,7 +45610,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Wendy Gorling, Kathleen McDonagh, Michelle Olson, Shelley Hunt"
+                    "instructor": "Kathleen McDonagh, Michelle Olson, Shelley Hunt, Wendy Gorling"
                 },
                 {
                     "type": "Lecture",
@@ -45619,7 +45619,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Wendy Gorling, Kathleen McDonagh, Michelle Olson, Shelley Hunt"
+                    "instructor": "Kathleen McDonagh, Michelle Olson, Shelley Hunt, Wendy Gorling"
                 },
                 {
                     "type": "Lecture",
@@ -45628,7 +45628,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Wendy Gorling, Kathleen McDonagh, Michelle Olson, Shelley Hunt"
+                    "instructor": "Kathleen McDonagh, Michelle Olson, Shelley Hunt, Wendy Gorling"
                 },
                 {
                     "type": "Lecture",
@@ -45637,7 +45637,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Wendy Gorling, Kathleen McDonagh, Michelle Olson, Shelley Hunt"
+                    "instructor": "Kathleen McDonagh, Michelle Olson, Shelley Hunt, Wendy Gorling"
                 },
                 {
                     "type": "Lecture",
@@ -45646,7 +45646,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Wendy Gorling, Kathleen McDonagh, Michelle Olson, Shelley Hunt"
+                    "instructor": "Kathleen McDonagh, Michelle Olson, Shelley Hunt, Wendy Gorling"
                 },
                 {
                     "type": "Lecture",
@@ -45655,7 +45655,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Wendy Gorling, Kathleen McDonagh, Michelle Olson, Shelley Hunt"
+                    "instructor": "Kathleen McDonagh, Michelle Olson, Shelley Hunt, Wendy Gorling"
                 },
                 {
                     "type": "Lecture",
@@ -45664,7 +45664,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Wendy Gorling, Kathleen McDonagh, Michelle Olson, Shelley Hunt"
+                    "instructor": "Kathleen McDonagh, Michelle Olson, Shelley Hunt, Wendy Gorling"
                 }
             ],
             "yearsemester": null
@@ -45822,7 +45822,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Wendy Gorling, Kathleen McDonagh, Michelle Olson, Shelley Hunt"
+                    "instructor": "Kathleen McDonagh, Michelle Olson, Shelley Hunt, Wendy Gorling"
                 },
                 {
                     "type": "Lecture",
@@ -45831,7 +45831,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Wendy Gorling, Kathleen McDonagh, Michelle Olson, Shelley Hunt"
+                    "instructor": "Kathleen McDonagh, Michelle Olson, Shelley Hunt, Wendy Gorling"
                 },
                 {
                     "type": "Lecture",
@@ -45840,7 +45840,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Wendy Gorling, Kathleen McDonagh, Michelle Olson, Shelley Hunt"
+                    "instructor": "Kathleen McDonagh, Michelle Olson, Shelley Hunt, Wendy Gorling"
                 },
                 {
                     "type": "Lecture",
@@ -45849,7 +45849,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Wendy Gorling, Kathleen McDonagh, Michelle Olson, Shelley Hunt"
+                    "instructor": "Kathleen McDonagh, Michelle Olson, Shelley Hunt, Wendy Gorling"
                 },
                 {
                     "type": "Lecture",
@@ -45858,7 +45858,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Wendy Gorling, Kathleen McDonagh, Michelle Olson, Shelley Hunt"
+                    "instructor": "Kathleen McDonagh, Michelle Olson, Shelley Hunt, Wendy Gorling"
                 },
                 {
                     "type": "Lecture",
@@ -45867,7 +45867,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Wendy Gorling, Kathleen McDonagh, Michelle Olson, Shelley Hunt"
+                    "instructor": "Kathleen McDonagh, Michelle Olson, Shelley Hunt, Wendy Gorling"
                 },
                 {
                     "type": "Lecture",
@@ -45876,7 +45876,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Wendy Gorling, Kathleen McDonagh, Michelle Olson, Shelley Hunt"
+                    "instructor": "Kathleen McDonagh, Michelle Olson, Shelley Hunt, Wendy Gorling"
                 }
             ],
             "yearsemester": null
@@ -45981,7 +45981,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Jessica Oostergo"
+                    "instructor": "David Hudgins, Jessica Oostergo"
                 },
                 {
                     "type": "Lecture",
@@ -45990,7 +45990,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Jessica Oostergo"
+                    "instructor": "David Hudgins, Jessica Oostergo"
                 },
                 {
                     "type": "Exam",
@@ -46078,7 +46078,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Shelley Hunt, Kathleen McDonagh"
+                    "instructor": "Kathleen McDonagh, Shelley Hunt"
                 },
                 {
                     "type": "Lecture",
@@ -46087,7 +46087,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Shelley Hunt, Kathleen McDonagh"
+                    "instructor": "Kathleen McDonagh, Shelley Hunt"
                 },
                 {
                     "type": "Lecture",
@@ -46096,7 +46096,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Shelley Hunt, Kathleen McDonagh"
+                    "instructor": "Kathleen McDonagh, Shelley Hunt"
                 },
                 {
                     "type": "Lecture",
@@ -46105,7 +46105,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Shelley Hunt, Kathleen McDonagh"
+                    "instructor": "Kathleen McDonagh, Shelley Hunt"
                 }
             ],
             "yearsemester": null
@@ -46131,7 +46131,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Jennifer L Andersen, Brad Gibson"
+                    "instructor": "Brad Gibson, Jennifer L Andersen"
                 },
                 {
                     "type": "Lecture",
@@ -46140,7 +46140,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Jennifer L Andersen, Brad Gibson"
+                    "instructor": "Brad Gibson, Jennifer L Andersen"
                 },
                 {
                     "type": "Lecture",
@@ -46149,7 +46149,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Jennifer L Andersen, Brad Gibson"
+                    "instructor": "Brad Gibson, Jennifer L Andersen"
                 }
             ],
             "yearsemester": null
@@ -46210,7 +46210,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Courtenay Dobbie, . TBA, Kerry Sandomirsky"
+                    "instructor": ". TBA, Courtenay Dobbie, Kerry Sandomirsky"
                 },
                 {
                     "type": "Lecture",
@@ -46219,7 +46219,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Courtenay Dobbie, . TBA, Kerry Sandomirsky"
+                    "instructor": ". TBA, Courtenay Dobbie, Kerry Sandomirsky"
                 }
             ],
             "yearsemester": null
@@ -46297,7 +46297,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "David Bloom, Brad Gibson, David Hudgins, Kerry Sandomirsky, Michelle Olson"
+                    "instructor": "Brad Gibson, David Bloom, David Hudgins, Kerry Sandomirsky, Michelle Olson"
                 }
             ],
             "yearsemester": null
@@ -46323,7 +46323,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Alan Brodie, Candelario Andrade Gutierrez, Jessica Oostergo, Malcolm Dow, Mara Gottler, Rachel Kane"
+                    "instructor": "David Hudgins, Alan Brodie, Candelario Andrade Gutierrez, Jessica Oostergo, Malcolm Dow, Mara Gottler, Rachel Kane"
                 },
                 {
                     "type": "Lecture",
@@ -46332,7 +46332,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "Alan Brodie, Candelario Andrade Gutierrez, Jessica Oostergo, Malcolm Dow, Mara Gottler, Rachel Kane"
+                    "instructor": "David Hudgins, Alan Brodie, Candelario Andrade Gutierrez, Jessica Oostergo, Malcolm Dow, Mara Gottler, Rachel Kane"
                 },
                 {
                     "type": "Lecture",
@@ -46341,7 +46341,7 @@
                     "start": null,
                     "end": null,
                     "room": "A247",
-                    "instructor": "Alan Brodie, Candelario Andrade Gutierrez, Jessica Oostergo, Malcolm Dow, Mara Gottler, Rachel Kane"
+                    "instructor": "David Hudgins, Alan Brodie, Candelario Andrade Gutierrez, Jessica Oostergo, Malcolm Dow, Mara Gottler, Rachel Kane"
                 }
             ],
             "yearsemester": null
@@ -46367,7 +46367,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "David Bloom, . TBA, Brad Gibson, Courtenay Dobbie, Kathleen McDonagh, Kerry Sandomirsky, Michelle Olson, Shane Raman, Shelley Hunt, Wendy Gorling"
+                    "instructor": "Brad Gibson, . TBA, Courtenay Dobbie, David Bloom, Kathleen McDonagh, Kerry Sandomirsky, Michelle Olson, Shane Raman, Shelley Hunt, Wendy Gorling"
                 }
             ],
             "yearsemester": null
@@ -46393,7 +46393,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "David Bloom, Alan Brodie, Brad Gibson, Courtenay Dobbie, Kathleen McDonagh, Kerry Sandomirsky, Shane Raman"
+                    "instructor": "Brad Gibson, Alan Brodie, Courtenay Dobbie, David Bloom, Kathleen McDonagh, Kerry Sandomirsky, Shane Raman"
                 },
                 {
                     "type": "Lecture",
@@ -46402,7 +46402,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "David Bloom, Alan Brodie, Brad Gibson, Courtenay Dobbie, Kathleen McDonagh, Kerry Sandomirsky, Shane Raman"
+                    "instructor": "Brad Gibson, Alan Brodie, Courtenay Dobbie, David Bloom, Kathleen McDonagh, Kerry Sandomirsky, Shane Raman"
                 },
                 {
                     "type": "Lecture",
@@ -46411,7 +46411,7 @@
                     "start": null,
                     "end": null,
                     "room": "TBSCH",
-                    "instructor": "David Bloom, Alan Brodie, Brad Gibson, Courtenay Dobbie, Kathleen McDonagh, Kerry Sandomirsky, Shane Raman"
+                    "instructor": "Brad Gibson, Alan Brodie, Courtenay Dobbie, David Bloom, Kathleen McDonagh, Kerry Sandomirsky, Shane Raman"
                 }
             ],
             "yearsemester": null

@@ -16,9 +16,10 @@ TODO: some subjects need to be cut in half because the api just can't handle the
 
 class TransferParser:
     
-    # 1) navigate to 
-    # 2) click on the page
-    # 3) open console and paste this in
+    # 1) navigate to https://www.bctransferguide.ca/transfer-options/search-courses/?fromTo=from
+    # 2) select LANGARA
+    # 3) click on the page
+    # 4) open console and paste this in
     # navigator.clipboard.writeText(document.getElementsByClassName("multiselect__content")[2].innerHTML)
     # paste the output into here
     def transfer_courses_generator() -> dict[str, str]:
@@ -47,6 +48,7 @@ class TransferParser:
             
         }
         
+        
         for course in cat.courses:
             if course.subject not in all_courses:
                 all_courses[course.subject] = []
@@ -65,6 +67,7 @@ class TransferParser:
             if subject not in available_transfers:
                 continue
             
+            # TODO: limit to 20 courses per subject so its less laggy
             
             out += f"{subject} - {available_transfers[subject]}:"
             

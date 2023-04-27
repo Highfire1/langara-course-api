@@ -11258,18 +11258,6 @@
         },
         {
             "subject": "NURS",
-            "course_code": 3164,
-            "credits": 2.5,
-            "hours": {
-                "lecture": 0.0,
-                "seminar": 15.0,
-                "lab": 0.0
-            },
-            "title": "Nursing Practice V: Adult as Client III (A): Medical-Surgical",
-            "description": "Discontinued as of Summer Semester 2023\n\nThis guided group-based course provides opportunities for students to learn and to begin developing their nursing practice and leadership skills. Students will have opportunities to work with individuals, families, and groups, experiencing health challenges in the promotion of health and healing, within the context of medical-surgical and home health care settings.\n\nThe course focuses on the core concepts of critical thinking, evidence-informed decision making, health promotion, and relational practice. Emphasis will also be placed on the student's ability to use the British Columbia College of Nurses and Midwives (BCCNM) principles, roles, and competencies at the Term Five level. Graded S/U.\n\nPlease do not register for any courses on practice days as Nursing Practice may be scheduled during the evening hours.\n\nRegistration in this course is restricted to the Bachelor of Science in Nursing.\n\nPrerequisite(s): A minimum \"C+\" grade in all of the following: BIOL 3192, NURS 2209, 2260, and 2261; and an \"S\" grade in NURS 2263.\n\nCorequisite(s): NURS 2221, 3130, 3160, 3161, and 3165.\n\nStudents are not eligible for an aegrotat or deferred standing in this course. See Policies E2007 and E2011."
-        },
-        {
-            "subject": "NURS",
             "course_code": 3165,
             "credits": 2.5,
             "hours": {
@@ -11342,18 +11330,6 @@
         },
         {
             "subject": "NURS",
-            "course_code": 3309,
-            "credits": 3.0,
-            "hours": {
-                "lecture": 4.0,
-                "seminar": 0.0,
-                "lab": 0.0
-            },
-            "title": "Health IV: Community Health",
-            "description": "Discontinued as of Summer Semester 2023\n\nBuilding upon Health I, II, and III this course provides students with the opportunity to further explore public health from a socio-ecological perspective through the application of primary health care and the determinants of health within the context of community development and empowerment. Students continue to develop their understanding population and community health by exploring community participation, collaboration, and capacity building, from a social justice perspective, with an emphasis on the underlying principles of community based and community developed programming. Promoting and protecting the health of all is stressed. A key feature of this course is community assessment and promoting the health of marginalized communities, including but not limited to Aboriginal people, women, older adults, children, working homeless and immigrant populations. Delivered in a mixed-mode format.\n\nPrerequisite(s): A minimum \"C+\" grade in all of the following: NURS 3209, 3261, 3262, and PHIL 1105; and an \"S\" in NURS 3263 or NURS 3264 and 3265.\n\nCorequisite(s): NURS 3321, 3362, and 3363."
-        },
-        {
-            "subject": "NURS",
             "course_code": 3321,
             "credits": 3.0,
             "hours": {
@@ -11363,30 +11339,6 @@
             },
             "title": "Professional Growth IV: Nurse as Leader",
             "description": "Formerly NURS 3361\n\nStudents enhance their leadership capacity to influence change for the promotion of health. Using a decision making framework, students implement strategies for continuous quality improvement. Students examine and critique healthcare policy and explore ways to advocate for change at personal, professional, community, and societal levels. They explore and apply leadership and change theory with a focus on enhancing interprofessional practice. Students critically examine the effectiveness of informatics tools and processes.\n\nRegistration in this course is restricted to students admitted to the Bachelor of Science in Nursing.\n\nStudents will receive credit for only one of NURS 3321, 3361, or 4121.\n\nPrerequisite(s): A minimum \"C+\" grade in NURS 3161, 3367, and 4100; and an \"S\" grade in NURS 3165 and 3364.\n\nCorequisite(s): NURS 4161 and 4163."
-        },
-        {
-            "subject": "NURS",
-            "course_code": 3362,
-            "credits": 3.0,
-            "hours": {
-                "lecture": 4.0,
-                "seminar": 0.0,
-                "lab": 0.0
-            },
-            "title": "Nursing Knowledge VII: Nursing Care of Adult/Older Adult Community Clients",
-            "description": "Discontinued as of Summer Semester 2023\n\nFormerly NURS 3330\n\nStudents examine concepts related to common alterations in health and the essential nursing care of clients, families, groups, and populations within community settings. Assessment, reflective practice, nursing skills, and relational practice are explored within the context of community care for clients, groups, and the inter-professional team. Students apply principles of chronic disease management, senior's care, and palliative care to diverse populations.\n\nRegistration in this course is restricted to students admitted to the Bachelor of Science in Nursing.\n\nStudents will receive credit for only one of NURS 3330 or 3362.\n\nPrerequisite(s): A minimum \"C+\" grade in all of the following: NURS 3209, 3261, 3262, and PHIL 1105; and an \"S\" grade in NURS 3264 and 3265.\n\nCorequisite(s): NURS 3309, 3321, and 3363."
-        },
-        {
-            "subject": "NURS",
-            "course_code": 3363,
-            "credits": 5.0,
-            "hours": {
-                "lecture": 0.0,
-                "seminar": 15.0,
-                "lab": 0.0
-            },
-            "title": "Nursing Practice VII: Populations as Client",
-            "description": "Discontinued as of Summer Semester 2023\n\nFormerly NURS 3246\n\nThis guided group-based practice course provides opportunities for students to learn and to begin developing their nursing practice and leadership skills. Students will have opportunities to work with populations, in the promotion of health and healing, within the context of community settings.\n\nThe course focuses on the core concepts of critical thinking, evidenced-informed decision making, health promotion, and relational practice. Emphasis will also be placed on the student's ability to use the British Columbia College of Nurses and Midwives (BCCNM) principles, roles, and competencies at the Term Seven level. Graded S/U.\n\nDo not register for any courses on practice days.\n\nPrerequisite(s): A minimum \"C+\" grade in all of the following: NURS 3209, 3261, 3262, and PHIL 1105; and an \"S\" grade in NURS 3263 or NURS 3264 and 3265.\n\nCorequisite(s): NURS 3309, 3321, and 3362.\n\nNote: Students are not eligible for an aegrotat or deferred standing in this course. See Policy E2007 Course Credit: Special Consideration."
         },
         {
             "subject": "NURS",

@@ -37,14 +37,15 @@ def parse_build_data(getFromWeb = False):
     a = AllBuilder()
     a.hydrateBuildSave()
 
-def UPDATE_ALL(): 
+def UPDATE_ALL(getFromWeb = False): 
     p = SemesterParser(2023, 20)
     p.loadPageFromWeb()
     p.parseAndSave()
 
-    parse_build_data()
+    parse_build_data(getFromWeb=getFromWeb)
     sys.exit()
     
 # WARNING: this takes 9 minutes and 30 seconds to finish on my laptop
+# DOUBLE WARNING: this takes 18 minutes if you download new data
 # TODO: make this faster (?)
-UPDATE_ALL() 
+UPDATE_ALL(getFromWeb=False) 
