@@ -8,10 +8,6 @@ from schema.Transfer import Transfer
 class institutions(Enum):
     SFU = "SFU"
     UBCV = "UBCV"
-
-class Prerequisite(BaseModel):
-    pass
-
   
 class availability(Enum):
     spring =        "Spring"
@@ -32,7 +28,22 @@ class attributes(Enum):
     SCI = "SCI"
     SOC = "SOC"
     UT = "UT"
+    
+class PrereqEnum(Enum):
+    ALL_OF = "ALL OF"
+    ONE_OF = "ONE OF"
+    COREQ = "COREQ"
+    REQ = "REQ"
 
+class Grade(BaseModel):
+    course : str
+    grade : str | None
+    
+class Prerequisite(BaseModel):
+    type : PrereqEnum
+    # ignore pylance here
+    requirements : list['Prerequisite'] | list[Grade]
+    
 
 class CourseInfo(BaseModel):
     RP : RPEnum | None           = Field(description='Prerequisites of the course.')
@@ -49,7 +60,7 @@ class CourseInfo(BaseModel):
     # how do i get this to show on docs???
     attributes : dict[str, bool] | None  = Field(description="Langara attributes for a course.")
     transfer: list[Transfer] | None     = Field(description="Information on how the course transfers.")
-    prerequisites: str | None= Field(description="Prerequisites for the course. Accuracy not guaranteed")
+    prerequisites: Prerequisite | None= Field(description="Prerequisites for the course. Accuracy not guaranteed! Please report bugs!")
     restriction: str | None                 = Field(description="Program you must be in to register for this course")
     
     offered: list[Course] | None # used internally 

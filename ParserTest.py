@@ -1,3 +1,6 @@
+import sys
+from builders.AllBuilder import AllBuilder
+from builders.CourseInfoBuilder import CourseInfoBuilder
 from schema.Semester import Semester
 from parsers.SemesterParser import SemesterParser
 
@@ -12,6 +15,10 @@ modes = [
 ]
 
 
+a = CourseInfoBuilder()
+a.hydrateBuildSave()
+
+sys.exit()
 
 print("Select a mode:")
 for i, mode in enumerate(modes):
