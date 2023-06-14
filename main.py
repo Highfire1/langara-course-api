@@ -1,4 +1,5 @@
 import os
+import sys
 import logging
 import uvicorn
 import schedule
@@ -10,7 +11,7 @@ from build import parse_build_data
 # refresh current semester every 24 hours
 def daily_update():
     logging.info("Fetching fresh course data from the Langara website.")
-    p = SemesterParser(2023, 20)
+    p = SemesterParser(2021, 30)
     p.loadPageFromWeb()
     p.parseAndSave()
 
