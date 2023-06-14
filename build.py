@@ -48,4 +48,5 @@ def UPDATE_ALL(getFromWeb = False):
 # WARNING: this takes 9 minutes and 30 seconds to finish on my laptop
 # DOUBLE WARNING: this takes 18 minutes if you download new data
 # TODO: make this faster (?)
-UPDATE_ALL(getFromWeb=False) 
+if __name__ == "__main__":
+    UPDATE_ALL(getFromWeb=False) 
