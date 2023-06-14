@@ -339,5 +339,11 @@ def formatDate(date:str) -> datetime.date:
         
     date = date.split("-")
     months = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]
-    return f"20{date[2]}-{months.index(date[1].lower())+1}-{date[0]}"
+    
+    month = months.index(date[1].lower())+1
+    if month <= 9:
+        month = "0" + str(month)
+    
+    out = f"20{date[2]}-{month}-{date[0]}"
+    return out
     
