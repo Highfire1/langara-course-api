@@ -38,7 +38,7 @@ def parse_build_data(getFromWeb = False):
     a.hydrateBuildSave()
 
 def UPDATE_ALL(getFromWeb = False): 
-    p = SemesterParser(2023, 20)
+    p = SemesterParser(2023, 30)
     p.loadPageFromWeb()
     p.parseAndSave()
 
