@@ -1,9 +1,9 @@
 {
-    "datetime_retrieved": "2023-04-27 14:25:11",
+    "datetime_retrieved": "2023-06-13 21:39:51",
     "year": 2012,
     "semester": 20,
-    "courses_first_day": "2012-5-07",
-    "courses_last_day": "2012-8-09",
+    "courses_first_day": "2012-05-07",
+    "courses_last_day": "2012-08-09",
     "courses": [
         {
             "RP": "R",
@@ -93,8 +93,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1330-1525",
-                    "start": "2012-8-17",
-                    "end": "2012-8-17",
+                    "start": "2012-08-17",
+                    "end": "2012-08-17",
                     "room": "B008",
                     "instructor": "Sharon Tokar"
                 }
@@ -119,8 +119,8 @@
                     "type": "Field School",
                     "days": "-------",
                     "time": "-",
-                    "start": "2012-4-28",
-                    "end": "2012-6-01",
+                    "start": "2012-04-28",
+                    "end": "2012-06-01",
                     "room": "OFFC",
                     "instructor": "Bruce Hanbury, Anne Kristiansen"
                 }
@@ -145,8 +145,8 @@
                     "type": "Lecture",
                     "days": "M-W----",
                     "time": "1330-1620",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "B021",
                     "instructor": "Denise Panchysyn"
                 }
@@ -171,8 +171,8 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1330-1620",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "B021",
                     "instructor": "Denise Panchysyn"
                 }
@@ -197,8 +197,8 @@
                     "type": "Lecture",
                     "days": "MT-----",
                     "time": "1330-1620",
-                    "start": "2012-6-25",
-                    "end": "2012-8-03",
+                    "start": "2012-06-25",
+                    "end": "2012-08-03",
                     "room": "B021",
                     "instructor": "Denise Panchysyn"
                 },
@@ -206,8 +206,8 @@
                     "type": "Exam",
                     "days": "M------",
                     "time": "0830-1025",
-                    "start": "2012-8-13",
-                    "end": "2012-8-13",
+                    "start": "2012-08-13",
+                    "end": "2012-08-13",
                     "room": "A351",
                     "instructor": "Denise Panchysyn"
                 }
@@ -232,8 +232,8 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1230-1420",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "B152",
                     "instructor": "James Placzek"
                 }
@@ -258,8 +258,8 @@
                     "type": "Field School",
                     "days": "-------",
                     "time": "-",
-                    "start": "2012-5-21",
-                    "end": "2012-6-12",
+                    "start": "2012-05-21",
+                    "end": "2012-06-12",
                     "room": "OFFC",
                     "instructor": "Nariko Takayanagi"
                 }
@@ -284,8 +284,8 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1030-1220",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "A136B",
                     "instructor": "Li Yu"
                 }
@@ -328,8 +328,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1330-1525",
-                    "start": "2012-8-15",
-                    "end": "2012-8-15",
+                    "start": "2012-08-15",
+                    "end": "2012-08-15",
                     "room": "A308",
                     "instructor": "Kimberly Hruska"
                 }
@@ -372,8 +372,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1330-1525",
-                    "start": "2012-8-15",
-                    "end": "2012-8-15",
+                    "start": "2012-08-15",
+                    "end": "2012-08-15",
                     "room": "A306",
                     "instructor": "Cam MacDonald"
                 }
@@ -416,8 +416,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1330-1525",
-                    "start": "2012-8-15",
-                    "end": "2012-8-15",
+                    "start": "2012-08-15",
+                    "end": "2012-08-15",
                     "room": "A307",
                     "instructor": "Ji Yong Yang"
                 }
@@ -495,8 +495,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1330-1525",
-                    "start": "2012-8-14",
-                    "end": "2012-8-14",
+                    "start": "2012-08-14",
+                    "end": "2012-08-14",
                     "room": "A308",
                     "instructor": "Nadine Beaulieu"
                 }
@@ -539,8 +539,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A136B",
                     "instructor": "Stephen Connor"
                 }
@@ -583,8 +583,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A136B",
                     "instructor": "Stephen Connor"
                 }
@@ -627,8 +627,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A306",
                     "instructor": "Kimberly Hruska"
                 }
@@ -680,8 +680,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A320",
                     "instructor": "Hong Xiang"
                 }
@@ -733,8 +733,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A321",
                     "instructor": "Nadine Beaulieu"
                 }
@@ -777,8 +777,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1330-1525",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "A306",
                     "instructor": "Cam MacDonald"
                 }
@@ -821,8 +821,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1330-1525",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "A308",
                     "instructor": "Kimberly Hruska"
                 }
@@ -900,8 +900,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1100-1255",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "A122B",
                     "instructor": "Nadine Beaulieu"
                 }
@@ -935,8 +935,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1100-1255",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "A307",
                     "instructor": "Stephen Connor"
                 }
@@ -979,8 +979,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1100-1255",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "A122B",
                     "instructor": "Nadine Beaulieu"
                 }
@@ -1014,8 +1014,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A308",
                     "instructor": "Melisa Hamilton"
                 }
@@ -1058,8 +1058,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "A308",
                     "instructor": "Cam MacDonald"
                 }
@@ -1093,8 +1093,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1330-1525",
-                    "start": "2012-8-14",
-                    "end": "2012-8-14",
+                    "start": "2012-08-14",
+                    "end": "2012-08-14",
                     "room": "L103",
                     "instructor": "Phil Mentacos"
                 }
@@ -1119,8 +1119,8 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1230-1420",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "L103",
                     "instructor": "Phil Mentacos"
                 }
@@ -1154,8 +1154,8 @@
                     "type": "Exam",
                     "days": "M------",
                     "time": "1330-1525",
-                    "start": "2012-8-13",
-                    "end": "2012-8-13",
+                    "start": "2012-08-13",
+                    "end": "2012-08-13",
                     "room": "WWW",
                     "instructor": "Phil Mentacos"
                 }
@@ -1189,8 +1189,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1330-1525",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "L103",
                     "instructor": "Kandey Larden"
                 }
@@ -1224,8 +1224,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1330-1525",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "L104",
                     "instructor": "Deland Jessop"
                 }
@@ -1250,8 +1250,8 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1430-1620",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "B245",
                     "instructor": "Kevin Koonar"
                 }
@@ -1285,8 +1285,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-14",
-                    "end": "2012-8-14",
+                    "start": "2012-08-14",
+                    "end": "2012-08-14",
                     "room": "WWW",
                     "instructor": "Kandey Larden"
                 }
@@ -1320,8 +1320,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "0830-1025",
-                    "start": "2012-8-17",
-                    "end": "2012-8-17",
+                    "start": "2012-08-17",
+                    "end": "2012-08-17",
                     "room": "B246",
                     "instructor": "Deland Jessop"
                 }
@@ -1355,8 +1355,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1830-2025",
-                    "start": "2012-8-16",
-                    "end": "2012-8-16",
+                    "start": "2012-08-16",
+                    "end": "2012-08-16",
                     "room": "B246",
                     "instructor": "Paul LeDressay"
                 }
@@ -1381,8 +1381,8 @@
                     "type": "Lecture",
                     "days": "-----S-",
                     "time": "0930-1220",
-                    "start": "2012-5-07",
-                    "end": "2012-6-30",
+                    "start": "2012-05-07",
+                    "end": "2012-06-30",
                     "room": "B254",
                     "instructor": "Paul LeDressay"
                 },
@@ -1390,8 +1390,8 @@
                     "type": "Lecture",
                     "days": "-----S-",
                     "time": "0900-1220",
-                    "start": "2012-7-07",
-                    "end": "2012-8-03",
+                    "start": "2012-07-07",
+                    "end": "2012-08-03",
                     "room": "A348",
                     "instructor": "Paul LeDressay"
                 },
@@ -1399,8 +1399,8 @@
                     "type": "Exam",
                     "days": "-----S-",
                     "time": "0900-1055",
-                    "start": "2012-8-11",
-                    "end": "2012-8-11",
+                    "start": "2012-08-11",
+                    "end": "2012-08-11",
                     "room": "A351",
                     "instructor": "Paul LeDressay"
                 }
@@ -1434,8 +1434,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1830-2025",
-                    "start": "2012-8-16",
-                    "end": "2012-8-16",
+                    "start": "2012-08-16",
+                    "end": "2012-08-16",
                     "room": "B245",
                     "instructor": "Linda Alexander"
                 }
@@ -1460,8 +1460,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1830-2120",
-                    "start": "2012-5-07",
-                    "end": "2012-8-17",
+                    "start": "2012-05-07",
+                    "end": "2012-08-17",
                     "room": " ",
                     "instructor": " "
                 }
@@ -1512,8 +1512,8 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1030-1220",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "B253",
                     "instructor": "Antonella Alves"
                 }
@@ -1547,8 +1547,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-15",
-                    "end": "2012-8-15",
+                    "start": "2012-08-15",
+                    "end": "2012-08-15",
                     "room": "B246",
                     "instructor": "Noel Genoway"
                 }
@@ -1582,8 +1582,8 @@
                     "type": "Exam",
                     "days": "M------",
                     "time": "1330-1525",
-                    "start": "2012-8-13",
-                    "end": "2012-8-13",
+                    "start": "2012-08-13",
+                    "end": "2012-08-13",
                     "room": "WWW",
                     "instructor": "Linda Alexander"
                 }
@@ -1617,8 +1617,8 @@
                     "type": "Exam",
                     "days": "M------",
                     "time": "1330-1525",
-                    "start": "2012-8-13",
-                    "end": "2012-8-13",
+                    "start": "2012-08-13",
+                    "end": "2012-08-13",
                     "room": "B252",
                     "instructor": "Noel Genoway"
                 }
@@ -1652,8 +1652,8 @@
                     "type": "Exam",
                     "days": "M------",
                     "time": "1330-1525",
-                    "start": "2012-8-13",
-                    "end": "2012-8-13",
+                    "start": "2012-08-13",
+                    "end": "2012-08-13",
                     "room": "B246",
                     "instructor": "Ellen Hamer"
                 }
@@ -1687,8 +1687,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1830-2025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "B245",
                     "instructor": "Noel Genoway"
                 }
@@ -1713,8 +1713,8 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1630-1820",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "B253",
                     "instructor": "Linda Alexander"
                 }
@@ -1739,8 +1739,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "0830-1220",
-                    "start": "2012-6-04",
-                    "end": "2012-8-03",
+                    "start": "2012-06-04",
+                    "end": "2012-08-03",
                     "room": "C510",
                     "instructor": "Linda Alexander"
                 },
@@ -1748,8 +1748,8 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1030-1220",
-                    "start": "2012-6-04",
-                    "end": "2012-8-03",
+                    "start": "2012-06-04",
+                    "end": "2012-08-03",
                     "room": "C510",
                     "instructor": "Linda Alexander"
                 }
@@ -1783,8 +1783,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1830-2025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "WWW",
                     "instructor": "Linda Alexander"
                 }
@@ -1818,8 +1818,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1830-2025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "WWW",
                     "instructor": "Erin Wilkins"
                 }
@@ -1879,8 +1879,8 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1330-1620",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "C122",
                     "instructor": "Kevin Rolston"
                 },
@@ -1888,8 +1888,8 @@
                     "type": "Lecture",
                     "days": "-------",
                     "time": "-",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "WWW",
                     "instructor": "Kevin Rolston"
                 }
@@ -1966,8 +1966,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1830-2120",
-                    "start": "2012-5-07",
-                    "end": "2012-6-14",
+                    "start": "2012-05-07",
+                    "end": "2012-06-14",
                     "room": "B252",
                     "instructor": "Phil Mentacos"
                 },
@@ -1975,8 +1975,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1830-2120",
-                    "start": "2012-6-21",
-                    "end": "2012-8-03",
+                    "start": "2012-06-21",
+                    "end": "2012-08-03",
                     "room": "L103",
                     "instructor": "Phil Mentacos"
                 },
@@ -1984,8 +1984,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1830-2125",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "B245",
                     "instructor": "Phil Mentacos"
                 }
@@ -2019,8 +2019,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "WWW",
                     "instructor": "Caroline Dickson"
                 }
@@ -2054,8 +2054,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1830-2125",
-                    "start": "2012-8-14",
-                    "end": "2012-8-14",
+                    "start": "2012-08-14",
+                    "end": "2012-08-14",
                     "room": "B010",
                     "instructor": "Caroline Dickson"
                 }
@@ -2089,8 +2089,8 @@
                     "type": "Lecture",
                     "days": "-----S-",
                     "time": "0900-1600",
-                    "start": "2012-5-12",
-                    "end": "2012-5-12",
+                    "start": "2012-05-12",
+                    "end": "2012-05-12",
                     "room": "L303",
                     "instructor": "Spencer Dane, Andrew Hiscox"
                 },
@@ -2098,8 +2098,8 @@
                     "type": "Lecture",
                     "days": "------U",
                     "time": "0900-1600",
-                    "start": "2012-5-13",
-                    "end": "2012-5-13",
+                    "start": "2012-05-13",
+                    "end": "2012-05-13",
                     "room": "L303",
                     "instructor": "Spencer Dane, Andrew Hiscox"
                 },
@@ -2107,8 +2107,8 @@
                     "type": "Lecture",
                     "days": "-----S-",
                     "time": "0900-1600",
-                    "start": "2012-6-02",
-                    "end": "2012-6-02",
+                    "start": "2012-06-02",
+                    "end": "2012-06-02",
                     "room": "B251",
                     "instructor": "Spencer Dane, Andrew Hiscox"
                 },
@@ -2116,8 +2116,8 @@
                     "type": "Lecture",
                     "days": "-----S-",
                     "time": "0900-1600",
-                    "start": "2012-6-09",
-                    "end": "2012-6-09",
+                    "start": "2012-06-09",
+                    "end": "2012-06-09",
                     "room": "B251",
                     "instructor": "Spencer Dane, Andrew Hiscox"
                 },
@@ -2125,8 +2125,8 @@
                     "type": "Lecture",
                     "days": "-----S-",
                     "time": "0900-1600",
-                    "start": "2012-6-23",
-                    "end": "2012-6-23",
+                    "start": "2012-06-23",
+                    "end": "2012-06-23",
                     "room": "B251",
                     "instructor": "Spencer Dane, Andrew Hiscox"
                 },
@@ -2134,8 +2134,8 @@
                     "type": "Lecture",
                     "days": "------U",
                     "time": "0900-1600",
-                    "start": "2012-6-24",
-                    "end": "2012-6-24",
+                    "start": "2012-06-24",
+                    "end": "2012-06-24",
                     "room": "A347",
                     "instructor": "Spencer Dane, Andrew Hiscox"
                 },
@@ -2143,8 +2143,8 @@
                     "type": "Lecture",
                     "days": "-----S-",
                     "time": "0900-1600",
-                    "start": "2012-7-07",
-                    "end": "2012-7-07",
+                    "start": "2012-07-07",
+                    "end": "2012-07-07",
                     "room": "A347",
                     "instructor": "Spencer Dane, Andrew Hiscox"
                 },
@@ -2152,8 +2152,8 @@
                     "type": "Lecture",
                     "days": "------U",
                     "time": "0900-1600",
-                    "start": "2012-7-08",
-                    "end": "2012-7-08",
+                    "start": "2012-07-08",
+                    "end": "2012-07-08",
                     "room": "A347",
                     "instructor": "Spencer Dane, Andrew Hiscox"
                 },
@@ -2161,8 +2161,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1830-2125",
-                    "start": "2012-8-15",
-                    "end": "2012-8-15",
+                    "start": "2012-08-15",
+                    "end": "2012-08-15",
                     "room": "B154",
                     "instructor": "Spencer Dane"
                 }
@@ -2213,8 +2213,8 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1830-2120",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "B245",
                     "instructor": "Linda Hale"
                 }
@@ -2266,8 +2266,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1100-1255",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A266 ",
                     "instructor": "James Rolke"
                 }
@@ -2319,8 +2319,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1100-1255",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A267",
                     "instructor": "Paulo Sgarbi"
                 }
@@ -2363,8 +2363,8 @@
                     "type": "Exam",
                     "days": "M------",
                     "time": "0830-1025",
-                    "start": "2012-8-13",
-                    "end": "2012-8-13",
+                    "start": "2012-08-13",
+                    "end": "2012-08-13",
                     "room": "A266 ",
                     "instructor": "Yanguo Yang"
                 }
@@ -2416,8 +2416,8 @@
                     "type": "Exam",
                     "days": "M------",
                     "time": "0830-1025",
-                    "start": "2012-8-13",
-                    "end": "2012-8-13",
+                    "start": "2012-08-13",
+                    "end": "2012-08-13",
                     "room": "A307",
                     "instructor": "James Rolke"
                 }
@@ -2469,8 +2469,8 @@
                     "type": "Exam",
                     "days": "M------",
                     "time": "0830-1025",
-                    "start": "2012-8-13",
-                    "end": "2012-8-13",
+                    "start": "2012-08-13",
+                    "end": "2012-08-13",
                     "room": "A308",
                     "instructor": "Michael Lo"
                 }
@@ -2522,8 +2522,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1830-2025",
-                    "start": "2012-8-14",
-                    "end": "2012-8-14",
+                    "start": "2012-08-14",
+                    "end": "2012-08-14",
                     "room": "A307",
                     "instructor": "Yanguo Yang"
                 }
@@ -2575,8 +2575,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1830-2025",
-                    "start": "2012-8-14",
-                    "end": "2012-8-14",
+                    "start": "2012-08-14",
+                    "end": "2012-08-14",
                     "room": "A308",
                     "instructor": "Eugene Li"
                 }
@@ -2619,8 +2619,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "A267 ",
                     "instructor": "Paulo Sgarbi"
                 }
@@ -2663,8 +2663,8 @@
                     "type": "Exam",
                     "days": "M------",
                     "time": "0830-1025",
-                    "start": "2012-8-13",
-                    "end": "2012-8-13",
+                    "start": "2012-08-13",
+                    "end": "2012-08-13",
                     "room": "A267 ",
                     "instructor": "Paulo Sgarbi"
                 }
@@ -2689,8 +2689,8 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1430-1620",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "A315",
                     "instructor": "Wei Xia"
                 }
@@ -2715,8 +2715,8 @@
                     "type": "On Site Work",
                     "days": "MTWRF--",
                     "time": "0900-1600",
-                    "start": "2012-5-01",
-                    "end": "2012-8-31",
+                    "start": "2012-05-01",
+                    "end": "2012-08-31",
                     "room": "OFFC",
                     "instructor": "Kevin Rolston, Heather Workman, Marianne Gianacopoulos, Sean Padley"
                 }
@@ -2741,8 +2741,8 @@
                     "type": "On Site Work",
                     "days": "MTWRF--",
                     "time": "0900-1600",
-                    "start": "2012-5-01",
-                    "end": "2012-8-31",
+                    "start": "2012-05-01",
+                    "end": "2012-08-31",
                     "room": " ",
                     "instructor": " "
                 }
@@ -2767,8 +2767,8 @@
                     "type": "On Site Work",
                     "days": "MTWRF--",
                     "time": "0900-1600",
-                    "start": "2012-5-01",
-                    "end": "2012-8-31",
+                    "start": "2012-05-01",
+                    "end": "2012-08-31",
                     "room": "OFFC",
                     "instructor": "Kevin Rolston, Heather Workman, Marianne Gianacopoulos, Sean Padley"
                 }
@@ -2793,8 +2793,8 @@
                     "type": "Lecture",
                     "days": "MTWRF--",
                     "time": "0900-1600",
-                    "start": "2012-5-01",
-                    "end": "2012-8-31",
+                    "start": "2012-05-01",
+                    "end": "2012-08-31",
                     "room": " ",
                     "instructor": " "
                 }
@@ -2819,8 +2819,8 @@
                     "type": "On Site Work",
                     "days": "MTWRF--",
                     "time": "0900-1600",
-                    "start": "2012-5-01",
-                    "end": "2012-8-31",
+                    "start": "2012-05-01",
+                    "end": "2012-08-31",
                     "room": "OFFC",
                     "instructor": "Kevin Rolston, Heather Workman, Marianne Gianacopoulos, Sean Padley"
                 }
@@ -2845,8 +2845,8 @@
                     "type": "Lecture",
                     "days": "MTWRF--",
                     "time": "0900-1600",
-                    "start": "2012-5-01",
-                    "end": "2012-8-31",
+                    "start": "2012-05-01",
+                    "end": "2012-08-31",
                     "room": " ",
                     "instructor": " "
                 }
@@ -3063,8 +3063,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A328",
                     "instructor": "Gregory Holditch"
                 }
@@ -3098,8 +3098,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1330-1525",
-                    "start": "2012-8-15",
-                    "end": "2012-8-15",
+                    "start": "2012-08-15",
+                    "end": "2012-08-15",
                     "room": "WWW",
                     "instructor": "Susan Font"
                 }
@@ -3142,8 +3142,8 @@
                     "type": "Exam",
                     "days": "M------",
                     "time": "0830-1025",
-                    "start": "2012-8-13",
-                    "end": "2012-8-13",
+                    "start": "2012-08-13",
+                    "end": "2012-08-13",
                     "room": "B018",
                     "instructor": "Brian Koehler"
                 }
@@ -3186,8 +3186,8 @@
                     "type": "Exam",
                     "days": "M------",
                     "time": "0830-1025",
-                    "start": "2012-8-13",
-                    "end": "2012-8-13",
+                    "start": "2012-08-13",
+                    "end": "2012-08-13",
                     "room": "B014",
                     "instructor": "Hossein Darbandi"
                 }
@@ -3230,8 +3230,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "0830-1025",
-                    "start": "2012-8-17",
-                    "end": "2012-8-17",
+                    "start": "2012-08-17",
+                    "end": "2012-08-17",
                     "room": "B008",
                     "instructor": "Elena Bassiachvili"
                 }
@@ -3274,8 +3274,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "0830-1025",
-                    "start": "2012-8-17",
-                    "end": "2012-8-17",
+                    "start": "2012-08-17",
+                    "end": "2012-08-17",
                     "room": "B018",
                     "instructor": "Bijan Farrahi"
                 }
@@ -3318,8 +3318,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "0830-1025",
-                    "start": "2012-8-17",
-                    "end": "2012-8-17",
+                    "start": "2012-08-17",
+                    "end": "2012-08-17",
                     "room": "B014",
                     "instructor": "Brian Koehler"
                 }
@@ -3353,8 +3353,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1830-2125",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "B010",
                     "instructor": "Hossein Darbandi"
                 }
@@ -3397,8 +3397,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1330-1525",
-                    "start": "2012-8-16",
-                    "end": "2012-8-16",
+                    "start": "2012-08-16",
+                    "end": "2012-08-16",
                     "room": "B018",
                     "instructor": "Hossein Darbandi"
                 }
@@ -3441,8 +3441,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1330-1525",
-                    "start": "2012-8-16",
-                    "end": "2012-8-16",
+                    "start": "2012-08-16",
+                    "end": "2012-08-16",
                     "room": "B014",
                     "instructor": "Bijan Farrahi"
                 }
@@ -3485,8 +3485,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-15",
-                    "end": "2012-8-15",
+                    "start": "2012-08-15",
+                    "end": "2012-08-15",
                     "room": "B023",
                     "instructor": "Elena Bassiachvili"
                 }
@@ -3564,8 +3564,8 @@
                     "type": "Exam",
                     "days": "M------",
                     "time": "0830-1025",
-                    "start": "2012-8-13",
-                    "end": "2012-8-13",
+                    "start": "2012-08-13",
+                    "end": "2012-08-13",
                     "room": "B008",
                     "instructor": "Bijan Farrahi"
                 }
@@ -3608,8 +3608,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-15",
-                    "end": "2012-8-15",
+                    "start": "2012-08-15",
+                    "end": "2012-08-15",
                     "room": "B026",
                     "instructor": "Hengameh Hamavand"
                 }
@@ -3652,8 +3652,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1330-1525",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "B014",
                     "instructor": "Ardeshir Bagheri"
                 }
@@ -3696,8 +3696,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1330-1525",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "A217",
                     "instructor": "Roy Sinn"
                 }
@@ -3740,8 +3740,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "B018",
                     "instructor": "Hengameh Hamavand"
                 }
@@ -3784,8 +3784,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1330-1525",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "A231",
                     "instructor": "Ardeshir Bagheri"
                 }
@@ -3819,8 +3819,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1330-1525",
-                    "start": "2012-8-14",
-                    "end": "2012-8-14",
+                    "start": "2012-08-14",
+                    "end": "2012-08-14",
                     "room": "WWW",
                     "instructor": "Fred Parvaz"
                 }
@@ -3854,8 +3854,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "0830-1025",
-                    "start": "2012-8-17",
-                    "end": "2012-8-17",
+                    "start": "2012-08-17",
+                    "end": "2012-08-17",
                     "room": "WWW",
                     "instructor": "Fred Parvaz"
                 }
@@ -3889,8 +3889,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "B148",
                     "instructor": "Claude Painter"
                 }
@@ -3924,8 +3924,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-14",
-                    "end": "2012-8-14",
+                    "start": "2012-08-14",
+                    "end": "2012-08-14",
                     "room": "B148",
                     "instructor": "Joanne Brown"
                 }
@@ -3959,8 +3959,8 @@
                     "type": "Exam",
                     "days": "M------",
                     "time": "0830-1025",
-                    "start": "2012-8-13",
-                    "end": "2012-8-13",
+                    "start": "2012-08-13",
+                    "end": "2012-08-13",
                     "room": "B148",
                     "instructor": "Claude Painter"
                 }
@@ -4003,8 +4003,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "A210",
                     "instructor": "Merle Viaud"
                 }
@@ -4047,8 +4047,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-15",
-                    "end": "2012-8-15",
+                    "start": "2012-08-15",
+                    "end": "2012-08-15",
                     "room": "B148",
                     "instructor": "Joanne Brown"
                 }
@@ -4091,8 +4091,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "0830-1025",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "B148",
                     "instructor": "Andrea Dawson"
                 }
@@ -4152,8 +4152,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "A210",
                     "instructor": "Andrea Dawson"
                 }
@@ -4196,8 +4196,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "A328",
                     "instructor": "Joanne Brown"
                 }
@@ -4240,8 +4240,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "0830-1025",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "A210",
                     "instructor": "Merle Viaud"
                 }
@@ -4284,8 +4284,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A210",
                     "instructor": "Andrea Dawson"
                 }
@@ -4354,8 +4354,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1330-1525",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "A210",
                     "instructor": "Claude Painter"
                 }
@@ -4441,8 +4441,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1330-1525",
-                    "start": "2012-8-16",
-                    "end": "2012-8-16",
+                    "start": "2012-08-16",
+                    "end": "2012-08-16",
                     "room": "B008",
                     "instructor": "Fulton Tom"
                 }
@@ -4476,8 +4476,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1100-1255",
-                    "start": "2012-8-14",
-                    "end": "2012-8-14",
+                    "start": "2012-08-14",
+                    "end": "2012-08-14",
                     "room": "A130",
                     "instructor": "Fulton Tom"
                 }
@@ -4511,8 +4511,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A130",
                     "instructor": "Warren Giovannetti"
                 }
@@ -4537,8 +4537,8 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1230-1420",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": " ",
                     "instructor": " "
                 }
@@ -4572,8 +4572,8 @@
                     "type": "Exam",
                     "days": "M------",
                     "time": "0830-1025",
-                    "start": "2012-8-13",
-                    "end": "2012-8-13",
+                    "start": "2012-08-13",
+                    "end": "2012-08-13",
                     "room": "A130",
                     "instructor": "Scott McLean"
                 }
@@ -4598,8 +4598,8 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1030-1220",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "A136A",
                     "instructor": "Lanny Zrill"
                 }
@@ -4633,8 +4633,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "B014",
                     "instructor": "Raged Anwar"
                 }
@@ -4659,8 +4659,8 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1430-1620",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "A122B",
                     "instructor": "Lanny Zrill"
                 }
@@ -4694,8 +4694,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1330-1525",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A122B",
                     "instructor": "Peter Babiak"
                 }
@@ -4729,8 +4729,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1330-1525",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A122B",
                     "instructor": "Peter Babiak"
                 }
@@ -4764,8 +4764,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1330-1525",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A267",
                     "instructor": "Camilla Pickard"
                 }
@@ -4799,8 +4799,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1330-1525",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A308",
                     "instructor": "Paul Headrick"
                 }
@@ -4834,8 +4834,8 @@
                     "type": "Exam",
                     "days": "M------",
                     "time": "1830-2025",
-                    "start": "2012-8-13",
-                    "end": "2012-8-13",
+                    "start": "2012-08-13",
+                    "end": "2012-08-13",
                     "room": "A267",
                     "instructor": "Paul Headrick"
                 }
@@ -4869,8 +4869,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1330-1525",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "A308",
                     "instructor": "Kathleen Oliver"
                 }
@@ -4930,8 +4930,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1330-1525",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "A229",
                     "instructor": "Heather Burt"
                 }
@@ -4965,8 +4965,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1330-1525",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "A136A",
                     "instructor": "Anne Moriarty"
                 }
@@ -5000,8 +5000,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1330-1525",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "A136A",
                     "instructor": "Anne Moriarty"
                 }
@@ -5035,8 +5035,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "0830-1025",
-                    "start": "2012-8-17",
-                    "end": "2012-8-17",
+                    "start": "2012-08-17",
+                    "end": "2012-08-17",
                     "room": "A308",
                     "instructor": "Susan Font"
                 }
@@ -5148,8 +5148,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "A136A",
                     "instructor": "Trevor Newland"
                 }
@@ -5183,8 +5183,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "A136A",
                     "instructor": "Trevor Newland"
                 }
@@ -5218,8 +5218,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "A308",
                     "instructor": "Thor Polukoshko"
                 }
@@ -5253,8 +5253,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "A136B",
                     "instructor": "Heather Burt"
                 }
@@ -5288,8 +5288,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "A122A",
                     "instructor": "Camilla Pickard"
                 }
@@ -5323,8 +5323,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "A229",
                     "instructor": "Deborah Blacklock"
                 }
@@ -5358,8 +5358,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "A122B",
                     "instructor": "Anton Chernoff"
                 }
@@ -5393,8 +5393,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "A136B",
                     "instructor": "Heather Burt"
                 }
@@ -5428,8 +5428,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "A122B",
                     "instructor": "Anton Chernoff"
                 }
@@ -5463,8 +5463,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "A327",
                     "instructor": "Gregory Holditch"
                 }
@@ -5524,8 +5524,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "A122A",
                     "instructor": "Camilla Pickard"
                 }
@@ -5585,8 +5585,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1830-2025",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "A308",
                     "instructor": "Anne Moriarty"
                 }
@@ -5611,8 +5611,8 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1030-1220",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "A328",
                     "instructor": "Gregory Holditch"
                 }
@@ -5646,8 +5646,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1830-2025",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "A267",
                     "instructor": "Cheratra Yaswen"
                 }
@@ -5681,8 +5681,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "A306",
                     "instructor": "Paul Headrick"
                 }
@@ -5716,8 +5716,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1100-1255",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "A266",
                     "instructor": "Anne Moriarty"
                 }
@@ -5768,8 +5768,8 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1030-1220",
-                    "start": "2012-6-25",
-                    "end": "2012-8-03",
+                    "start": "2012-06-25",
+                    "end": "2012-08-03",
                     "room": "A328",
                     "instructor": "Gregory Holditch"
                 },
@@ -5777,8 +5777,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1100-1255",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "A229",
                     "instructor": "Gregory Holditch"
                 }
@@ -5821,8 +5821,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1100-1255",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "A346",
                     "instructor": "Deborah Blacklock"
                 }
@@ -5865,8 +5865,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1100-1255",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "A327",
                     "instructor": "Livia Chan"
                 }
@@ -5900,8 +5900,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1600-1755",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A346",
                     "instructor": "Anton Chernoff"
                 }
@@ -5935,8 +5935,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1600-1755",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A327",
                     "instructor": "Peter Babiak"
                 }
@@ -5970,8 +5970,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1600-1755",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A308",
                     "instructor": "Kathleen Oliver"
                 }
@@ -6005,8 +6005,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1600-1755",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A237",
                     "instructor": "Deborah Blacklock"
                 }
@@ -6031,8 +6031,8 @@
                     "type": "Field School",
                     "days": "-------",
                     "time": "-",
-                    "start": "2012-5-14",
-                    "end": "2012-6-03",
+                    "start": "2012-05-14",
+                    "end": "2012-06-03",
                     "room": "OFFC",
                     "instructor": "Joanne Horwood"
                 },
@@ -6040,8 +6040,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A327",
                     "instructor": "Joanne Horwood"
                 }
@@ -6066,8 +6066,8 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1830-2150",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "A328",
                     "instructor": "Noel Currie"
                 }
@@ -6092,8 +6092,8 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1830-2150",
-                    "start": "2012-6-25",
-                    "end": "2012-8-03",
+                    "start": "2012-06-25",
+                    "end": "2012-08-03",
                     "room": "A328",
                     "instructor": "Noel Currie"
                 },
@@ -6101,8 +6101,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1830-2025",
-                    "start": "2012-8-15",
-                    "end": "2012-8-15",
+                    "start": "2012-08-15",
+                    "end": "2012-08-15",
                     "room": "A308",
                     "instructor": "Noel Currie"
                 }
@@ -6136,8 +6136,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "A327",
                     "instructor": "Peter Babiak"
                 }
@@ -6171,8 +6171,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A266",
                     "instructor": "Paul Headrick"
                 }
@@ -6258,8 +6258,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-14",
-                    "end": "2012-8-14",
+                    "start": "2012-08-14",
+                    "end": "2012-08-14",
                     "room": "A308",
                     "instructor": "Trevor Newland"
                 }
@@ -6423,8 +6423,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A256",
                     "instructor": "Byron Lamarque"
                 }
@@ -6624,8 +6624,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-15",
-                    "end": "2012-8-15",
+                    "start": "2012-08-15",
+                    "end": "2012-08-15",
                     "room": "B254",
                     "instructor": "Ellen Hamer"
                 }
@@ -6659,8 +6659,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-15",
-                    "end": "2012-8-15",
+                    "start": "2012-08-15",
+                    "end": "2012-08-15",
                     "room": "B253",
                     "instructor": "David Chan"
                 }
@@ -6694,8 +6694,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1830-2025",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "B245",
                     "instructor": "Shiraz Charania"
                 }
@@ -6729,8 +6729,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-15",
-                    "end": "2012-8-15",
+                    "start": "2012-08-15",
+                    "end": "2012-08-15",
                     "room": "B252",
                     "instructor": "Robin Diehl"
                 }
@@ -6764,8 +6764,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "0830-1025",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "B246",
                     "instructor": "Ruth Heathcote"
                 }
@@ -6799,8 +6799,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1830-2025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "WWW",
                     "instructor": "Abbe Nielsen"
                 }
@@ -6834,8 +6834,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1330-1525",
-                    "start": "2012-8-17",
-                    "end": "2012-8-17",
+                    "start": "2012-08-17",
+                    "end": "2012-08-17",
                     "room": "B252",
                     "instructor": "Ellen Hamer"
                 }
@@ -6869,8 +6869,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1330-1525",
-                    "start": "2012-8-17",
-                    "end": "2012-8-17",
+                    "start": "2012-08-17",
+                    "end": "2012-08-17",
                     "room": "B246",
                     "instructor": "Noel Genoway"
                 }
@@ -6904,8 +6904,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "B246",
                     "instructor": "Ellen Hamer"
                 }
@@ -6939,8 +6939,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1330-1525",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "B246",
                     "instructor": "Ruth Heathcote"
                 }
@@ -6974,8 +6974,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1330-1525",
-                    "start": "2012-8-15",
-                    "end": "2012-8-15",
+                    "start": "2012-08-15",
+                    "end": "2012-08-15",
                     "room": "B246",
                     "instructor": "Ruth Heathcote"
                 }
@@ -7000,8 +7000,8 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1030-1220",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "B246",
                     "instructor": "Ruth Heathcote"
                 }
@@ -7035,8 +7035,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1830-2025",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "B246",
                     "instructor": "Diana Leong"
                 }
@@ -7070,8 +7070,8 @@
                     "type": "Exam",
                     "days": "M------",
                     "time": "1830-2025",
-                    "start": "2012-8-13",
-                    "end": "2012-8-13",
+                    "start": "2012-08-13",
+                    "end": "2012-08-13",
                     "room": "B245",
                     "instructor": "Robin Diehl"
                 }
@@ -7105,8 +7105,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1830-2125",
-                    "start": "2012-8-14",
-                    "end": "2012-8-14",
+                    "start": "2012-08-14",
+                    "end": "2012-08-14",
                     "room": "B153",
                     "instructor": "Akash Rattan"
                 }
@@ -7140,8 +7140,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1830-2125",
-                    "start": "2012-8-14",
-                    "end": "2012-8-14",
+                    "start": "2012-08-14",
+                    "end": "2012-08-14",
                     "room": "B152",
                     "instructor": "Akash Rattan"
                 }
@@ -7175,8 +7175,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1830-2125",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "B247",
                     "instructor": "Noel Brennan"
                 }
@@ -7210,8 +7210,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1830-2125",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "B152",
                     "instructor": "Darren Taylor"
                 }
@@ -7271,8 +7271,8 @@
                     "type": "Exam",
                     "days": "M------",
                     "time": "1830-2125",
-                    "start": "2012-8-13",
-                    "end": "2012-8-13",
+                    "start": "2012-08-13",
+                    "end": "2012-08-13",
                     "room": "A256",
                     "instructor": "Shiraz Charania"
                 }
@@ -7297,8 +7297,8 @@
                     "type": "Lecture",
                     "days": "M-W----",
                     "time": "0900-1250",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "A044",
                     "instructor": "Stephanie Aitken"
                 }
@@ -7323,8 +7323,8 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1330-1720",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": " ",
                     "instructor": " "
                 }
@@ -7349,8 +7349,8 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "0900-1250",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "A046",
                     "instructor": "Jake Lane"
                 }
@@ -7375,8 +7375,8 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "0900-1250",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "A044",
                     "instructor": "Stephanie Aitken"
                 }
@@ -7410,8 +7410,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1100-1225",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "A327",
                     "instructor": "Farah Leplat"
                 }
@@ -7445,8 +7445,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1100-1225",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "A308",
                     "instructor": "Frederic Jombart"
                 }
@@ -7480,8 +7480,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1830-1955",
-                    "start": "2012-8-15",
-                    "end": "2012-8-15",
+                    "start": "2012-08-15",
+                    "end": "2012-08-15",
                     "room": "A320",
                     "instructor": "Frederic Jombart"
                 }
@@ -7515,8 +7515,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1830-1955",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "A347",
                     "instructor": "Farah Leplat"
                 }
@@ -7550,8 +7550,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1330-1455",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "A320",
                     "instructor": "Farah Leplat"
                 }
@@ -7585,8 +7585,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1830-1955",
-                    "start": "2012-8-14",
-                    "end": "2012-8-14",
+                    "start": "2012-08-14",
+                    "end": "2012-08-14",
                     "room": "A347",
                     "instructor": "Farah Leplat"
                 }
@@ -7620,8 +7620,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1830-1955",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "A320",
                     "instructor": "Frederic Jombart"
                 }
@@ -7655,8 +7655,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1330-1525",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "A122B",
                     "instructor": "Judith Wright"
                 }
@@ -7708,8 +7708,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1100-1255",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A327",
                     "instructor": "Rory Crowley"
                 }
@@ -7761,8 +7761,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1100-1255",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A308",
                     "instructor": "Judith Wright"
                 }
@@ -7814,8 +7814,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1330-1525",
-                    "start": "2012-8-16",
-                    "end": "2012-8-16",
+                    "start": "2012-08-16",
+                    "end": "2012-08-16",
                     "room": "A122A",
                     "instructor": "Judith Wright"
                 }
@@ -7867,8 +7867,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1330-1525",
-                    "start": "2012-8-16",
-                    "end": "2012-8-16",
+                    "start": "2012-08-16",
+                    "end": "2012-08-16",
                     "room": "A122A",
                     "instructor": "Judith Wright"
                 }
@@ -7902,8 +7902,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1330-1525",
-                    "start": "2012-8-17",
-                    "end": "2012-8-17",
+                    "start": "2012-08-17",
+                    "end": "2012-08-17",
                     "room": "A347",
                     "instructor": "Amy Schneeberg"
                 }
@@ -7937,8 +7937,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1330-1425",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "B147",
                     "instructor": "Raoul Grossman"
                 }
@@ -7972,8 +7972,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1330-1425",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "B147",
                     "instructor": "Raoul Grossman"
                 }
@@ -7998,8 +7998,8 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "0830-1020",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "B148",
                     "instructor": "Craig Keating"
                 }
@@ -8024,8 +8024,8 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1030-1220",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "B149",
                     "instructor": "Wendie Nelson"
                 }
@@ -8076,8 +8076,8 @@
                     "type": "Lecture",
                     "days": "M-W----",
                     "time": "1830-2120",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "B254",
                     "instructor": "Linda Hale"
                 }
@@ -8111,8 +8111,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1330-1525",
-                    "start": "2012-8-15",
-                    "end": "2012-8-15",
+                    "start": "2012-08-15",
+                    "end": "2012-08-15",
                     "room": "B147",
                     "instructor": "Sean Maschmann"
                 }
@@ -8146,8 +8146,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "0830-1025",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "B147",
                     "instructor": "Sean Maschmann"
                 }
@@ -8172,8 +8172,8 @@
                     "type": "Lecture",
                     "days": "MTW----",
                     "time": "1230-1420",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "A346",
                     "instructor": "Craig Keating"
                 }
@@ -8207,8 +8207,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1330-1525",
-                    "start": "2012-8-15",
-                    "end": "2012-8-15",
+                    "start": "2012-08-15",
+                    "end": "2012-08-15",
                     "room": "A346",
                     "instructor": "Harry Lendvoy"
                 }
@@ -8233,8 +8233,8 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1030-1220",
-                    "start": "2012-5-07",
-                    "end": "2012-5-24",
+                    "start": "2012-05-07",
+                    "end": "2012-05-24",
                     "room": "G103",
                     "instructor": "Harry Lendvoy"
                 },
@@ -8242,8 +8242,8 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1030-1220",
-                    "start": "2012-5-28",
-                    "end": "2012-6-21",
+                    "start": "2012-05-28",
+                    "end": "2012-06-21",
                     "room": "B018",
                     "instructor": "Harry Lendvoy"
                 }
@@ -8286,8 +8286,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "B021",
                     "instructor": "Lianne Dolan"
                 }
@@ -8330,8 +8330,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "B018",
                     "instructor": "Harry Lendvoy"
                 }
@@ -8374,8 +8374,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1330-1525",
-                    "start": "2012-8-16",
-                    "end": "2012-8-16",
+                    "start": "2012-08-16",
+                    "end": "2012-08-16",
                     "room": "A136B",
                     "instructor": "Ryan Cawsey"
                 }
@@ -8418,8 +8418,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1330-1525",
-                    "start": "2012-8-16",
-                    "end": "2012-8-16",
+                    "start": "2012-08-16",
+                    "end": "2012-08-16",
                     "room": "A136B",
                     "instructor": "Ryan Cawsey"
                 }
@@ -8444,8 +8444,8 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1530-1720",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "G103",
                     "instructor": "Kathleen Emerson"
                 }
@@ -8479,8 +8479,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1330-1525",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A219",
                     "instructor": "Kathleen Emerson"
                 }
@@ -8514,8 +8514,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "0830-1025",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "A219",
                     "instructor": "Kathleen Emerson"
                 }
@@ -8540,8 +8540,8 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1030-1220",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "GYM",
                     "instructor": "Ryan Cawsey"
                 }
@@ -8566,8 +8566,8 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1030-1220",
-                    "start": "2012-6-25",
-                    "end": "2012-8-03",
+                    "start": "2012-06-25",
+                    "end": "2012-08-03",
                     "room": "GYM",
                     "instructor": "Ryan Cawsey"
                 },
@@ -8575,8 +8575,8 @@
                     "type": "Exam",
                     "days": "M------",
                     "time": "1330-1525",
-                    "start": "2012-8-13",
-                    "end": "2012-8-13",
+                    "start": "2012-08-13",
+                    "end": "2012-08-13",
                     "room": "A267",
                     "instructor": "Ryan Cawsey"
                 }
@@ -8619,8 +8619,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A314",
                     "instructor": "Harry Lendvoy"
                 }
@@ -8663,8 +8663,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A229",
                     "instructor": "Lianne Dolan"
                 }
@@ -8698,8 +8698,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "B014",
                     "instructor": "Ryan Cawsey"
                 }
@@ -8724,8 +8724,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1230-1620",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "A346",
                     "instructor": "Craig Keating, Robin Macqueen"
                 },
@@ -8733,8 +8733,8 @@
                     "type": "Lab",
                     "days": "-------",
                     "time": "-",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "NIL",
                     "instructor": "Craig Keating, Robin Macqueen"
                 }
@@ -8768,8 +8768,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-16",
-                    "end": "2012-8-16",
+                    "start": "2012-08-16",
+                    "end": "2012-08-16",
                     "room": "A266",
                     "instructor": "Christina Crane"
                 }
@@ -8803,8 +8803,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1330-1525",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "A306",
                     "instructor": "Ginette Dube"
                 }
@@ -8864,8 +8864,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1330-1525",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "B148",
                     "instructor": "Deland Jessop"
                 }
@@ -8899,8 +8899,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1330-1525",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "B152",
                     "instructor": "Kandey Larden"
                 }
@@ -8934,8 +8934,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1830-2025",
-                    "start": "2012-8-17",
-                    "end": "2012-8-17",
+                    "start": "2012-08-17",
+                    "end": "2012-08-17",
                     "room": "B148",
                     "instructor": "Bryan Cassidy"
                 }
@@ -8960,8 +8960,8 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "0830-1220",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "B252",
                     "instructor": "Danielle Rockel"
                 }
@@ -8995,8 +8995,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1830-2025",
-                    "start": "2012-8-17",
-                    "end": "2012-8-17",
+                    "start": "2012-08-17",
+                    "end": "2012-08-17",
                     "room": "WWW",
                     "instructor": "Kandey Larden"
                 }
@@ -9073,8 +9073,8 @@
                     "type": "WWW",
                     "days": "-------",
                     "time": "-",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "WWW",
                     "instructor": "Stephanie Koonar"
                 }
@@ -9108,8 +9108,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1830-2025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "B148",
                     "instructor": "Kenneth Wong"
                 }
@@ -9143,8 +9143,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1830-2125",
-                    "start": "2012-8-16",
-                    "end": "2012-8-16",
+                    "start": "2012-08-16",
+                    "end": "2012-08-16",
                     "room": "B148",
                     "instructor": "Christina Crane"
                 }
@@ -9204,8 +9204,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "B008",
                     "instructor": "Rebecca Friesen"
                 }
@@ -9239,8 +9239,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1600-1755",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "B008",
                     "instructor": "Ken Collins"
                 }
@@ -9274,8 +9274,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-15",
-                    "end": "2012-8-15",
+                    "start": "2012-08-15",
+                    "end": "2012-08-15",
                     "room": "B008",
                     "instructor": "Mahdad Khatirinejad"
                 }
@@ -9309,8 +9309,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1330-1525",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "B021",
                     "instructor": "Pichmony Anhaouy"
                 }
@@ -9344,8 +9344,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1330-1525",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "B022",
                     "instructor": "Jae-Hyung Jang"
                 }
@@ -9379,8 +9379,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-16",
-                    "end": "2012-8-16",
+                    "start": "2012-08-16",
+                    "end": "2012-08-16",
                     "room": "L207",
                     "instructor": "Jae-Hyung Jang"
                 }
@@ -9414,8 +9414,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1830-2025",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "A122A",
                     "instructor": "Andrea Richmond"
                 }
@@ -9501,8 +9501,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1330-1525",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "B018",
                     "instructor": "Edgar Avelino"
                 }
@@ -9536,8 +9536,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1330-1525",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "B154",
                     "instructor": "Mahdad Khatirinejad"
                 }
@@ -9597,8 +9597,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1600-1755",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "L108",
                     "instructor": "Edgar Avelino"
                 }
@@ -9658,8 +9658,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1100-1255",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "B008",
                     "instructor": "Mahdad Khatirinejad"
                 }
@@ -9693,8 +9693,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1100-1255",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "B018",
                     "instructor": "Andrea Richmond"
                 }
@@ -9728,8 +9728,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1100-1255",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "B014",
                     "instructor": "Eugene Li"
                 }
@@ -9789,8 +9789,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1100-1255",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "B008",
                     "instructor": "Rebecca Friesen"
                 }
@@ -9824,8 +9824,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-15",
-                    "end": "2012-8-15",
+                    "start": "2012-08-15",
+                    "end": "2012-08-15",
                     "room": "B014",
                     "instructor": "Peter Danenhower"
                 }
@@ -9859,8 +9859,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1600-1755",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "A130",
                     "instructor": "Jae-Hyung Jang"
                 }
@@ -9894,8 +9894,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1600-1755",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "A130",
                     "instructor": "Jae-Hyung Jang"
                 }
@@ -9929,8 +9929,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1330-1525",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "B008",
                     "instructor": "Pichmony Anhaouy"
                 }
@@ -9955,8 +9955,8 @@
                     "type": "Lecture",
                     "days": "MT-RF--",
                     "time": "1230-1420",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "L215",
                     "instructor": "Ken Collins"
                 }
@@ -9990,8 +9990,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "B015",
                     "instructor": "Peter Danenhower"
                 }
@@ -10025,8 +10025,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "B008",
                     "instructor": "Peter Danenhower"
                 }
@@ -10200,8 +10200,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "A136A",
                     "instructor": "Tina Johnston"
                 }
@@ -10244,8 +10244,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "A136A",
                     "instructor": "Cristina Follador"
                 }
@@ -10306,8 +10306,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "0830-1025",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "A346",
                     "instructor": "Melanie Forseng"
                 }
@@ -10368,8 +10368,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "0830-1025",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "A229",
                     "instructor": "Karima Kassam"
                 }
@@ -10412,8 +10412,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "B014",
                     "instructor": "Lucille Aunger"
                 }
@@ -10456,8 +10456,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "B154",
                     "instructor": "Sharon Stunder"
                 }
@@ -10509,8 +10509,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "A219",
                     "instructor": "Paravdip Dhaliwal"
                 }
@@ -10562,8 +10562,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "A267",
                     "instructor": "Laura Cottrell"
                 }
@@ -10728,8 +10728,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "A229",
                     "instructor": "Sandeep Atwal"
                 }
@@ -10772,8 +10772,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "A267",
                     "instructor": "Hana Pecinova"
                 }
@@ -10816,8 +10816,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A346",
                     "instructor": "Cristina Follador"
                 }
@@ -10860,8 +10860,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A267",
                     "instructor": "Tina Johnston"
                 }
@@ -11287,8 +11287,8 @@
                     "type": "Lecture",
                     "days": "M-W----",
                     "time": "1330-1620",
-                    "start": "2012-6-04",
-                    "end": "2012-8-03",
+                    "start": "2012-06-04",
+                    "end": "2012-08-03",
                     "room": "C510",
                     "instructor": "Cat Martin"
                 }
@@ -11313,8 +11313,8 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "0830-1220",
-                    "start": "2012-6-04",
-                    "end": "2012-8-03",
+                    "start": "2012-06-04",
+                    "end": "2012-08-03",
                     "room": "C510",
                     "instructor": "Jennifer Timer"
                 },
@@ -11322,8 +11322,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1330-1520",
-                    "start": "2012-6-04",
-                    "end": "2012-8-03",
+                    "start": "2012-06-04",
+                    "end": "2012-08-03",
                     "room": "C510",
                     "instructor": "Jennifer Timer"
                 }
@@ -11348,8 +11348,8 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "0830-1220",
-                    "start": "2012-6-04",
-                    "end": "2012-8-03",
+                    "start": "2012-06-04",
+                    "end": "2012-08-03",
                     "room": "C510",
                     "instructor": "Cat Martin"
                 },
@@ -11357,8 +11357,8 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1330-1520",
-                    "start": "2012-6-04",
-                    "end": "2012-8-03",
+                    "start": "2012-06-04",
+                    "end": "2012-08-03",
                     "room": "C510",
                     "instructor": "Cat Martin"
                 }
@@ -11383,8 +11383,8 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "0830-1020",
-                    "start": "2012-6-04",
-                    "end": "2012-8-03",
+                    "start": "2012-06-04",
+                    "end": "2012-08-03",
                     "room": "C510",
                     "instructor": "Jennifer Timer"
                 },
@@ -11392,8 +11392,8 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "1330-1720",
-                    "start": "2012-6-04",
-                    "end": "2012-8-03",
+                    "start": "2012-06-04",
+                    "end": "2012-08-03",
                     "room": "C510",
                     "instructor": "Jennifer Timer"
                 }
@@ -11427,8 +11427,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-15",
-                    "end": "2012-8-15",
+                    "start": "2012-08-15",
+                    "end": "2012-08-15",
                     "room": "A130",
                     "instructor": "Kurt Preinsperg"
                 }
@@ -11462,8 +11462,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-15",
-                    "end": "2012-8-15",
+                    "start": "2012-08-15",
+                    "end": "2012-08-15",
                     "room": "A130",
                     "instructor": "Kurt Preinsperg"
                 }
@@ -11497,8 +11497,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-15",
-                    "end": "2012-8-15",
+                    "start": "2012-08-15",
+                    "end": "2012-08-15",
                     "room": "A130",
                     "instructor": "Kurt Preinsperg"
                 }
@@ -11532,8 +11532,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1330-1525",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "B014",
                     "instructor": "Johnna Fisher"
                 }
@@ -11567,8 +11567,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1330-1525",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "B008",
                     "instructor": "Kurt Preinsperg"
                 }
@@ -11602,8 +11602,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "0830-1025",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "B008",
                     "instructor": "Johnna Fisher"
                 }
@@ -11663,8 +11663,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "B018",
                     "instructor": "Johnna Fisher"
                 }
@@ -11689,8 +11689,8 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1030-1420",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "A352",
                     "instructor": "Benoite Pfeiffer"
                 },
@@ -11698,8 +11698,8 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1030-1220",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "A346",
                     "instructor": "Benoite Pfeiffer"
                 },
@@ -11707,8 +11707,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1030-1220",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "A347",
                     "instructor": "Benoite Pfeiffer"
                 },
@@ -11716,8 +11716,8 @@
                     "type": "Lab",
                     "days": "-T-R---",
                     "time": "1230-1420",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "A352",
                     "instructor": "Benoite Pfeiffer"
                 }
@@ -11769,8 +11769,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1330-1525",
-                    "start": "2012-8-14",
-                    "end": "2012-8-14",
+                    "start": "2012-08-14",
+                    "end": "2012-08-14",
                     "room": "A347",
                     "instructor": "Don Hunter"
                 }
@@ -11822,8 +11822,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1330-1525",
-                    "start": "2012-8-14",
-                    "end": "2012-8-14",
+                    "start": "2012-08-14",
+                    "end": "2012-08-14",
                     "room": "A351",
                     "instructor": "Pari Ranjbary"
                 }
@@ -11848,8 +11848,8 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "0930-1120",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "A347",
                     "instructor": "Robin Macqueen"
                 },
@@ -11857,8 +11857,8 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "0930-1120",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "A352",
                     "instructor": "Robin Macqueen"
                 },
@@ -11866,8 +11866,8 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "0930-1120",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "A346",
                     "instructor": "Robin Macqueen"
                 },
@@ -11875,8 +11875,8 @@
                     "type": "Lab",
                     "days": "---R---",
                     "time": "0930-1120",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "A352",
                     "instructor": "Robin Macqueen"
                 },
@@ -11884,8 +11884,8 @@
                     "type": "Lab",
                     "days": "-T-----",
                     "time": "1430-1620",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "A350",
                     "instructor": "Robin Macqueen"
                 }
@@ -11937,8 +11937,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A347",
                     "instructor": "Pari Ranjbary"
                 }
@@ -11990,8 +11990,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A351",
                     "instructor": "Don Hunter"
                 }
@@ -12069,8 +12069,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "A347",
                     "instructor": "Pari Ranjbary"
                 }
@@ -12104,8 +12104,8 @@
                     "type": "Exam",
                     "days": "M------",
                     "time": "1330-1525",
-                    "start": "2012-8-13",
-                    "end": "2012-8-13",
+                    "start": "2012-08-13",
+                    "end": "2012-08-13",
                     "room": "WWW",
                     "instructor": "Stephen Phillips"
                 }
@@ -12139,8 +12139,8 @@
                     "type": "Exam",
                     "days": "M------",
                     "time": "0830-1025",
-                    "start": "2012-8-13",
-                    "end": "2012-8-13",
+                    "start": "2012-08-13",
+                    "end": "2012-08-13",
                     "room": "B026",
                     "instructor": "Stephen Phillips"
                 }
@@ -12174,8 +12174,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-16",
-                    "end": "2012-8-16",
+                    "start": "2012-08-16",
+                    "end": "2012-08-16",
                     "room": "WWW",
                     "instructor": "Stephen Phillips"
                 }
@@ -12209,8 +12209,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "0830-1025",
-                    "start": "2012-8-17",
-                    "end": "2012-8-17",
+                    "start": "2012-08-17",
+                    "end": "2012-08-17",
                     "room": "B026",
                     "instructor": "Stephen Phillips"
                 }
@@ -12253,8 +12253,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "A346",
                     "instructor": "David Scougal"
                 }
@@ -12288,8 +12288,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "A130",
                     "instructor": "Valerie Lloyd"
                 }
@@ -12323,8 +12323,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1600-1725",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "A130",
                     "instructor": "James Barton"
                 }
@@ -12358,8 +12358,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "0830-1025",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "A130",
                     "instructor": "Linda Scratchley"
                 }
@@ -12393,8 +12393,8 @@
                     "type": "Exam",
                     "days": "M------",
                     "time": "1100-1255",
-                    "start": "2012-8-13",
-                    "end": "2012-8-13",
+                    "start": "2012-08-13",
+                    "end": "2012-08-13",
                     "room": "A130",
                     "instructor": "Noushine Afshar"
                 }
@@ -12419,8 +12419,8 @@
                     "type": "Lecture",
                     "days": "MT-R---",
                     "time": "1530-1720",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "B026",
                     "instructor": "James Barton"
                 }
@@ -12445,8 +12445,8 @@
                     "type": "Lecture",
                     "days": "M-W----",
                     "time": "1230-1420",
-                    "start": "2012-5-07",
-                    "end": "2012-5-09",
+                    "start": "2012-05-07",
+                    "end": "2012-05-09",
                     "room": "B026",
                     "instructor": "Linda Scratchley"
                 },
@@ -12454,8 +12454,8 @@
                     "type": "Lecture",
                     "days": "M-W----",
                     "time": "1230-1420",
-                    "start": "2012-5-14",
-                    "end": "2012-8-03",
+                    "start": "2012-05-14",
+                    "end": "2012-08-03",
                     "room": "B251",
                     "instructor": "Linda Scratchley"
                 },
@@ -12463,8 +12463,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-1025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "B021",
                     "instructor": "Linda Scratchley"
                 }
@@ -12498,8 +12498,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "B026",
                     "instructor": "Noushine Afshar"
                 }
@@ -12533,8 +12533,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "0830-1025",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "B026",
                     "instructor": "Valerie Lloyd"
                 }
@@ -12568,8 +12568,8 @@
                     "type": "Lab",
                     "days": "----F--",
                     "time": "1530-1720",
-                    "start": "2012-5-07",
-                    "end": "2012-6-18",
+                    "start": "2012-05-07",
+                    "end": "2012-06-18",
                     "room": "A247",
                     "instructor": "Kevin McMillan"
                 },
@@ -12577,8 +12577,8 @@
                     "type": "Lab",
                     "days": "--W----",
                     "time": "1530-1720",
-                    "start": "2012-6-25",
-                    "end": "2012-8-03",
+                    "start": "2012-06-25",
+                    "end": "2012-08-03",
                     "room": "A247",
                     "instructor": "Kevin McMillan"
                 }
@@ -12612,8 +12612,8 @@
                     "type": "Lab",
                     "days": "----F--",
                     "time": "1330-1520",
-                    "start": "2012-5-07",
-                    "end": "2012-6-18",
+                    "start": "2012-05-07",
+                    "end": "2012-06-18",
                     "room": "A247",
                     "instructor": "Kevin McMillan"
                 },
@@ -12621,8 +12621,8 @@
                     "type": "Lab",
                     "days": "M------",
                     "time": "1530-1720",
-                    "start": "2012-6-25",
-                    "end": "2012-8-03",
+                    "start": "2012-06-25",
+                    "end": "2012-08-03",
                     "room": "A247",
                     "instructor": "Kevin McMillan"
                 }
@@ -12647,8 +12647,8 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1530-1720",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "A256",
                     "instructor": "Josue Menjivar"
                 },
@@ -12656,8 +12656,8 @@
                     "type": "Lab",
                     "days": "--W----",
                     "time": "1330-1620",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "A247",
                     "instructor": "Josue Menjivar"
                 }
@@ -12691,8 +12691,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "0830-1025",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "G103",
                     "instructor": "Caroline Dickson"
                 }
@@ -12726,8 +12726,8 @@
                     "type": "Exam",
                     "days": "--W----",
                     "time": "1100-1255",
-                    "start": "2012-8-08",
-                    "end": "2012-8-08",
+                    "start": "2012-08-08",
+                    "end": "2012-08-08",
                     "room": "A351",
                     "instructor": "Timothy Stevenson"
                 }
@@ -12761,8 +12761,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "1830-2025",
-                    "start": "2012-8-07",
-                    "end": "2012-8-07",
+                    "start": "2012-08-07",
+                    "end": "2012-08-07",
                     "room": "A351",
                     "instructor": "Timothy Stevenson"
                 }
@@ -12822,8 +12822,8 @@
                     "type": "Exam",
                     "days": "M------",
                     "time": "0830-0925",
-                    "start": "2012-8-13",
-                    "end": "2012-8-13",
+                    "start": "2012-08-13",
+                    "end": "2012-08-13",
                     "room": "A122A",
                     "instructor": "Alan Brain"
                 }
@@ -12857,8 +12857,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-0925",
-                    "start": "2012-8-16",
-                    "end": "2012-8-16",
+                    "start": "2012-08-16",
+                    "end": "2012-08-16",
                     "room": "A122A",
                     "instructor": "Alan Brain"
                 }
@@ -12892,8 +12892,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "0830-0925",
-                    "start": "2012-8-16",
-                    "end": "2012-8-16",
+                    "start": "2012-08-16",
+                    "end": "2012-08-16",
                     "room": "A122A",
                     "instructor": "Alan Brain"
                 }
@@ -12918,8 +12918,8 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "0930-1120",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "A320",
                     "instructor": "Laura Vass"
                 }
@@ -12944,8 +12944,8 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1330-1520",
-                    "start": "2012-5-07",
-                    "end": "2012-5-10",
+                    "start": "2012-05-07",
+                    "end": "2012-05-10",
                     "room": "A254",
                     "instructor": "Laura Vass"
                 },
@@ -12953,8 +12953,8 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1330-1520",
-                    "start": "2012-5-14",
-                    "end": "2012-6-21",
+                    "start": "2012-05-14",
+                    "end": "2012-06-21",
                     "room": "A229",
                     "instructor": "Laura Vass"
                 }
@@ -12988,8 +12988,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1600-1755",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "B018",
                     "instructor": "Yanguo Yang"
                 }
@@ -13023,8 +13023,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1600-1755",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "B021",
                     "instructor": "Eugene Li"
                 }
@@ -13058,8 +13058,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1600-1755",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "B014",
                     "instructor": "Michael Lo"
                 }
@@ -13093,8 +13093,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1600-1755",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "B008",
                     "instructor": "James Rolke"
                 }
@@ -13154,8 +13154,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-14",
-                    "end": "2012-8-14",
+                    "start": "2012-08-14",
+                    "end": "2012-08-14",
                     "room": "B014",
                     "instructor": "Edgar Avelino"
                 }
@@ -13189,8 +13189,8 @@
                     "type": "Exam",
                     "days": "-T-----",
                     "time": "0830-1025",
-                    "start": "2012-8-14",
-                    "end": "2012-8-14",
+                    "start": "2012-08-14",
+                    "end": "2012-08-14",
                     "room": "B008",
                     "instructor": "Yu-Ling Tsai"
                 }
@@ -13215,8 +13215,8 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1230-1420",
-                    "start": "2012-5-07",
-                    "end": "2012-5-15",
+                    "start": "2012-05-07",
+                    "end": "2012-05-15",
                     "room": "B014",
                     "instructor": "Michael Lo"
                 },
@@ -13224,8 +13224,8 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1230-1420",
-                    "start": "2012-5-17",
-                    "end": "2012-8-17",
+                    "start": "2012-05-17",
+                    "end": "2012-08-17",
                     "room": "B023",
                     "instructor": "Michael Lo"
                 },
@@ -13233,8 +13233,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1100-1255",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "B014",
                     "instructor": "Michael Lo"
                 }
@@ -13268,8 +13268,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1100-1255",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "B021",
                     "instructor": "Eugene Li"
                 }
@@ -13303,8 +13303,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1100-1255",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "B018",
                     "instructor": "Edgar Avelino"
                 }
@@ -13338,8 +13338,8 @@
                     "type": "Exam",
                     "days": "----F--",
                     "time": "1100-1255",
-                    "start": "2012-8-10",
-                    "end": "2012-8-10",
+                    "start": "2012-08-10",
+                    "end": "2012-08-10",
                     "room": "B008",
                     "instructor": "Yu-Ling Tsai"
                 }
@@ -13390,8 +13390,8 @@
                     "type": "Lecture",
                     "days": "MT-RF--",
                     "time": "0930-1120",
-                    "start": "2012-5-07",
-                    "end": "2012-6-21",
+                    "start": "2012-05-07",
+                    "end": "2012-06-21",
                     "room": "B032",
                     "instructor": "Michael Lo"
                 }
@@ -13416,8 +13416,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1830-2120",
-                    "start": "2012-5-07",
-                    "end": "2012-5-11",
+                    "start": "2012-05-07",
+                    "end": "2012-05-11",
                     "room": "B014",
                     "instructor": "Cheryl McKeeman"
                 },
@@ -13425,8 +13425,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1830-2120",
-                    "start": "2012-5-17",
-                    "end": "2012-8-03",
+                    "start": "2012-05-17",
+                    "end": "2012-08-03",
                     "room": "B031",
                     "instructor": "Cheryl McKeeman"
                 },
@@ -13434,8 +13434,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1830-2025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "B247",
                     "instructor": "Cheryl McKeeman"
                 }
@@ -13495,8 +13495,8 @@
                     "type": "Exam",
                     "days": "---R---",
                     "time": "1830-2025",
-                    "start": "2012-8-09",
-                    "end": "2012-8-09",
+                    "start": "2012-08-09",
+                    "end": "2012-08-09",
                     "room": "B251",
                     "instructor": "Yu-Ling Tsai"
                 }

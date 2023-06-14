@@ -1,8 +1,8 @@
 {
-    "datetime_retrieved": "2023-04-27 14:25:11",
+    "datetime_retrieved": "2023-06-13 21:39:51",
     "year": 2012,
     "semester": 30,
-    "courses_first_day": "2012-8-27",
+    "courses_first_day": "2012-08-27",
     "courses_last_day": "2012-12-03",
     "courses": [
         {
@@ -994,7 +994,7 @@
                     "type": "Lecture",
                     "days": "-------",
                     "time": "-",
-                    "start": "2012-9-04",
+                    "start": "2012-09-04",
                     "end": "2012-12-14",
                     "room": "OFFC",
                     "instructor": "Eric Aderneck"
@@ -1020,7 +1020,7 @@
                     "type": "Field School",
                     "days": "-------",
                     "time": "-",
-                    "start": "2012-8-27",
+                    "start": "2012-08-27",
                     "end": "2012-11-04",
                     "room": "OFFC",
                     "instructor": "Bruce Hanbury"
@@ -1291,7 +1291,7 @@
                     "type": "Field School",
                     "days": "-------",
                     "time": "-",
-                    "start": "2012-8-27",
+                    "start": "2012-08-27",
                     "end": "2012-11-04",
                     "room": "OFFC",
                     "instructor": "Bruce Hanbury"
@@ -1326,7 +1326,7 @@
                     "type": "Field School",
                     "days": "-------",
                     "time": "-",
-                    "start": "2012-8-27",
+                    "start": "2012-08-27",
                     "end": "2012-11-04",
                     "room": "OFFC",
                     "instructor": "Bruce Hanbury"
@@ -3110,8 +3110,8 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0830-1020",
-                    "start": "2012-9-04",
-                    "end": "2012-9-14",
+                    "start": "2012-09-04",
+                    "end": "2012-09-14",
                     "room": "A320",
                     "instructor": "Jessica Kalra"
                 },
@@ -3119,7 +3119,7 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0830-1020",
-                    "start": "2012-9-21",
+                    "start": "2012-09-21",
                     "end": "2012-11-30",
                     "room": "B015",
                     "instructor": "Jessica Kalra"
@@ -3216,8 +3216,8 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "1530-1820",
-                    "start": "2012-9-04",
-                    "end": "2012-9-14",
+                    "start": "2012-09-04",
+                    "end": "2012-09-14",
                     "room": "A308",
                     "instructor": "Jessica Kalra"
                 },
@@ -3225,7 +3225,7 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "1530-1820",
-                    "start": "2012-9-21",
+                    "start": "2012-09-21",
                     "end": "2012-11-30",
                     "room": "A216",
                     "instructor": "Jessica Kalra"
@@ -4138,7 +4138,7 @@
                     "type": "Flexible Assessment",
                     "days": "-------",
                     "time": "-",
-                    "start": "2012-9-04",
+                    "start": "2012-09-04",
                     "end": "2012-12-14",
                     "room": "OFFC",
                     "instructor": "Phil Mentacos"
@@ -7345,7 +7345,7 @@
                     "type": "On Site Work",
                     "days": "MTWRF--",
                     "time": "0900-1600",
-                    "start": "2012-9-01",
+                    "start": "2012-09-01",
                     "end": "2012-12-31",
                     "room": "OFFC",
                     "instructor": "Kevin Rolston, Heather Workman, Marianne Gianacopoulos, Sean Padley"
@@ -7371,7 +7371,7 @@
                     "type": "Flexible Assessment",
                     "days": "MTWRF--",
                     "time": "0900-1600",
-                    "start": "2012-9-01",
+                    "start": "2012-09-01",
                     "end": "2012-12-31",
                     "room": " ",
                     "instructor": " "
@@ -7397,7 +7397,7 @@
                     "type": "On Site Work",
                     "days": "MTWRF--",
                     "time": "0900-1600",
-                    "start": "2012-9-01",
+                    "start": "2012-09-01",
                     "end": "2012-12-31",
                     "room": "OFFC",
                     "instructor": "Kevin Rolston, Heather Workman, Marianne Gianacopoulos, Sean Padley"
@@ -7423,7 +7423,7 @@
                     "type": "Flexible Assessment",
                     "days": "MTWRF--",
                     "time": "0900-1600",
-                    "start": "2012-9-01",
+                    "start": "2012-09-01",
                     "end": "2012-12-31",
                     "room": "OFFC",
                     "instructor": "Kevin Rolston, Heather Workman, Marianne Gianacopoulos, Sean Padley"
@@ -7449,7 +7449,7 @@
                     "type": "On Site Work",
                     "days": "MTWRF--",
                     "time": "0900-1600",
-                    "start": "2012-9-01",
+                    "start": "2012-09-01",
                     "end": "2012-12-31",
                     "room": "OFFC",
                     "instructor": "Kevin Rolston, Heather Workman, Marianne Gianacopoulos, Sean Padley"
@@ -7475,7 +7475,7 @@
                     "type": "On Site Work",
                     "days": "MTWRF--",
                     "time": "0900-1600",
-                    "start": "2012-9-01",
+                    "start": "2012-09-01",
                     "end": "2012-12-31",
                     "room": "OFFC",
                     "instructor": "Kevin Rolston, Heather Workman, Marianne Gianacopoulos, Sean Padley"
@@ -8130,8 +8130,8 @@
                     "type": "Lecture",
                     "days": "M-W----",
                     "time": "1030-1120",
-                    "start": "2012-9-04",
-                    "end": "2012-9-19",
+                    "start": "2012-09-04",
+                    "end": "2012-09-19",
                     "room": "L342",
                     "instructor": "Peter Baker"
                 },
@@ -8139,7 +8139,7 @@
                     "type": "Lecture",
                     "days": "M-W----",
                     "time": "1030-1120",
-                    "start": "2012-9-24",
+                    "start": "2012-09-24",
                     "end": "2012-11-30",
                     "room": "L303",
                     "instructor": "Peter Baker"
@@ -11847,8 +11847,8 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1830-2150",
-                    "start": "2012-9-04",
-                    "end": "2012-9-04",
+                    "start": "2012-09-04",
+                    "end": "2012-09-04",
                     "room": "A267",
                     "instructor": "Stefan Haag"
                 },
@@ -11856,7 +11856,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1830-2150",
-                    "start": "2012-9-11",
+                    "start": "2012-09-11",
                     "end": "2012-11-30",
                     "room": "A210",
                     "instructor": "Stefan Haag"
@@ -13797,7 +13797,7 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1030-1220",
-                    "start": "2012-9-04",
+                    "start": "2012-09-04",
                     "end": "2012-10-19",
                     "room": "A320",
                     "instructor": "Tanya Lewis"
@@ -13973,7 +13973,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "-",
-                    "start": "2012-9-04",
+                    "start": "2012-09-04",
                     "end": "2012-12-14",
                     "room": "WWW",
                     "instructor": "Jana Davis"
@@ -14804,7 +14804,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2012-9-04",
+                    "start": "2012-09-04",
                     "end": "2012-12-14",
                     "room": " ",
                     "instructor": " "
@@ -20743,7 +20743,7 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1030-1220",
-                    "start": "2012-9-04",
+                    "start": "2012-09-04",
                     "end": "2012-10-19",
                     "room": "GYM",
                     "instructor": "Brent Day"
@@ -21295,7 +21295,7 @@
                     "type": "Exchange-International",
                     "days": "-------",
                     "time": "-",
-                    "start": "2012-9-04",
+                    "start": "2012-09-04",
                     "end": "2012-12-14",
                     "room": "OFFC",
                     "instructor": "Valerie Peters"
@@ -23796,8 +23796,8 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0930-1220",
-                    "start": "2012-9-14",
-                    "end": "2012-9-14",
+                    "start": "2012-09-14",
+                    "end": "2012-09-14",
                     "room": "B030",
                     "instructor": "Hoshiar Gosal"
                 },
@@ -25545,8 +25545,8 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1430-1620",
-                    "start": "2012-9-10",
-                    "end": "2012-9-10",
+                    "start": "2012-09-10",
+                    "end": "2012-09-10",
                     "room": "L104",
                     "instructor": "Pichmony Anhaouy"
                 },
@@ -25554,7 +25554,7 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1430-1620",
-                    "start": "2012-9-17",
+                    "start": "2012-09-17",
                     "end": "2012-11-30",
                     "room": "B015",
                     "instructor": "Pichmony Anhaouy"
@@ -25598,8 +25598,8 @@
                     "type": "Lab",
                     "days": "-T-----",
                     "time": "1330-1520",
-                    "start": "2012-9-04",
-                    "end": "2012-9-11",
+                    "start": "2012-09-04",
+                    "end": "2012-09-11",
                     "room": "A369",
                     "instructor": "June Parnell, Sharon Liversidge, Wendy Low"
                 },
@@ -25607,7 +25607,7 @@
                     "type": "Lab",
                     "days": "-T-----",
                     "time": "1330-1520",
-                    "start": "2012-9-18",
+                    "start": "2012-09-18",
                     "end": "2012-11-30",
                     "room": "L342",
                     "instructor": "June Parnell, Sharon Liversidge, Wendy Low"
@@ -25660,7 +25660,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1330-1420",
-                    "start": "2012-9-19",
+                    "start": "2012-09-19",
                     "end": "2012-11-30",
                     "room": "B010",
                     "instructor": "June Parnell, Sharon Liversidge, Wendy Low"
@@ -25669,7 +25669,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1430-1520",
-                    "start": "2012-9-19",
+                    "start": "2012-09-19",
                     "end": "2012-11-30",
                     "room": "B023",
                     "instructor": "June Parnell, Sharon Liversidge, Wendy Low"
@@ -25678,8 +25678,8 @@
                     "type": "Lab",
                     "days": "--W----",
                     "time": "1330-1520",
-                    "start": "2012-9-04",
-                    "end": "2012-9-12",
+                    "start": "2012-09-04",
+                    "end": "2012-09-12",
                     "room": "A369",
                     "instructor": "June Parnell, Sharon Liversidge, Wendy Low"
                 },
@@ -26109,8 +26109,8 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "1330-1720",
-                    "start": "2012-9-04",
-                    "end": "2012-9-21",
+                    "start": "2012-09-04",
+                    "end": "2012-09-21",
                     "room": "B016",
                     "instructor": "Sharon Stunder"
                 },
@@ -26118,7 +26118,7 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "1230-1620",
-                    "start": "2012-9-28",
+                    "start": "2012-09-28",
                     "end": "2012-11-30",
                     "room": "B016",
                     "instructor": "Sharon Stunder"
@@ -26436,8 +26436,8 @@
                     "type": "Lab",
                     "days": "M------",
                     "time": "1130-1520",
-                    "start": "2012-9-04",
-                    "end": "2012-9-14",
+                    "start": "2012-09-04",
+                    "end": "2012-09-14",
                     "room": "A373",
                     "instructor": "Heather Anderson"
                 },
@@ -26445,7 +26445,7 @@
                     "type": "Lab",
                     "days": "M------",
                     "time": "1130-1220",
-                    "start": "2012-9-17",
+                    "start": "2012-09-17",
                     "end": "2012-11-30",
                     "room": "A351",
                     "instructor": "Heather Anderson"
@@ -26454,7 +26454,7 @@
                     "type": "Lab",
                     "days": "M------",
                     "time": "1230-1520",
-                    "start": "2012-9-17",
+                    "start": "2012-09-17",
                     "end": "2012-11-30",
                     "room": "A372",
                     "instructor": "Heather Anderson"
@@ -27171,8 +27171,8 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1030-1120",
-                    "start": "2012-9-04",
-                    "end": "2012-9-17",
+                    "start": "2012-09-04",
+                    "end": "2012-09-17",
                     "room": "L303",
                     "instructor": "Sukhdev Grewal"
                 },
@@ -27198,7 +27198,7 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1030-1120",
-                    "start": "2012-9-24",
+                    "start": "2012-09-24",
                     "end": "2012-11-30",
                     "room": "L342",
                     "instructor": "Sukhdev Grewal"
@@ -27233,8 +27233,8 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1230-1320",
-                    "start": "2012-9-04",
-                    "end": "2012-9-14",
+                    "start": "2012-09-04",
+                    "end": "2012-09-14",
                     "room": "C508",
                     "instructor": "Deborah Katz"
                 },
@@ -27251,7 +27251,7 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1230-1320",
-                    "start": "2012-9-17",
+                    "start": "2012-09-17",
                     "end": "2012-11-30",
                     "room": "A284",
                     "instructor": "Deborah Katz"
@@ -28012,8 +28012,8 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1430-1520",
-                    "start": "2012-9-04",
-                    "end": "2012-9-10",
+                    "start": "2012-09-04",
+                    "end": "2012-09-10",
                     "room": "B023",
                     "instructor": "Richard Johns"
                 },
@@ -28030,8 +28030,8 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1530-1620",
-                    "start": "2012-9-04",
-                    "end": "2012-9-10",
+                    "start": "2012-09-04",
+                    "end": "2012-09-10",
                     "room": "C122",
                     "instructor": "Richard Johns"
                 },
@@ -28039,7 +28039,7 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1430-1620",
-                    "start": "2012-9-17",
+                    "start": "2012-09-17",
                     "end": "2012-11-30",
                     "room": "C307",
                     "instructor": "Richard Johns"
@@ -28109,8 +28109,8 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1830-2120",
-                    "start": "2012-9-04",
-                    "end": "2012-9-11",
+                    "start": "2012-09-04",
+                    "end": "2012-09-11",
                     "room": "A346",
                     "instructor": "Rana Ahmad"
                 },
@@ -28118,7 +28118,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1830-2120",
-                    "start": "2012-9-18",
+                    "start": "2012-09-18",
                     "end": "2012-11-30",
                     "room": "A315",
                     "instructor": "Rana Ahmad"
@@ -28258,8 +28258,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1830-2120",
-                    "start": "2012-9-04",
-                    "end": "2012-9-13",
+                    "start": "2012-09-04",
+                    "end": "2012-09-13",
                     "room": "A346",
                     "instructor": "Rana Ahmad"
                 },
@@ -28267,7 +28267,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1830-2120",
-                    "start": "2012-9-20",
+                    "start": "2012-09-20",
                     "end": "2012-11-30",
                     "room": "A306",
                     "instructor": "Rana Ahmad"
@@ -30754,7 +30754,7 @@
                     "type": "Lecture",
                     "days": "MT-----",
                     "time": "1530-1720",
-                    "start": "2012-9-04",
+                    "start": "2012-09-04",
                     "end": "2012-10-19",
                     "room": "B248",
                     "instructor": "Antonia Henderson"
@@ -30763,7 +30763,7 @@
                     "type": "Lecture",
                     "days": "-------",
                     "time": "-",
-                    "start": "2012-9-04",
+                    "start": "2012-09-04",
                     "end": "2012-10-19",
                     "room": "WWW",
                     "instructor": "Antonia Henderson"
@@ -33398,8 +33398,8 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1430-1520",
-                    "start": "2012-9-04",
-                    "end": "2012-9-12",
+                    "start": "2012-09-04",
+                    "end": "2012-09-12",
                     "room": "A229",
                     "instructor": "Albert Wong"
                 },
@@ -33407,8 +33407,8 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1430-1620",
-                    "start": "2012-9-04",
-                    "end": "2012-9-12",
+                    "start": "2012-09-04",
+                    "end": "2012-09-12",
                     "room": "L304",
                     "instructor": "Albert Wong"
                 },
@@ -33416,8 +33416,8 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1530-1620",
-                    "start": "2012-9-04",
-                    "end": "2012-9-12",
+                    "start": "2012-09-04",
+                    "end": "2012-09-12",
                     "room": "A310",
                     "instructor": "Albert Wong"
                 },
@@ -33425,7 +33425,7 @@
                     "type": "Lecture",
                     "days": "M-W----",
                     "time": "1430-1620",
-                    "start": "2012-9-17",
+                    "start": "2012-09-17",
                     "end": "2012-11-30",
                     "room": "A284",
                     "instructor": "Albert Wong"
@@ -35296,7 +35296,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1430-1720",
-                    "start": "2012-9-04",
+                    "start": "2012-09-04",
                     "end": "2012-10-09",
                     "room": "A327",
                     "instructor": "Patricia Moore"

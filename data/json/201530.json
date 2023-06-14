@@ -1,8 +1,8 @@
 {
-    "datetime_retrieved": "2023-04-27 14:25:11",
+    "datetime_retrieved": "2023-06-13 21:39:51",
     "year": 2015,
     "semester": 30,
-    "courses_first_day": "2015-8-24",
+    "courses_first_day": "2015-08-24",
     "courses_last_day": "2015-12-07",
     "courses": [
         {
@@ -749,8 +749,8 @@
                     "type": "Lecture",
                     "days": "-------",
                     "time": "0900-1620",
-                    "start": "2015-9-08",
-                    "end": "2015-9-11",
+                    "start": "2015-09-08",
+                    "end": "2015-09-11",
                     "room": "TBSCH",
                     "instructor": "Eric Aderneck"
                 }
@@ -775,7 +775,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1800-2050",
-                    "start": "2015-9-14",
+                    "start": "2015-09-14",
                     "end": "2015-12-02",
                     "room": "A217",
                     "instructor": "Stuart Jones"
@@ -810,7 +810,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1800-2050",
-                    "start": "2015-9-14",
+                    "start": "2015-09-14",
                     "end": "2015-12-02",
                     "room": "A347",
                     "instructor": "Neal Lamontagne"
@@ -836,7 +836,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1800-2050",
-                    "start": "2015-9-14",
+                    "start": "2015-09-14",
                     "end": "2015-12-02",
                     "room": "A217",
                     "instructor": "Stuart Jones"
@@ -871,7 +871,7 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1800-2050",
-                    "start": "2015-9-14",
+                    "start": "2015-09-14",
                     "end": "2015-12-02",
                     "room": "A347",
                     "instructor": "Carla Stewart"
@@ -906,8 +906,8 @@
                     "type": "Lecture",
                     "days": "-------",
                     "time": "0900-1700",
-                    "start": "2015-9-25",
-                    "end": "2015-9-25",
+                    "start": "2015-09-25",
+                    "end": "2015-09-25",
                     "room": "A321",
                     "instructor": "Kathryn Nairne"
                 }
@@ -984,7 +984,7 @@
                     "type": "Field School",
                     "days": "-------",
                     "time": "-",
-                    "start": "2015-8-24",
+                    "start": "2015-08-24",
                     "end": "2015-11-01",
                     "room": "OFFC",
                     "instructor": "Bruce Hanbury"
@@ -1255,7 +1255,7 @@
                     "type": "Field School",
                     "days": "-------",
                     "time": "-",
-                    "start": "2015-8-24",
+                    "start": "2015-08-24",
                     "end": "2015-11-01",
                     "room": "OFFC",
                     "instructor": "Bruce Hanbury"
@@ -1281,7 +1281,7 @@
                     "type": "Field School",
                     "days": "-------",
                     "time": "-",
-                    "start": "2015-8-24",
+                    "start": "2015-08-24",
                     "end": "2015-11-01",
                     "room": "OFFC",
                     "instructor": "Bruce Hanbury"
@@ -7756,7 +7756,7 @@
                     "type": "On Site Work",
                     "days": "MTWRF--",
                     "time": "0900-1550",
-                    "start": "2015-9-01",
+                    "start": "2015-09-01",
                     "end": "2015-12-31",
                     "room": "OFFC",
                     "instructor": "Heather Workman, Dionne Orrange, Sean Padley"
@@ -7782,7 +7782,7 @@
                     "type": "On Site Work",
                     "days": "MTWRF--",
                     "time": "-",
-                    "start": "2015-9-01",
+                    "start": "2015-09-01",
                     "end": "2015-12-31",
                     "room": "OFFC",
                     "instructor": "Heather Workman, Dionne Orrange, Sean Padley"
@@ -7808,7 +7808,7 @@
                     "type": "On Site Work",
                     "days": "MTWRF--",
                     "time": "-",
-                    "start": "2015-9-01",
+                    "start": "2015-09-01",
                     "end": "2015-12-31",
                     "room": "OFFC",
                     "instructor": "Heather Workman, Dionne Orrange, Sean Padley"
@@ -7834,7 +7834,7 @@
                     "type": "Flexible Assessment",
                     "days": "MTWRF--",
                     "time": "0900-1550",
-                    "start": "2015-9-01",
+                    "start": "2015-09-01",
                     "end": "2015-12-31",
                     "room": "OFFC",
                     "instructor": "Heather Workman, Dionne Orrange, Sean Padley"
@@ -7860,7 +7860,7 @@
                     "type": "On Site Work",
                     "days": "MTWRF--",
                     "time": "0900-1550",
-                    "start": "2015-9-01",
+                    "start": "2015-09-01",
                     "end": "2015-12-31",
                     "room": "OFFC",
                     "instructor": "Heather Workman, Dionne Orrange, Sean Padley"
@@ -7886,7 +7886,7 @@
                     "type": "On Site Work",
                     "days": "MTWRF--",
                     "time": "-",
-                    "start": "2015-9-01",
+                    "start": "2015-09-01",
                     "end": "2015-12-31",
                     "room": "OFFC",
                     "instructor": "Heather Workman, Dionne Orrange, Sean Padley"
@@ -7912,7 +7912,7 @@
                     "type": "Flexible Assessment",
                     "days": "MTWRF--",
                     "time": "0900-1550",
-                    "start": "2015-9-01",
+                    "start": "2015-09-01",
                     "end": "2015-12-31",
                     "room": "OFFC",
                     "instructor": "Heather Workman, Dionne Orrange, Sean Padley"
@@ -7938,7 +7938,7 @@
                     "type": "On Site Work",
                     "days": "MTWRF--",
                     "time": "0900-1550",
-                    "start": "2015-9-01",
+                    "start": "2015-09-01",
                     "end": "2015-12-31",
                     "room": "OFFC",
                     "instructor": "Heather Workman, Dionne Orrange, Sean Padley"
@@ -7964,7 +7964,7 @@
                     "type": "On Site Work",
                     "days": "MTWRF--",
                     "time": "-",
-                    "start": "2015-9-01",
+                    "start": "2015-09-01",
                     "end": "2015-12-31",
                     "room": "OFFC",
                     "instructor": "Heather Workman, Dionne Orrange, Sean Padley"
@@ -7990,7 +7990,7 @@
                     "type": "On Site Work",
                     "days": "MTWRF--",
                     "time": "0900-1550",
-                    "start": "2015-9-01",
+                    "start": "2015-09-01",
                     "end": "2015-12-31",
                     "room": "OFFC",
                     "instructor": "Heather Workman, Dionne Orrange, Sean Padley"
@@ -8016,7 +8016,7 @@
                     "type": "On Site Work",
                     "days": "MTWRF--",
                     "time": "-",
-                    "start": "2015-9-01",
+                    "start": "2015-09-01",
                     "end": "2015-12-31",
                     "room": "OFFC",
                     "instructor": "Heather Workman, Dionne Orrange, Sean Padley"
@@ -8051,7 +8051,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "0830-1020",
-                    "start": "2015-9-09",
+                    "start": "2015-09-09",
                     "end": "2015-11-04",
                     "room": "C508",
                     "instructor": "Sue Hyun Yang"
@@ -8086,7 +8086,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "0830-1020",
-                    "start": "2015-9-10",
+                    "start": "2015-09-10",
                     "end": "2015-11-05",
                     "room": "C508",
                     "instructor": "Sue Hyun Yang"
@@ -8121,7 +8121,7 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0830-1020",
-                    "start": "2015-9-11",
+                    "start": "2015-09-11",
                     "end": "2015-11-06",
                     "room": "C508",
                     "instructor": "Sue Hyun Yang"
@@ -8156,7 +8156,7 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0930-1220",
-                    "start": "2015-9-18",
+                    "start": "2015-09-18",
                     "end": "2015-11-20",
                     "room": "C510",
                     "instructor": "Heather Workman"
@@ -8226,7 +8226,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1430-1620",
-                    "start": "2015-9-10",
+                    "start": "2015-09-10",
                     "end": "2015-11-26",
                     "room": "C307",
                     "instructor": "Natasha Mrkic-Subotic"
@@ -8252,7 +8252,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1430-1620",
-                    "start": "2015-9-08",
+                    "start": "2015-09-08",
                     "end": "2015-11-24",
                     "room": "C508",
                     "instructor": "Natasha Mrkic-Subotic"
@@ -8296,7 +8296,7 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "0830-1020",
-                    "start": "2015-9-14",
+                    "start": "2015-09-14",
                     "end": "2015-11-30",
                     "room": "C508",
                     "instructor": "Natasha Mrkic-Subotic"
@@ -11622,8 +11622,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1330-1450",
-                    "start": "2015-9-08",
-                    "end": "2015-9-10",
+                    "start": "2015-09-08",
+                    "end": "2015-09-10",
                     "room": "A347",
                     "instructor": "Susan Young"
                 },
@@ -11631,7 +11631,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1330-1450",
-                    "start": "2015-9-15",
+                    "start": "2015-09-15",
                     "end": "2015-12-02",
                     "room": "B018",
                     "instructor": "Susan Young"
@@ -15601,7 +15601,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2015-9-08",
+                    "start": "2015-09-08",
                     "end": "2015-12-16",
                     "room": " ",
                     "instructor": " "
@@ -16388,7 +16388,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2015-9-08",
+                    "start": "2015-09-08",
                     "end": "2015-12-16",
                     "room": " ",
                     "instructor": " "
@@ -18316,7 +18316,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2015-9-08",
+                    "start": "2015-09-08",
                     "end": "2015-12-16",
                     "room": " ",
                     "instructor": " "
@@ -23736,8 +23736,8 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1030-1220",
-                    "start": "2015-9-08",
-                    "end": "2015-9-22",
+                    "start": "2015-09-08",
+                    "end": "2015-09-22",
                     "room": "L303",
                     "instructor": "Dale West"
                 },
@@ -23754,7 +23754,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1030-1220",
-                    "start": "2015-9-29",
+                    "start": "2015-09-29",
                     "end": "2015-10-27",
                     "room": "C212",
                     "instructor": "Dale West"
@@ -25548,8 +25548,8 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1330-1420",
-                    "start": "2015-9-08",
-                    "end": "2015-9-08",
+                    "start": "2015-09-08",
+                    "end": "2015-09-08",
                     "room": "B014",
                     "instructor": "Csilla Tamas"
                 },
@@ -25557,7 +25557,7 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1330-1420",
-                    "start": "2015-9-09",
+                    "start": "2015-09-09",
                     "end": "2015-12-02",
                     "room": "C123",
                     "instructor": "Csilla Tamas"
@@ -28735,7 +28735,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "-",
-                    "start": "2015-9-23",
+                    "start": "2015-09-23",
                     "end": "2015-10-08",
                     "room": "A130",
                     "instructor": "Lealle Ruhl"
@@ -30454,8 +30454,8 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0930-1220",
-                    "start": "2015-9-08",
-                    "end": "2015-9-11",
+                    "start": "2015-09-08",
+                    "end": "2015-09-11",
                     "room": "A322",
                     "instructor": "Lealle Ruhl"
                 },
@@ -30463,7 +30463,7 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0930-1220",
-                    "start": "2015-9-18",
+                    "start": "2015-09-18",
                     "end": "2015-12-02",
                     "room": "B149",
                     "instructor": "Lealle Ruhl"
@@ -31939,7 +31939,7 @@
                     "type": "Lecture",
                     "days": "MT-----",
                     "time": "1530-1720",
-                    "start": "2015-9-08",
+                    "start": "2015-09-08",
                     "end": "2015-10-20",
                     "room": "B147",
                     "instructor": "Antonia Henderson"
@@ -31948,7 +31948,7 @@
                     "type": "Lecture",
                     "days": "-------",
                     "time": "-",
-                    "start": "2015-9-08",
+                    "start": "2015-09-08",
                     "end": "2015-10-20",
                     "room": "WWW",
                     "instructor": "Antonia Henderson"
@@ -34590,8 +34590,8 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1430-1620",
-                    "start": "2015-9-08",
-                    "end": "2015-9-15",
+                    "start": "2015-09-08",
+                    "end": "2015-09-15",
                     "room": "C122",
                     "instructor": "Kevin Craib"
                 },
@@ -34599,7 +34599,7 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1430-1620",
-                    "start": "2015-9-17",
+                    "start": "2015-09-17",
                     "end": "2015-12-02",
                     "room": "L207",
                     "instructor": "Kevin Craib"
@@ -36208,8 +36208,8 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "1630-1820",
-                    "start": "2015-9-08",
-                    "end": "2015-9-25",
+                    "start": "2015-09-08",
+                    "end": "2015-09-25",
                     "room": "A110",
                     "instructor": "David Bergman"
                 },
@@ -36244,7 +36244,7 @@
                     "type": "Lab",
                     "days": "----F--",
                     "time": "1230-1520",
-                    "start": "2015-9-08",
+                    "start": "2015-09-08",
                     "end": "2015-10-16",
                     "room": "L103",
                     "instructor": "David Bergman"
@@ -36323,7 +36323,7 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1630-1720",
-                    "start": "2015-9-28",
+                    "start": "2015-09-28",
                     "end": "2015-12-02",
                     "room": "A110",
                     "instructor": "Josue Menjivar"
@@ -36332,7 +36332,7 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1730-1920",
-                    "start": "2015-9-28",
+                    "start": "2015-09-28",
                     "end": "2015-12-02",
                     "room": "A247",
                     "instructor": "Josue Menjivar"
@@ -36341,8 +36341,8 @@
                     "type": "Lab",
                     "days": "M------",
                     "time": "1730-2020",
-                    "start": "2015-9-08",
-                    "end": "2015-9-21",
+                    "start": "2015-09-08",
+                    "end": "2015-09-21",
                     "room": "A247",
                     "instructor": "Josue Menjivar"
                 },
@@ -36411,8 +36411,8 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1130-1220",
-                    "start": "2015-9-08",
-                    "end": "2015-9-22",
+                    "start": "2015-09-08",
+                    "end": "2015-09-22",
                     "room": "A256",
                     "instructor": "Maryam Samiei"
                 },
@@ -36420,7 +36420,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1130-1220",
-                    "start": "2015-9-29",
+                    "start": "2015-09-29",
                     "end": "2015-12-02",
                     "room": "B015",
                     "instructor": "Maryam Samiei"
@@ -36464,8 +36464,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1830-1920",
-                    "start": "2015-9-08",
-                    "end": "2015-9-24",
+                    "start": "2015-09-08",
+                    "end": "2015-09-24",
                     "room": "L103",
                     "instructor": "David Bergman"
                 },
@@ -36473,7 +36473,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1630-1820",
-                    "start": "2015-9-29",
+                    "start": "2015-09-29",
                     "end": "2015-12-02",
                     "room": "L103",
                     "instructor": "David Bergman"
@@ -36491,8 +36491,8 @@
                     "type": "Lab",
                     "days": "-T-R---",
                     "time": "1630-1820",
-                    "start": "2015-9-08",
-                    "end": "2015-9-24",
+                    "start": "2015-09-08",
+                    "end": "2015-09-24",
                     "room": "L103",
                     "instructor": "David Bergman"
                 },

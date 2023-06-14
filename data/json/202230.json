@@ -1,5 +1,5 @@
 {
-    "datetime_retrieved": "2023-04-27 14:25:11",
+    "datetime_retrieved": "2023-06-13 21:39:51",
     "year": 2022,
     "semester": 30,
     "courses_first_day": "2022-12-09",
@@ -661,8 +661,8 @@
                     "type": "Lecture",
                     "days": "-TWRF--",
                     "time": "0900-1620",
-                    "start": "2022-9-06",
-                    "end": "2022-9-09",
+                    "start": "2022-09-06",
+                    "end": "2022-09-09",
                     "room": "A368",
                     "instructor": "Eric Aderneck"
                 }
@@ -818,8 +818,8 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0830-1520",
-                    "start": "2022-9-23",
-                    "end": "2022-9-23",
+                    "start": "2022-09-23",
+                    "end": "2022-09-23",
                     "room": "B246",
                     "instructor": "Eric Aderneck"
                 }
@@ -870,8 +870,8 @@
                     "type": "Lecture",
                     "days": "M-W----",
                     "time": "0830-1020",
-                    "start": "2022-9-06",
-                    "end": "2022-9-13",
+                    "start": "2022-09-06",
+                    "end": "2022-09-13",
                     "room": "A276",
                     "instructor": "Tommy Chiu"
                 },
@@ -879,7 +879,7 @@
                     "type": "Lecture",
                     "days": "M-W----",
                     "time": "0830-1020",
-                    "start": "2022-9-14",
+                    "start": "2022-09-14",
                     "end": "2022-12-02",
                     "room": "A215",
                     "instructor": "Tommy Chiu"
@@ -898,7 +898,7 @@
         },
         {
             "RP": null,
-            "seats": 7,
+            "seats": 8,
             "waitlist": null,
             "crn": 30609,
             "subject": "APSC",
@@ -949,7 +949,7 @@
                     "type": "Lecture",
                     "days": "M-W----",
                     "time": "0830-1020",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-10-04",
                     "room": "A319",
                     "instructor": "Hannah Gustafson"
@@ -2398,7 +2398,7 @@
         },
         {
             "RP": null,
-            "seats": 5,
+            "seats": 6,
             "waitlist": 17,
             "crn": 30725,
             "subject": "BIOL",
@@ -3083,8 +3083,8 @@
                     "type": "Lecture",
                     "days": "-T--F--",
                     "time": "1230-1420",
-                    "start": "2022-9-06",
-                    "end": "2022-9-11",
+                    "start": "2022-09-06",
+                    "end": "2022-09-11",
                     "room": "L342",
                     "instructor": "Paul Sunga"
                 },
@@ -3092,7 +3092,7 @@
                     "type": "Lecture",
                     "days": "-T--F--",
                     "time": "1230-1420",
-                    "start": "2022-9-12",
+                    "start": "2022-09-12",
                     "end": "2022-12-02",
                     "room": "C410",
                     "instructor": "Paul Sunga"
@@ -6149,7 +6149,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "0830-1020",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-10-25",
                     "room": "B253",
                     "instructor": "Shafik Bhalloo"
@@ -6803,8 +6803,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1630-1820",
-                    "start": "2022-9-06",
-                    "end": "2022-9-09",
+                    "start": "2022-09-06",
+                    "end": "2022-09-09",
                     "room": "B248",
                     "instructor": "Andrew Hiscox"
                 },
@@ -6821,7 +6821,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1630-1820",
-                    "start": "2022-9-10",
+                    "start": "2022-09-10",
                     "end": "2022-12-02",
                     "room": "B253",
                     "instructor": "Andrew Hiscox"
@@ -7250,8 +7250,8 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1430-1620",
-                    "start": "2022-9-06",
-                    "end": "2022-9-09",
+                    "start": "2022-09-06",
+                    "end": "2022-09-09",
                     "room": "B248",
                     "instructor": "Gayle Hayashi"
                 },
@@ -7268,7 +7268,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1430-1620",
-                    "start": "2022-9-10",
+                    "start": "2022-09-10",
                     "end": "2022-12-02",
                     "room": "B246",
                     "instructor": "Gayle Hayashi"
@@ -8056,7 +8056,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1430-1620",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-12-16",
                     "room": "B022",
                     "instructor": "Vanessa Barron"
@@ -8646,7 +8646,7 @@
         },
         {
             "RP": null,
-            "seats": 1,
+            "seats": 2,
             "waitlist": 3,
             "crn": 30409,
             "subject": "CHEM",
@@ -9800,7 +9800,7 @@
                     "type": "Lab",
                     "days": "---R---",
                     "time": "1430-1720",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-12-16",
                     "room": "T538",
                     "instructor": "Kuan Yu (Eric) Chen"
@@ -10909,8 +10909,8 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1630-1820",
-                    "start": "2022-9-06",
-                    "end": "2022-9-20",
+                    "start": "2022-09-06",
+                    "end": "2022-09-20",
                     "room": "A308",
                     "instructor": "Stephanie Hummel"
                 },
@@ -10927,8 +10927,8 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1630-1820",
-                    "start": "2022-9-21",
-                    "end": "2022-9-21",
+                    "start": "2022-09-21",
+                    "end": "2022-09-21",
                     "room": "A310",
                     "instructor": "Stephanie Hummel"
                 }
@@ -10953,8 +10953,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1630-1820",
-                    "start": "2022-9-06",
-                    "end": "2022-9-15",
+                    "start": "2022-09-06",
+                    "end": "2022-09-15",
                     "room": "A308",
                     "instructor": "Claire Anderson"
                 },
@@ -10971,7 +10971,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1630-1820",
-                    "start": "2022-9-16",
+                    "start": "2022-09-16",
                     "end": "2022-12-02",
                     "room": "A315",
                     "instructor": "Claire Anderson"
@@ -15485,8 +15485,8 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1430-1620",
-                    "start": "2022-9-06",
-                    "end": "2022-9-26",
+                    "start": "2022-09-06",
+                    "end": "2022-09-26",
                     "room": "A255",
                     "instructor": "Peter Vysek"
                 },
@@ -15494,7 +15494,7 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1430-1620",
-                    "start": "2022-9-27",
+                    "start": "2022-09-27",
                     "end": "2022-12-02",
                     "room": "A315",
                     "instructor": "Peter Vysek"
@@ -16720,7 +16720,7 @@
         },
         {
             "RP": null,
-            "seats": 7,
+            "seats": 8,
             "waitlist": 1,
             "crn": 31176,
             "subject": "ECON",
@@ -17376,7 +17376,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "0900-1120",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-12-07",
                     "room": "B009",
                     "instructor": "Erin Yorke"
@@ -17385,7 +17385,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1230-1450",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-12-07",
                     "room": "B009",
                     "instructor": "Erin Yorke"
@@ -17411,7 +17411,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "0900-1120",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-12-06",
                     "room": "B009",
                     "instructor": "Leslie Burgess"
@@ -17420,7 +17420,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1230-1450",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-12-06",
                     "room": "B009",
                     "instructor": "Leslie Burgess"
@@ -17498,7 +17498,7 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "0900-1120",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-12-05",
                     "room": "B009",
                     "instructor": "Erin Yorke"
@@ -17507,7 +17507,7 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1230-1450",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-12-05",
                     "room": "B009",
                     "instructor": "Erin Yorke"
@@ -17533,7 +17533,7 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0900-1120",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-12-09",
                     "room": "B009",
                     "instructor": "Jennifer Erickson"
@@ -17542,7 +17542,7 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "1230-1450",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-12-09",
                     "room": "B009",
                     "instructor": "Jennifer Erickson"
@@ -17568,7 +17568,7 @@
                     "type": "WWW",
                     "days": "M-W----",
                     "time": "1600-1950",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-12-07",
                     "room": "WWW",
                     "instructor": "Leslie Burgess"
@@ -17646,7 +17646,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "0900-1120",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-12-08",
                     "room": "B009",
                     "instructor": "Leslie Burgess"
@@ -17655,7 +17655,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1230-1450",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-12-08",
                     "room": "B009",
                     "instructor": "Leslie Burgess"
@@ -19781,8 +19781,8 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "0830-1020",
-                    "start": "2022-9-06",
-                    "end": "2022-9-07",
+                    "start": "2022-09-06",
+                    "end": "2022-09-07",
                     "room": "A319",
                     "instructor": "Carolye Kuchta"
                 },
@@ -19799,7 +19799,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "0830-1020",
-                    "start": "2022-9-08",
+                    "start": "2022-09-08",
                     "end": "2022-12-02",
                     "room": "A320",
                     "instructor": "Carolye Kuchta"
@@ -20038,7 +20038,7 @@
         },
         {
             "RP": "P",
-            "seats": 2,
+            "seats": 3,
             "waitlist": 10,
             "crn": 31058,
             "subject": "ENGL",
@@ -21271,8 +21271,8 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1830-2150",
-                    "start": "2022-9-06",
-                    "end": "2022-9-19",
+                    "start": "2022-09-06",
+                    "end": "2022-09-19",
                     "room": "A327",
                     "instructor": "Karen Budra"
                 },
@@ -21280,7 +21280,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1830-2150",
-                    "start": "2022-9-20",
+                    "start": "2022-09-20",
                     "end": "2022-12-02",
                     "room": "A136B",
                     "instructor": "Karen Budra"
@@ -22077,8 +22077,8 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1630-1820",
-                    "start": "2022-9-06",
-                    "end": "2022-9-08",
+                    "start": "2022-09-06",
+                    "end": "2022-09-08",
                     "room": "B149",
                     "instructor": "Spencer Dane"
                 },
@@ -22095,7 +22095,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1630-1820",
-                    "start": "2022-9-09",
+                    "start": "2022-09-09",
                     "end": "2022-12-02",
                     "room": "B246",
                     "instructor": "Spencer Dane"
@@ -27318,7 +27318,7 @@
         },
         {
             "RP": null,
-            "seats": 2,
+            "seats": 3,
             "waitlist": null,
             "crn": 31265,
             "subject": "HIST",
@@ -28203,7 +28203,7 @@
         },
         {
             "RP": null,
-            "seats": 4,
+            "seats": 5,
             "waitlist": null,
             "crn": 30483,
             "subject": "JAPN",
@@ -30893,7 +30893,7 @@
         },
         {
             "RP": null,
-            "seats": 0,
+            "seats": 1,
             "waitlist": 3,
             "crn": 31248,
             "subject": "KINS",
@@ -31244,7 +31244,7 @@
         },
         {
             "RP": null,
-            "seats": 2,
+            "seats": 3,
             "waitlist": 1,
             "crn": 31250,
             "subject": "KINS",
@@ -32953,7 +32953,7 @@
         },
         {
             "RP": null,
-            "seats": 4,
+            "seats": 5,
             "waitlist": 9,
             "crn": 30942,
             "subject": "MARK",
@@ -34582,8 +34582,8 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1030-1120",
-                    "start": "2022-9-06",
-                    "end": "2022-9-12",
+                    "start": "2022-09-06",
+                    "end": "2022-09-12",
                     "room": "C510",
                     "instructor": "Jae-Hyung Jang"
                 },
@@ -34591,7 +34591,7 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1030-1120",
-                    "start": "2022-9-13",
+                    "start": "2022-09-13",
                     "end": "2022-12-02",
                     "room": "A320",
                     "instructor": "Jae-Hyung Jang"
@@ -34626,8 +34626,8 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1130-1220",
-                    "start": "2022-9-06",
-                    "end": "2022-9-12",
+                    "start": "2022-09-06",
+                    "end": "2022-09-12",
                     "room": "C510",
                     "instructor": "Jae-Hyung Jang"
                 },
@@ -34635,7 +34635,7 @@
                     "type": "Lecture",
                     "days": "MTWR---",
                     "time": "1130-1220",
-                    "start": "2022-9-13",
+                    "start": "2022-09-13",
                     "end": "2022-12-02",
                     "room": "A322",
                     "instructor": "Jae-Hyung Jang"
@@ -35598,7 +35598,7 @@
         },
         {
             "RP": "P",
-            "seats": 2,
+            "seats": 3,
             "waitlist": null,
             "crn": 30735,
             "subject": "MATH",
@@ -36800,7 +36800,7 @@
                     "start": null,
                     "end": null,
                     "room": "OFFC",
-                    "instructor": "Gurpreet Grewal, Alexander Chow, Angela Herman, Badanjit (Bobby) Litt, Benjamin Harris, Christian Clado"
+                    "instructor": "Gurpreet Grewal, Alexander Chow, Angela Herman, Badanjit Litt, Benjamin Harris, Christian Clado"
                 }
             ],
             "yearsemester": null
@@ -36893,7 +36893,7 @@
                     "type": "Lecture",
                     "days": "---RF--",
                     "time": "0830-1020",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-10-20",
                     "room": "C509",
                     "instructor": "Mary Peters"
@@ -36902,7 +36902,7 @@
                     "type": "Lecture",
                     "days": "-------",
                     "time": "1830-2020",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-10-20",
                     "room": "WWW",
                     "instructor": "Mary Peters"
@@ -36972,7 +36972,7 @@
                     "type": "Lecture",
                     "days": "---RF--",
                     "time": "0830-1120",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-10-20",
                     "room": "T315",
                     "instructor": "Karen McColgan"
@@ -36981,7 +36981,7 @@
                     "type": "Lecture",
                     "days": "-------",
                     "time": "1830-1920",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-10-20",
                     "room": "WWW",
                     "instructor": "Karen McColgan"
@@ -37051,7 +37051,7 @@
                     "type": "Practicum",
                     "days": "-TW----",
                     "time": "0730-1520",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-10-20",
                     "room": "OFFC",
                     "instructor": "Karen McColgan, Amandeep Turre, Hana Pecinova, Sandeep Atwal, Sandeep Kainth"
@@ -37103,7 +37103,7 @@
                     "type": "Practicum",
                     "days": "-TW----",
                     "time": "0730-1520",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-10-20",
                     "room": "OFFC",
                     "instructor": "Mary Peters, Baljit Khun-Khun, Cristina Follador, Erin Kouwenhoven, Helen Jackson, Janet Bartnik"
@@ -39044,8 +39044,8 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1030-1220",
-                    "start": "2022-9-06",
-                    "end": "2022-9-07",
+                    "start": "2022-09-06",
+                    "end": "2022-09-07",
                     "room": "T350",
                     "instructor": "Tyron Tsui"
                 },
@@ -39062,7 +39062,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1030-1220",
-                    "start": "2022-9-08",
+                    "start": "2022-09-08",
                     "end": "2022-12-02",
                     "room": "T313",
                     "instructor": "Tyron Tsui"
@@ -39150,8 +39150,8 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1030-1220",
-                    "start": "2022-9-06",
-                    "end": "2022-9-07",
+                    "start": "2022-09-06",
+                    "end": "2022-09-07",
                     "room": "T313",
                     "instructor": "Bradley Hughes"
                 },
@@ -39168,7 +39168,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1030-1220",
-                    "start": "2022-9-08",
+                    "start": "2022-09-08",
                     "end": "2022-12-12",
                     "room": "T350",
                     "instructor": "Bradley Hughes"
@@ -41376,7 +41376,7 @@
         },
         {
             "RP": null,
-            "seats": 4,
+            "seats": 5,
             "waitlist": 6,
             "crn": 30144,
             "subject": "PSYC",
@@ -41620,7 +41620,7 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1630-1820",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-10-20",
                     "room": "A122A",
                     "instructor": "Nicole Jenni"
@@ -41629,7 +41629,7 @@
                     "type": "Lecture",
                     "days": "-------",
                     "time": "-",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-10-20",
                     "room": "WWW",
                     "instructor": "Nicole Jenni"
@@ -44209,7 +44209,7 @@
         },
         {
             "RP": "P",
-            "seats": 3,
+            "seats": 4,
             "waitlist": 6,
             "crn": 30774,
             "subject": "STAT",
@@ -44508,7 +44508,7 @@
                     "start": null,
                     "end": null,
                     "room": "B153",
-                    "instructor": "Helen (Hezi) Fu"
+                    "instructor": "Hezi Fu"
                 },
                 {
                     "type": "Exam",
@@ -44517,7 +44517,7 @@
                     "start": "2022-12-08",
                     "end": "2022-12-08",
                     "room": "B153",
-                    "instructor": "Helen (Hezi) Fu"
+                    "instructor": "Hezi Fu"
                 }
             ],
             "yearsemester": null
@@ -47900,8 +47900,8 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1230-1420",
-                    "start": "2022-9-06",
-                    "end": "2022-9-13",
+                    "start": "2022-09-06",
+                    "end": "2022-09-13",
                     "room": "A348",
                     "instructor": "Hannah Flostrand"
                 },
@@ -47909,7 +47909,7 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1230-1420",
-                    "start": "2022-9-14",
+                    "start": "2022-09-14",
                     "end": "2022-12-02",
                     "room": "C412",
                     "instructor": "Hannah Flostrand"
@@ -48117,7 +48117,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "0830-1020",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-10-04",
                     "room": "C409",
                     "instructor": "Andrea Sator"
@@ -48204,7 +48204,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1430-1620",
-                    "start": "2022-9-06",
+                    "start": "2022-09-06",
                     "end": "2022-10-04",
                     "room": "C409",
                     "instructor": "Andrea Sator"

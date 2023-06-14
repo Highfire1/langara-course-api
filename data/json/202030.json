@@ -1,5 +1,5 @@
 {
-    "datetime_retrieved": "2023-04-27 14:25:11",
+    "datetime_retrieved": "2023-06-13 21:39:51",
     "year": 2020,
     "semester": 30,
     "courses_first_day": "2020-12-15",
@@ -871,8 +871,8 @@
                     "type": "Lecture",
                     "days": "-TWRF--",
                     "time": "0900-1550",
-                    "start": "2020-9-08",
-                    "end": "2020-9-11",
+                    "start": "2020-09-08",
+                    "end": "2020-09-11",
                     "room": "A130",
                     "instructor": "Eric Aderneck"
                 }
@@ -15733,7 +15733,7 @@
                     "type": "WWW",
                     "days": "-------",
                     "time": "-",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-12-02",
                     "room": "WWW",
                     "instructor": "Andree Faucher"
@@ -16322,8 +16322,8 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1030-1220",
-                    "start": "2020-9-09",
-                    "end": "2020-9-09",
+                    "start": "2020-09-09",
+                    "end": "2020-09-09",
                     "room": "WWW",
                     "instructor": "Melissa Roberts"
                 },
@@ -16331,7 +16331,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1030-1220",
-                    "start": "2020-9-16",
+                    "start": "2020-09-16",
                     "end": "2020-12-03",
                     "room": "B149",
                     "instructor": "Melissa Roberts"
@@ -18326,7 +18326,7 @@
                     "type": "WWW",
                     "days": "--W----",
                     "time": "0900-1120",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-12-09",
                     "room": "WWW",
                     "instructor": "Erin Yorke"
@@ -18335,7 +18335,7 @@
                     "type": "WWW",
                     "days": "--W----",
                     "time": "1230-1450",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-12-09",
                     "room": "WWW",
                     "instructor": "Erin Yorke"
@@ -18361,7 +18361,7 @@
                     "type": "WWW",
                     "days": "-T-----",
                     "time": "0900-1120",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-12-08",
                     "room": "WWW",
                     "instructor": "Leslie Burgess"
@@ -18370,7 +18370,7 @@
                     "type": "WWW",
                     "days": "-T-----",
                     "time": "1230-1250",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-12-08",
                     "room": "WWW",
                     "instructor": "Leslie Burgess"
@@ -18448,7 +18448,7 @@
                     "type": "WWW",
                     "days": "M------",
                     "time": "0900-1120",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-12-07",
                     "room": "WWW",
                     "instructor": "Erin Yorke"
@@ -18457,7 +18457,7 @@
                     "type": "WWW",
                     "days": "M------",
                     "time": "1230-1450",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-12-07",
                     "room": "WWW",
                     "instructor": "Erin Yorke"
@@ -18483,7 +18483,7 @@
                     "type": "WWW",
                     "days": "----F--",
                     "time": "0900-1120",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-12-11",
                     "room": "WWW",
                     "instructor": "Jennifer Erickson"
@@ -18492,7 +18492,7 @@
                     "type": "WWW",
                     "days": "----F--",
                     "time": "1230-1450",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-12-11",
                     "room": "WWW",
                     "instructor": "Jennifer Erickson"
@@ -18518,7 +18518,7 @@
                     "type": "WWW",
                     "days": "M-W----",
                     "time": "1600-1950",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-12-09",
                     "room": "WWW",
                     "instructor": "Leslie Burgess"
@@ -18570,7 +18570,7 @@
                     "type": "WWW",
                     "days": "---R---",
                     "time": "0900-1120",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-12-10",
                     "room": "WWW",
                     "instructor": "Leslie Burgess"
@@ -18579,7 +18579,7 @@
                     "type": "WWW",
                     "days": "---R---",
                     "time": "1230-1450",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-12-10",
                     "room": "WWW",
                     "instructor": "Leslie Burgess"
@@ -22102,7 +22102,7 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "0930-1320",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-10-20",
                     "room": "A077",
                     "instructor": "Daniel Nowak"
@@ -22154,7 +22154,7 @@
                     "type": "WWW",
                     "days": "----F--",
                     "time": "1430-1820",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-10-20",
                     "room": "WWW",
                     "instructor": "Ryan Smith"
@@ -25594,7 +25594,7 @@
                     "type": "Flexible Assessment",
                     "days": "-------",
                     "time": "-",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-10-20",
                     "room": "WWW",
                     "instructor": "Monica Molag"
@@ -25655,7 +25655,7 @@
                     "type": "Flexible Assessment",
                     "days": "-------",
                     "time": "-",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-10-20",
                     "room": "WWW",
                     "instructor": "Monica Molag"
@@ -25707,7 +25707,7 @@
                     "type": "WWW",
                     "days": "-------",
                     "time": "-",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-10-20",
                     "room": "WWW",
                     "instructor": "Cristel Moubarak"
@@ -25733,7 +25733,7 @@
                     "type": "Flexible Assessment",
                     "days": "-------",
                     "time": "-",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-10-20",
                     "room": "WWW",
                     "instructor": "Laura Cullen"
@@ -25759,7 +25759,7 @@
                     "type": "Flexible Assessment",
                     "days": "-------",
                     "time": "-",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-10-20",
                     "room": "WWW",
                     "instructor": "Laura Cullen"
@@ -27716,8 +27716,8 @@
                     "type": "Seminar",
                     "days": "--W----",
                     "time": "0830-1020",
-                    "start": "2020-9-16",
-                    "end": "2020-9-16",
+                    "start": "2020-09-16",
+                    "end": "2020-09-16",
                     "room": "WWW",
                     "instructor": "Jasmyne Rockwell"
                 },
@@ -27725,8 +27725,8 @@
                     "type": "Seminar",
                     "days": "--W----",
                     "time": "0830-1020",
-                    "start": "2020-9-30",
-                    "end": "2020-9-30",
+                    "start": "2020-09-30",
+                    "end": "2020-09-30",
                     "room": "WWW",
                     "instructor": "Jasmyne Rockwell"
                 },
@@ -27830,7 +27830,7 @@
                     "type": "Lecture",
                     "days": "-------",
                     "time": "-",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-10-20",
                     "room": " ",
                     "instructor": " "
@@ -28715,7 +28715,7 @@
                     "type": "WWW",
                     "days": "-------",
                     "time": "-",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-12-09",
                     "room": "WWW",
                     "instructor": "Sean Maschmann"
@@ -29849,7 +29849,7 @@
                     "type": "WWW",
                     "days": "-------",
                     "time": "-",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-12-16",
                     "room": "WWW",
                     "instructor": "Naho Ogata"
@@ -35744,7 +35744,7 @@
                     "type": "WWW",
                     "days": "-T-R---",
                     "time": "0830-1020",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-12-04",
                     "room": "WWW",
                     "instructor": "Koopa Hakimi"
@@ -38284,7 +38284,7 @@
                     "type": "WWW",
                     "days": "---RF--",
                     "time": "0830-1020",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-10-16",
                     "room": "WWW",
                     "instructor": "Cristina Follador"
@@ -38293,7 +38293,7 @@
                     "type": "WWW",
                     "days": "-------",
                     "time": "1830-2020",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-10-16",
                     "room": "WWW",
                     "instructor": "Cristina Follador"
@@ -38363,7 +38363,7 @@
                     "type": "WWW",
                     "days": "---RF--",
                     "time": "0830-1120",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-10-16",
                     "room": "WWW",
                     "instructor": "Sandeep Atwal"
@@ -38372,7 +38372,7 @@
                     "type": "WWW",
                     "days": "-------",
                     "time": "1830-1920",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-10-16",
                     "room": "WWW",
                     "instructor": "Sandeep Atwal"
@@ -38442,7 +38442,7 @@
                     "type": "Practicum",
                     "days": "-TW----",
                     "time": "0730-1520",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-10-16",
                     "room": "OFFC",
                     "instructor": "Sandeep Atwal, Hana Pecinova, Karen McColgan, Manpreet Mann-Mattoo, Sarah Desbiens"
@@ -38494,7 +38494,7 @@
                     "type": "Practicum",
                     "days": "-TW----",
                     "time": "0730-1520",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-10-16",
                     "room": "OFFC",
                     "instructor": "Baljit Khun-Khun, Mary Peters, Sabrina Chahal, Tara Mants"
@@ -39404,7 +39404,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1430-1620",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-10-20",
                     "room": "TBSCH",
                     "instructor": "Charles Go"
@@ -39413,7 +39413,7 @@
                     "type": "Lecture",
                     "days": "-------",
                     "time": "-",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-10-20",
                     "room": "WWW",
                     "instructor": "Charles Go"
@@ -39439,7 +39439,7 @@
                     "type": "WWW",
                     "days": "-------",
                     "time": "-",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-10-20",
                     "room": " ",
                     "instructor": " "
@@ -39465,7 +39465,7 @@
                     "type": "WWW",
                     "days": "-------",
                     "time": "-",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-10-20",
                     "room": "WWW",
                     "instructor": "Charles Go"
@@ -46136,7 +46136,7 @@
                     "type": "WWW",
                     "days": "-T-R---",
                     "time": "1430-1620",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-12-04",
                     "room": "WWW",
                     "instructor": "Nooshin Lary"
@@ -47109,7 +47109,7 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "0930-1100",
-                    "start": "2020-9-08",
+                    "start": "2020-09-08",
                     "end": "2020-10-07",
                     "room": "GYM",
                     "instructor": "Kathleen McDonagh, Michelle Olson, Shelley Hunt, Wendy Gorling"
@@ -49437,7 +49437,7 @@
                     "type": "WWW",
                     "days": "-------",
                     "time": "-",
-                    "start": "2020-9-21",
+                    "start": "2020-09-21",
                     "end": "2020-11-20",
                     "room": "WWW",
                     "instructor": "Shirley Hui"

@@ -1,8 +1,8 @@
 {
-    "datetime_retrieved": "2023-04-27 14:25:11",
+    "datetime_retrieved": "2023-06-13 21:39:51",
     "year": 2018,
     "semester": 30,
-    "courses_first_day": "2018-9-04",
+    "courses_first_day": "2018-09-04",
     "courses_last_day": "2018-12-05",
     "courses": [
         {
@@ -23,8 +23,8 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "1030-1320",
-                    "start": "2018-9-04",
-                    "end": "2018-9-14",
+                    "start": "2018-09-04",
+                    "end": "2018-09-14",
                     "room": "A215",
                     "instructor": "Justin Wilson"
                 },
@@ -32,7 +32,7 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "1030-1320",
-                    "start": "2018-9-17",
+                    "start": "2018-09-17",
                     "end": "2018-12-03",
                     "room": "A167",
                     "instructor": "Justin Wilson"
@@ -67,8 +67,8 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "1330-1620",
-                    "start": "2018-9-04",
-                    "end": "2018-9-14",
+                    "start": "2018-09-04",
+                    "end": "2018-09-14",
                     "room": "A215",
                     "instructor": "Georgina Martin"
                 },
@@ -76,7 +76,7 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "1330-1620",
-                    "start": "2018-9-17",
+                    "start": "2018-09-17",
                     "end": "2018-12-03",
                     "room": "A167",
                     "instructor": "Georgina Martin"
@@ -111,8 +111,8 @@
                     "type": "Lecture",
                     "days": "M-W----",
                     "time": "1230-1420",
-                    "start": "2018-9-04",
-                    "end": "2018-9-14",
+                    "start": "2018-09-04",
+                    "end": "2018-09-14",
                     "room": "A333",
                     "instructor": "Heather Commodore"
                 },
@@ -120,7 +120,7 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1230-1420",
-                    "start": "2018-9-17",
+                    "start": "2018-09-17",
                     "end": "2018-12-03",
                     "room": "A256",
                     "instructor": "Heather Commodore"
@@ -129,7 +129,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1230-1420",
-                    "start": "2018-9-17",
+                    "start": "2018-09-17",
                     "end": "2018-12-03",
                     "room": "A167",
                     "instructor": "Heather Commodore"
@@ -164,8 +164,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1030-1220",
-                    "start": "2018-9-04",
-                    "end": "2018-9-14",
+                    "start": "2018-09-04",
+                    "end": "2018-09-14",
                     "room": "A267",
                     "instructor": "Justin Wilson"
                 },
@@ -173,7 +173,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1030-1220",
-                    "start": "2018-9-17",
+                    "start": "2018-09-17",
                     "end": "2018-12-03",
                     "room": "A167",
                     "instructor": "Justin Wilson"
@@ -225,8 +225,8 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1230-1420",
-                    "start": "2018-9-04",
-                    "end": "2018-9-14",
+                    "start": "2018-09-04",
+                    "end": "2018-09-14",
                     "room": "B030",
                     "instructor": "Justin Wilson"
                 },
@@ -234,7 +234,7 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1230-1420",
-                    "start": "2018-9-17",
+                    "start": "2018-09-17",
                     "end": "2018-12-03",
                     "room": "A167",
                     "instructor": "Justin Wilson"
@@ -269,8 +269,8 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1430-1620",
-                    "start": "2018-9-04",
-                    "end": "2018-9-14",
+                    "start": "2018-09-04",
+                    "end": "2018-09-14",
                     "room": "A306",
                     "instructor": "Heather Commodore"
                 },
@@ -278,7 +278,7 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1430-1620",
-                    "start": "2018-9-17",
+                    "start": "2018-09-17",
                     "end": "2018-12-03",
                     "room": "A167",
                     "instructor": "Heather Commodore"
@@ -908,8 +908,8 @@
                     "type": "Lecture",
                     "days": "-TWRF--",
                     "time": "0900-1620",
-                    "start": "2018-9-04",
-                    "end": "2018-9-07",
+                    "start": "2018-09-04",
+                    "end": "2018-09-07",
                     "room": "A338",
                     "instructor": "Eric Aderneck"
                 }
@@ -1083,8 +1083,8 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0900-1620",
-                    "start": "2018-9-21",
-                    "end": "2018-9-21",
+                    "start": "2018-09-21",
+                    "end": "2018-09-21",
                     "room": "A346",
                     "instructor": "Kathryn Nairne"
                 }
@@ -1590,7 +1590,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -1616,7 +1616,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -2476,8 +2476,8 @@
                     "type": "Lecture",
                     "days": "M--R---",
                     "time": "0830-1020",
-                    "start": "2018-9-04",
-                    "end": "2018-9-14",
+                    "start": "2018-09-04",
+                    "end": "2018-09-14",
                     "room": "A368",
                     "instructor": "Linda Chang"
                 },
@@ -2485,7 +2485,7 @@
                     "type": "Lecture",
                     "days": "M--R---",
                     "time": "0830-1020",
-                    "start": "2018-9-17",
+                    "start": "2018-09-17",
                     "end": "2018-12-03",
                     "room": "A167",
                     "instructor": "Linda Chang"
@@ -3664,8 +3664,8 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1230-1420",
-                    "start": "2018-9-04",
-                    "end": "2018-9-14",
+                    "start": "2018-09-04",
+                    "end": "2018-09-14",
                     "room": "A368",
                     "instructor": "Garyen Chong"
                 },
@@ -3673,7 +3673,7 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1230-1420",
-                    "start": "2018-9-17",
+                    "start": "2018-09-17",
                     "end": "2018-12-03",
                     "room": "B030",
                     "instructor": "Garyen Chong"
@@ -7054,7 +7054,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -7280,7 +7280,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -7341,7 +7341,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -8738,7 +8738,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-10-18",
                     "room": " ",
                     "instructor": " "
@@ -9046,8 +9046,8 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "1330-1420",
-                    "start": "2018-9-04",
-                    "end": "2018-9-27",
+                    "start": "2018-09-04",
+                    "end": "2018-09-27",
                     "room": "T532",
                     "instructor": "Johanne Penafiel"
                 },
@@ -9064,7 +9064,7 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "1330-1420",
-                    "start": "2018-9-28",
+                    "start": "2018-09-28",
                     "end": "2018-12-03",
                     "room": "T513",
                     "instructor": "Johanne Penafiel"
@@ -10070,7 +10070,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -11634,8 +11634,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1030-1120",
-                    "start": "2018-9-04",
-                    "end": "2018-9-14",
+                    "start": "2018-09-04",
+                    "end": "2018-09-14",
                     "room": "A368",
                     "instructor": "Sarah Richards"
                 },
@@ -11652,7 +11652,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1030-1120",
-                    "start": "2018-9-17",
+                    "start": "2018-09-17",
                     "end": "2018-11-02",
                     "room": "A276",
                     "instructor": "Sarah Richards"
@@ -13172,7 +13172,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -13647,8 +13647,8 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "0830-1120",
-                    "start": "2018-9-04",
-                    "end": "2018-9-14",
+                    "start": "2018-09-04",
+                    "end": "2018-09-14",
                     "room": "A368",
                     "instructor": "Maryam Samiei"
                 },
@@ -13665,7 +13665,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "0830-1120",
-                    "start": "2018-9-17",
+                    "start": "2018-09-17",
                     "end": "2018-11-02",
                     "room": "A167",
                     "instructor": "Maryam Samiei"
@@ -16383,7 +16383,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -16698,7 +16698,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -16759,7 +16759,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -17424,8 +17424,8 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "0830-1020",
-                    "start": "2018-9-04",
-                    "end": "2018-9-24",
+                    "start": "2018-09-04",
+                    "end": "2018-09-24",
                     "room": "A266",
                     "instructor": "Caroline Harvey"
                 },
@@ -17433,7 +17433,7 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "0830-1020",
-                    "start": "2018-9-25",
+                    "start": "2018-09-25",
                     "end": "2018-12-03",
                     "room": "A274",
                     "instructor": "Caroline Harvey"
@@ -18422,7 +18422,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -18500,7 +18500,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -19104,7 +19104,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -20251,8 +20251,8 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "0830-1020",
-                    "start": "2018-9-04",
-                    "end": "2018-9-24",
+                    "start": "2018-09-04",
+                    "end": "2018-09-24",
                     "room": "A308",
                     "instructor": "Daniel Poirier"
                 },
@@ -20260,7 +20260,7 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "0830-1020",
-                    "start": "2018-9-25",
+                    "start": "2018-09-25",
                     "end": "2018-12-03",
                     "room": "A310",
                     "instructor": "Daniel Poirier"
@@ -20330,7 +20330,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -23936,7 +23936,7 @@
                     "type": "Flexible Assessment",
                     "days": "-------",
                     "time": "-",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-10-18",
                     "room": "WWW",
                     "instructor": "Sian Hoe Cheong"
@@ -24101,7 +24101,7 @@
                     "type": "WWW",
                     "days": "-------",
                     "time": "-",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-10-18",
                     "room": "WWW",
                     "instructor": "Janice Sorensen"
@@ -25461,8 +25461,8 @@
                     "type": "Lab",
                     "days": "--W----",
                     "time": "1530-1720",
-                    "start": "2018-9-04",
-                    "end": "2018-9-13",
+                    "start": "2018-09-04",
+                    "end": "2018-09-13",
                     "room": "A217",
                     "instructor": "Andrew Egan"
                 },
@@ -25470,7 +25470,7 @@
                     "type": "Lab",
                     "days": "--W----",
                     "time": "1530-1720",
-                    "start": "2018-9-14",
+                    "start": "2018-09-14",
                     "end": "2018-12-03",
                     "room": "A219",
                     "instructor": "Andrew Egan"
@@ -28191,7 +28191,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -28829,8 +28829,8 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1230-1420",
-                    "start": "2018-9-04",
-                    "end": "2018-9-14",
+                    "start": "2018-09-04",
+                    "end": "2018-09-14",
                     "room": "A368",
                     "instructor": "Andrew Perrotta"
                 },
@@ -28847,7 +28847,7 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1230-1420",
-                    "start": "2018-9-17",
+                    "start": "2018-09-17",
                     "end": "2018-11-02",
                     "room": "A333",
                     "instructor": "Andrew Perrotta"
@@ -28935,8 +28935,8 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1030-1220",
-                    "start": "2018-9-04",
-                    "end": "2018-9-14",
+                    "start": "2018-09-04",
+                    "end": "2018-09-14",
                     "room": "A368",
                     "instructor": "Andrew Perrotta"
                 },
@@ -28953,7 +28953,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1030-1220",
-                    "start": "2018-9-17",
+                    "start": "2018-09-17",
                     "end": "2018-11-02",
                     "room": "A167",
                     "instructor": "Andrew Perrotta"
@@ -28997,8 +28997,8 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1230-1420",
-                    "start": "2018-9-04",
-                    "end": "2018-9-14",
+                    "start": "2018-09-04",
+                    "end": "2018-09-14",
                     "room": "A368",
                     "instructor": "Beth Rizzardo"
                 },
@@ -29015,7 +29015,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1230-1420",
-                    "start": "2018-9-17",
+                    "start": "2018-09-17",
                     "end": "2018-11-02",
                     "room": "A333",
                     "instructor": "Beth Rizzardo"
@@ -30131,7 +30131,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -30157,7 +30157,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -31018,8 +31018,8 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1630-1820",
-                    "start": "2018-9-04",
-                    "end": "2018-9-13",
+                    "start": "2018-09-04",
+                    "end": "2018-09-13",
                     "room": "A219",
                     "instructor": "Beth Rizzardo"
                 },
@@ -31036,7 +31036,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1630-1820",
-                    "start": "2018-9-14",
+                    "start": "2018-09-14",
                     "end": "2018-12-03",
                     "room": "A217",
                     "instructor": "Beth Rizzardo"
@@ -31603,7 +31603,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -31629,7 +31629,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -31795,7 +31795,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -31996,7 +31996,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -32092,7 +32092,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -32153,7 +32153,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -32179,7 +32179,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -32275,7 +32275,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -32546,7 +32546,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -32642,7 +32642,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -33158,7 +33158,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -35951,7 +35951,7 @@
                     "type": "Lecture",
                     "days": "---RF--",
                     "time": "0830-1120",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-10-18",
                     "room": "L342",
                     "instructor": "Cristina Follador"
@@ -35960,7 +35960,7 @@
                     "type": "Lecture",
                     "days": "-------",
                     "time": "1830-1920",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-10-18",
                     "room": "WWW",
                     "instructor": "Cristina Follador"
@@ -36030,7 +36030,7 @@
                     "type": "Lecture",
                     "days": "---RF--",
                     "time": "0830-1120",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-10-18",
                     "room": "T315",
                     "instructor": "Sandeep Atwal"
@@ -36039,7 +36039,7 @@
                     "type": "Lecture",
                     "days": "-------",
                     "time": "1830-1920",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-10-18",
                     "room": "WWW",
                     "instructor": "Sandeep Atwal"
@@ -36109,7 +36109,7 @@
                     "type": "Practicum",
                     "days": "-TW----",
                     "time": "0730-1520",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-10-10",
                     "room": "OFFC",
                     "instructor": "Karen McColgan, Manpreet Mann-Mattoo, Nancy Woo, Sandeep Atwal"
@@ -36161,7 +36161,7 @@
                     "type": "Practicum",
                     "days": "-TW----",
                     "time": "0730-1520",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-10-10",
                     "room": "OFFC",
                     "instructor": "Helen Jackson, Baljit Khun-Khun, Mary Peters, Sarah Jill Rusen, Shannon Johnson"
@@ -36991,7 +36991,7 @@
                     "type": "WWW",
                     "days": "-------",
                     "time": "-",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-10-18",
                     "room": "WWW",
                     "instructor": "Janice Sorensen"
@@ -38665,8 +38665,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1030-1220",
-                    "start": "2018-9-04",
-                    "end": "2018-9-26",
+                    "start": "2018-09-04",
+                    "end": "2018-09-26",
                     "room": "C410",
                     "instructor": "Richard Wong"
                 },
@@ -38674,7 +38674,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1030-1220",
-                    "start": "2018-9-27",
+                    "start": "2018-09-27",
                     "end": "2018-12-03",
                     "room": "T513",
                     "instructor": "Richard Wong"
@@ -40806,7 +40806,7 @@
                     "type": "Lecture",
                     "days": "MT-R---",
                     "time": "1530-1720",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-10-18",
                     "room": "A237",
                     "instructor": "Angel Chen"
@@ -42049,7 +42049,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -42259,7 +42259,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -42285,7 +42285,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -43151,8 +43151,8 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1830-2120",
-                    "start": "2018-9-04",
-                    "end": "2018-9-23",
+                    "start": "2018-09-04",
+                    "end": "2018-09-23",
                     "room": "B010",
                     "instructor": "Indira-Natasha Prahst"
                 },
@@ -43160,7 +43160,7 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1830-2120",
-                    "start": "2018-9-24",
+                    "start": "2018-09-24",
                     "end": "2018-12-03",
                     "room": "B008",
                     "instructor": "Indira-Natasha Prahst"
@@ -47280,8 +47280,8 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0930-1220",
-                    "start": "2018-9-14",
-                    "end": "2018-9-14",
+                    "start": "2018-09-14",
+                    "end": "2018-09-14",
                     "room": "A319",
                     "instructor": "Linda Dom"
                 },
@@ -47289,7 +47289,7 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0930-1220",
-                    "start": "2018-9-28",
+                    "start": "2018-09-28",
                     "end": "2018-12-03",
                     "room": "A319",
                     "instructor": "Linda Dom"
@@ -47341,7 +47341,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "
@@ -47393,7 +47393,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1630-1820",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-10-19",
                     "room": "A237",
                     "instructor": "Manuela Klick"
@@ -47610,7 +47610,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2018-9-04",
+                    "start": "2018-09-04",
                     "end": "2018-12-17",
                     "room": " ",
                     "instructor": " "

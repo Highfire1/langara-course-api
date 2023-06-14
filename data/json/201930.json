@@ -1,5 +1,5 @@
 {
-    "datetime_retrieved": "2023-04-27 14:25:11",
+    "datetime_retrieved": "2023-06-13 21:39:51",
     "year": 2019,
     "semester": 30,
     "courses_first_day": "2019-12-12",
@@ -845,8 +845,8 @@
                     "type": "Lecture",
                     "days": "-TWRF--",
                     "time": "0900-1620",
-                    "start": "2019-9-03",
-                    "end": "2019-9-06",
+                    "start": "2019-09-03",
+                    "end": "2019-09-06",
                     "room": "A368",
                     "instructor": "Eric Aderneck"
                 }
@@ -2712,7 +2712,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -2967,7 +2967,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -3389,7 +3389,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -3415,7 +3415,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -5924,8 +5924,8 @@
                     "type": "Lecture",
                     "days": "M-W----",
                     "time": "1430-1620",
-                    "start": "2019-9-03",
-                    "end": "2019-9-15",
+                    "start": "2019-09-03",
+                    "end": "2019-09-15",
                     "room": "A237",
                     "instructor": "Bernard Maroney"
                 },
@@ -5933,7 +5933,7 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1430-1620",
-                    "start": "2019-9-16",
+                    "start": "2019-09-16",
                     "end": "2019-12-02",
                     "room": "T313",
                     "instructor": "Bernard Maroney"
@@ -5942,7 +5942,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1430-1620",
-                    "start": "2019-9-16",
+                    "start": "2019-09-16",
                     "end": "2019-12-02",
                     "room": "T513",
                     "instructor": "Bernard Maroney"
@@ -7268,7 +7268,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1830-2120",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-10-14",
                     "room": "G109A",
                     "instructor": "Phil Mentacos"
@@ -8001,8 +8001,8 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1430-1620",
-                    "start": "2019-9-03",
-                    "end": "2019-9-15",
+                    "start": "2019-09-03",
+                    "end": "2019-09-15",
                     "room": "A237",
                     "instructor": "Ronald Shay"
                 },
@@ -8010,7 +8010,7 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1430-1620",
-                    "start": "2019-9-16",
+                    "start": "2019-09-16",
                     "end": "2019-12-02",
                     "room": "A276",
                     "instructor": "Ronald Shay"
@@ -8071,7 +8071,7 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1630-1820",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-10-09",
                     "room": "A237",
                     "instructor": "Adrienne Petersohn"
@@ -8852,7 +8852,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1230-1320",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-10-10",
                     "room": "A255",
                     "instructor": "Yanguo Yang"
@@ -9885,8 +9885,8 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1730-1920",
-                    "start": "2019-9-03",
-                    "end": "2019-9-15",
+                    "start": "2019-09-03",
+                    "end": "2019-09-15",
                     "room": "T537",
                     "instructor": "Johanne Penafiel"
                 },
@@ -9894,8 +9894,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1730-1820",
-                    "start": "2019-9-03",
-                    "end": "2019-9-15",
+                    "start": "2019-09-03",
+                    "end": "2019-09-15",
                     "room": "T537",
                     "instructor": "Johanne Penafiel"
                 },
@@ -9903,7 +9903,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1730-1920",
-                    "start": "2019-9-16",
+                    "start": "2019-09-16",
                     "end": "2019-12-02",
                     "room": "T533",
                     "instructor": "Johanne Penafiel"
@@ -9912,7 +9912,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1730-1820",
-                    "start": "2019-9-16",
+                    "start": "2019-09-16",
                     "end": "2019-12-02",
                     "room": "T533",
                     "instructor": "Johanne Penafiel"
@@ -10448,7 +10448,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -11842,7 +11842,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -12035,7 +12035,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -12237,7 +12237,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -12395,7 +12395,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -12685,7 +12685,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -12887,7 +12887,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -13283,7 +13283,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -15084,7 +15084,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -16466,7 +16466,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -17148,7 +17148,7 @@
                     "type": "Practicum",
                     "days": "-------",
                     "time": "-",
-                    "start": "2019-9-30",
+                    "start": "2019-09-30",
                     "end": "2019-10-25",
                     "room": "OFFC",
                     "instructor": "Eleanor Cramb, Erin Yorke"
@@ -17244,8 +17244,8 @@
                     "type": "Lecture",
                     "days": "--W-F--",
                     "time": "1430-1620",
-                    "start": "2019-9-03",
-                    "end": "2019-9-10",
+                    "start": "2019-09-03",
+                    "end": "2019-09-10",
                     "room": "T513",
                     "instructor": "Sarah Richards"
                 },
@@ -17253,7 +17253,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1230-1420",
-                    "start": "2019-9-11",
+                    "start": "2019-09-11",
                     "end": "2019-12-02",
                     "room": "T315",
                     "instructor": "Sarah Richards"
@@ -17262,7 +17262,7 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "1230-1420",
-                    "start": "2019-9-11",
+                    "start": "2019-09-11",
                     "end": "2019-12-02",
                     "room": "T313",
                     "instructor": "Sarah Richards"
@@ -18425,7 +18425,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -19886,7 +19886,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -20839,7 +20839,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -23553,7 +23553,7 @@
                     "type": "Flexible Assessment",
                     "days": "-------",
                     "time": "-",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-10-16",
                     "room": "WWW",
                     "instructor": "Laura Cullen"
@@ -23692,7 +23692,7 @@
                     "type": "WWW",
                     "days": "-------",
                     "time": "-",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-10-16",
                     "room": "WWW",
                     "instructor": "Janice Sorensen"
@@ -25517,7 +25517,7 @@
                     "type": "Flexible Assessment",
                     "days": "-------",
                     "time": "-",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-03",
                     "room": "OFFC",
                     "instructor": "Jeanette Robertson"
@@ -26024,8 +26024,8 @@
                     "type": "Lecture",
                     "days": "M-W----",
                     "time": "1630-1820",
-                    "start": "2019-9-03",
-                    "end": "2019-9-15",
+                    "start": "2019-09-03",
+                    "end": "2019-09-15",
                     "room": "A348",
                     "instructor": "Patrick de Sousa"
                 },
@@ -26033,7 +26033,7 @@
                     "type": "Lecture",
                     "days": "M-W----",
                     "time": "1630-1820",
-                    "start": "2019-9-16",
+                    "start": "2019-09-16",
                     "end": "2019-12-02",
                     "room": "C410",
                     "instructor": "Patrick de Sousa"
@@ -26068,7 +26068,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -26164,8 +26164,8 @@
                     "type": "Lecture",
                     "days": "M-W----",
                     "time": "0830-1020",
-                    "start": "2019-9-03",
-                    "end": "2019-9-15",
+                    "start": "2019-09-03",
+                    "end": "2019-09-15",
                     "room": "A272",
                     "instructor": "Anne Toews"
                 },
@@ -26173,7 +26173,7 @@
                     "type": "Lecture",
                     "days": "M-W----",
                     "time": "0830-1020",
-                    "start": "2019-9-16",
+                    "start": "2019-09-16",
                     "end": "2019-12-02",
                     "room": "B246",
                     "instructor": "Anne Toews"
@@ -27468,7 +27468,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -27494,7 +27494,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -27965,7 +27965,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -28017,7 +28017,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -29209,7 +29209,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -29235,7 +29235,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -29428,7 +29428,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -30253,7 +30253,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -33035,7 +33035,7 @@
                     "type": "Lecture",
                     "days": "M-W----",
                     "time": "1830-2020",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-10-08",
                     "room": "A122B",
                     "instructor": "Mahdad Khatirinejad"
@@ -33858,7 +33858,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -34962,7 +34962,7 @@
                     "type": "Lecture",
                     "days": "---RF--",
                     "time": "0830-1120",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-10-16",
                     "room": "C509",
                     "instructor": "Baljit Khun-Khun"
@@ -34971,7 +34971,7 @@
                     "type": "Lecture",
                     "days": "-------",
                     "time": "1830-1920",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-10-16",
                     "room": "WWW",
                     "instructor": "Baljit Khun-Khun"
@@ -35041,7 +35041,7 @@
                     "type": "Lecture",
                     "days": "---RF--",
                     "time": "0830-1120",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-10-16",
                     "room": "T315",
                     "instructor": "Karen McColgan"
@@ -35050,7 +35050,7 @@
                     "type": "Lecture",
                     "days": "-------",
                     "time": "1830-1920",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-10-16",
                     "room": "WWW",
                     "instructor": "Karen McColgan"
@@ -35120,7 +35120,7 @@
                     "type": "Practicum",
                     "days": "-TW----",
                     "time": "0730-1520",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-10-16",
                     "room": "OFFC",
                     "instructor": "Sandeep Atwal, Karen McColgan, Manpreet Mann-Mattoo, Nancy Woo, Sandeep Kainth"
@@ -35172,7 +35172,7 @@
                     "type": "Practicum",
                     "days": "-TW----",
                     "time": "0730-1520",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-10-16",
                     "room": "OFFC",
                     "instructor": "Mary Peters, Baljit Khun-Khun, Helen Jackson, Rebecca Stewart"
@@ -36126,7 +36126,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1230-1420",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-10-16",
                     "room": "C409",
                     "instructor": "Janice Sorensen"
@@ -36135,7 +36135,7 @@
                     "type": "Lecture",
                     "days": "-------",
                     "time": "-",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-10-16",
                     "room": "WWW",
                     "instructor": "Janice Sorensen"
@@ -36161,7 +36161,7 @@
                     "type": "Lecture",
                     "days": "-------",
                     "time": "-",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-10-16",
                     "room": "WWW",
                     "instructor": "Janice Sorensen"
@@ -37553,7 +37553,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -40385,7 +40385,7 @@
                     "type": "Lecture",
                     "days": "MT-R---",
                     "time": "1530-1720",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-10-16",
                     "room": "A347",
                     "instructor": "Angel Chen"
@@ -43648,7 +43648,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2019-9-03",
+                    "start": "2019-09-03",
                     "end": "2019-12-16",
                     "room": " ",
                     "instructor": " "
@@ -46753,8 +46753,8 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0930-1220",
-                    "start": "2019-9-13",
-                    "end": "2019-9-27",
+                    "start": "2019-09-13",
+                    "end": "2019-09-27",
                     "room": "A215",
                     "instructor": "Sue Hyun Yang"
                 },

@@ -1,5 +1,5 @@
 {
-    "datetime_retrieved": "2023-04-27 14:25:11",
+    "datetime_retrieved": "2023-06-13 21:39:51",
     "year": 2017,
     "semester": 30,
     "courses_first_day": "2017-12-06",
@@ -801,8 +801,8 @@
                     "type": "Lecture",
                     "days": "-TWRF--",
                     "time": "0900-1620",
-                    "start": "2017-9-05",
-                    "end": "2017-9-09",
+                    "start": "2017-09-05",
+                    "end": "2017-09-09",
                     "room": "A217",
                     "instructor": "Eric Aderneck"
                 }
@@ -958,8 +958,8 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0900-1620",
-                    "start": "2017-9-22",
-                    "end": "2017-9-22",
+                    "start": "2017-09-22",
+                    "end": "2017-09-22",
                     "room": "B010",
                     "instructor": "Kathryn Nairne"
                 },
@@ -967,8 +967,8 @@
                     "type": "Lecture",
                     "days": "-------",
                     "time": "-",
-                    "start": "2017-9-22",
-                    "end": "2017-9-22",
+                    "start": "2017-09-22",
+                    "end": "2017-09-22",
                     "room": "WWW",
                     "instructor": "Kathryn Nairne"
                 }
@@ -7511,7 +7511,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2017-9-05",
+                    "start": "2017-09-05",
                     "end": "2017-12-14",
                     "room": " ",
                     "instructor": " "
@@ -8885,7 +8885,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2017-9-05",
+                    "start": "2017-09-05",
                     "end": "2017-12-14",
                     "room": " ",
                     "instructor": " "
@@ -9482,7 +9482,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2017-9-05",
+                    "start": "2017-09-05",
                     "end": "2017-12-14",
                     "room": " ",
                     "instructor": " "
@@ -10537,7 +10537,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2017-9-05",
+                    "start": "2017-09-05",
                     "end": "2017-12-14",
                     "room": " ",
                     "instructor": " "
@@ -17264,7 +17264,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2017-9-05",
+                    "start": "2017-09-05",
                     "end": "2017-12-14",
                     "room": " ",
                     "instructor": " "
@@ -19261,7 +19261,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2017-9-05",
+                    "start": "2017-09-05",
                     "end": "2017-12-14",
                     "room": " ",
                     "instructor": " "
@@ -22003,7 +22003,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2017-9-05",
+                    "start": "2017-09-05",
                     "end": "2017-12-14",
                     "room": " ",
                     "instructor": " "
@@ -22376,7 +22376,7 @@
                     "type": "Flexible Assessment",
                     "days": "-------",
                     "time": "-",
-                    "start": "2017-9-05",
+                    "start": "2017-09-05",
                     "end": "2017-10-19",
                     "room": "WWW",
                     "instructor": "Sian Hoe Cheong"
@@ -22437,7 +22437,7 @@
                     "type": "WWW",
                     "days": "-------",
                     "time": "-",
-                    "start": "2017-9-05",
+                    "start": "2017-09-05",
                     "end": "2017-10-19",
                     "room": "WWW",
                     "instructor": "Janice Sorensen, Michelle Shepherd"
@@ -29303,7 +29303,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2017-9-05",
+                    "start": "2017-09-05",
                     "end": "2017-12-14",
                     "room": " ",
                     "instructor": " "
@@ -32281,8 +32281,8 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "1030-1220",
-                    "start": "2017-9-08",
-                    "end": "2017-9-29",
+                    "start": "2017-09-08",
+                    "end": "2017-09-29",
                     "room": "T530",
                     "instructor": "Lanie Fajardo"
                 },
@@ -32334,8 +32334,8 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "1030-1220",
-                    "start": "2017-9-08",
-                    "end": "2017-9-29",
+                    "start": "2017-09-08",
+                    "end": "2017-09-29",
                     "room": "T530",
                     "instructor": "Paravdip Dhaliwal"
                 },
@@ -32658,7 +32658,7 @@
                     "type": "Lecture",
                     "days": "---RF--",
                     "time": "0830-1120",
-                    "start": "2017-9-05",
+                    "start": "2017-09-05",
                     "end": "2017-10-19",
                     "room": "C410",
                     "instructor": "Cristina Follador"
@@ -32667,7 +32667,7 @@
                     "type": "WWW",
                     "days": "-------",
                     "time": "1830-1920",
-                    "start": "2017-9-05",
+                    "start": "2017-09-05",
                     "end": "2017-10-19",
                     "room": "WWW",
                     "instructor": "Cristina Follador"
@@ -32737,7 +32737,7 @@
                     "type": "Lecture",
                     "days": "---RF--",
                     "time": "0830-1120",
-                    "start": "2017-9-05",
+                    "start": "2017-09-05",
                     "end": "2017-10-19",
                     "room": "T315",
                     "instructor": "Hana Pecinova"
@@ -32746,7 +32746,7 @@
                     "type": "WWW",
                     "days": "-------",
                     "time": "1830-1920",
-                    "start": "2017-9-05",
+                    "start": "2017-09-05",
                     "end": "2017-10-19",
                     "room": "WWW",
                     "instructor": "Hana Pecinova"
@@ -32816,7 +32816,7 @@
                     "type": "Practicum",
                     "days": "-TW----",
                     "time": "0730-1520",
-                    "start": "2017-9-05",
+                    "start": "2017-09-05",
                     "end": "2017-10-19",
                     "room": "OFFC",
                     "instructor": "Karen McColgan, Hana Pecinova, Manpreet Mann-Mattoo, Melinda Litynsky, Nancy Woo"
@@ -32868,7 +32868,7 @@
                     "type": "Practicum",
                     "days": "-TW----",
                     "time": "0730-1520",
-                    "start": "2017-9-05",
+                    "start": "2017-09-05",
                     "end": "2017-10-19",
                     "room": "OFFC",
                     "instructor": "Helen Jackson, Baljit Khun-Khun, Mary Peters, Pardeep Grewal, Shannon Johnson"
@@ -33576,7 +33576,7 @@
                     "type": "WWW",
                     "days": "-------",
                     "time": "-",
-                    "start": "2017-9-05",
+                    "start": "2017-09-05",
                     "end": "2017-10-19",
                     "room": "WWW",
                     "instructor": "Janice Sorensen"
@@ -33760,7 +33760,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1230-1320",
-                    "start": "2017-9-20",
+                    "start": "2017-09-20",
                     "end": "2017-10-04",
                     "room": "A130",
                     "instructor": "Lealle Ruhl"
@@ -37507,7 +37507,7 @@
                     "type": "Lecture",
                     "days": "MT-R---",
                     "time": "1530-1720",
-                    "start": "2017-9-05",
+                    "start": "2017-09-05",
                     "end": "2017-10-19",
                     "room": "B148",
                     "instructor": "Noushine Afshar"
@@ -43618,8 +43618,8 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0930-1220",
-                    "start": "2017-9-15",
-                    "end": "2017-9-15",
+                    "start": "2017-09-15",
+                    "end": "2017-09-15",
                     "room": "A310",
                     "instructor": "Manuela Klick"
                 },
@@ -43627,7 +43627,7 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0930-1220",
-                    "start": "2017-9-29",
+                    "start": "2017-09-29",
                     "end": "2017-11-30",
                     "room": "A310",
                     "instructor": "Manuela Klick"
@@ -43653,8 +43653,8 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0930-1220",
-                    "start": "2017-9-15",
-                    "end": "2017-9-15",
+                    "start": "2017-09-15",
+                    "end": "2017-09-15",
                     "room": "A310",
                     "instructor": "Manuela Klick"
                 },
@@ -43662,7 +43662,7 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0930-1220",
-                    "start": "2017-9-29",
+                    "start": "2017-09-29",
                     "end": "2017-11-30",
                     "room": "A310",
                     "instructor": "Manuela Klick"
@@ -43818,7 +43818,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2017-9-05",
+                    "start": "2017-09-05",
                     "end": "2017-12-14",
                     "room": " ",
                     "instructor": " "

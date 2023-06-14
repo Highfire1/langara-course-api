@@ -1,8 +1,8 @@
 {
-    "datetime_retrieved": "2023-04-27 14:25:11",
+    "datetime_retrieved": "2023-06-13 21:39:51",
     "year": 2014,
     "semester": 30,
-    "courses_first_day": "2014-8-29",
+    "courses_first_day": "2014-08-29",
     "courses_last_day": "2014-12-01",
     "courses": [
         {
@@ -967,7 +967,7 @@
                     "type": "Field School",
                     "days": "-------",
                     "time": "-",
-                    "start": "2014-8-29",
+                    "start": "2014-08-29",
                     "end": "2014-11-08",
                     "room": "OFFC",
                     "instructor": "Bruce Hanbury"
@@ -1264,7 +1264,7 @@
                     "type": "Field School",
                     "days": "-------",
                     "time": "-",
-                    "start": "2014-8-29",
+                    "start": "2014-08-29",
                     "end": "2014-11-08",
                     "room": "OFFC",
                     "instructor": "Bruce Hanbury"
@@ -2186,8 +2186,8 @@
                     "type": "Lecture",
                     "days": "--WR---",
                     "time": "1630-1820",
-                    "start": "2014-9-02",
-                    "end": "2014-9-11",
+                    "start": "2014-09-02",
+                    "end": "2014-09-11",
                     "room": "A347",
                     "instructor": "Joanna Woltosz"
                 },
@@ -2195,7 +2195,7 @@
                     "type": "Lecture",
                     "days": "--WR---",
                     "time": "1630-1820",
-                    "start": "2014-9-17",
+                    "start": "2014-09-17",
                     "end": "2014-11-29",
                     "room": "A348",
                     "instructor": "Joanna Woltosz"
@@ -2978,8 +2978,8 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "0830-1020",
-                    "start": "2014-9-02",
-                    "end": "2014-9-18",
+                    "start": "2014-09-02",
+                    "end": "2014-09-18",
                     "room": "A347",
                     "instructor": "Stephen Connor"
                 },
@@ -2987,8 +2987,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "0830-1020",
-                    "start": "2014-9-02",
-                    "end": "2014-9-18",
+                    "start": "2014-09-02",
+                    "end": "2014-09-18",
                     "room": "A334",
                     "instructor": "Stephen Connor"
                 },
@@ -2996,7 +2996,7 @@
                     "type": "Lecture",
                     "days": "M--R---",
                     "time": "0830-1020",
-                    "start": "2014-9-22",
+                    "start": "2014-09-22",
                     "end": "2014-11-29",
                     "room": "A314",
                     "instructor": "Stephen Connor"
@@ -7082,7 +7082,7 @@
                     "type": "On Site Work",
                     "days": "MTWRF--",
                     "time": "0900-1600",
-                    "start": "2014-9-01",
+                    "start": "2014-09-01",
                     "end": "2014-12-31",
                     "room": "OFFC",
                     "instructor": "Sean Padley, Heather Workman, Jamie Noakes, Rachel Armstrong"
@@ -7108,7 +7108,7 @@
                     "type": "Flexible Assessment",
                     "days": "MTWRF--",
                     "time": "0900-1600",
-                    "start": "2014-9-01",
+                    "start": "2014-09-01",
                     "end": "2014-12-31",
                     "room": "OFFC",
                     "instructor": "Sean Padley, Heather Workman, Jamie Noakes, Rachel Armstrong"
@@ -7134,7 +7134,7 @@
                     "type": "On Site Work",
                     "days": "MTWRF--",
                     "time": "0900-1600",
-                    "start": "2014-9-01",
+                    "start": "2014-09-01",
                     "end": "2014-12-31",
                     "room": "OFFC",
                     "instructor": "Sean Padley, Heather Workman, Jamie Noakes, Rachel Armstrong"
@@ -7160,7 +7160,7 @@
                     "type": "Flexible Assessment",
                     "days": "MTWRF--",
                     "time": "0900-1600",
-                    "start": "2014-9-01",
+                    "start": "2014-09-01",
                     "end": "2014-12-31",
                     "room": "OFFC",
                     "instructor": "Sean Padley, Heather Workman, Jamie Noakes, Rachel Armstrong"
@@ -7186,7 +7186,7 @@
                     "type": "On Site Work",
                     "days": "MTWRF--",
                     "time": "0900-1600",
-                    "start": "2014-9-01",
+                    "start": "2014-09-01",
                     "end": "2014-12-31",
                     "room": "OFFC",
                     "instructor": "Sean Padley, Heather Workman, Jamie Noakes, Rachel Armstrong"
@@ -7212,7 +7212,7 @@
                     "type": "On Site Work",
                     "days": "MTWRF--",
                     "time": "0900-1600",
-                    "start": "2014-9-01",
+                    "start": "2014-09-01",
                     "end": "2014-12-31",
                     "room": "OFFC",
                     "instructor": "Sean Padley, Heather Workman, Jamie Noakes, Rachel Armstrong"
@@ -14688,8 +14688,8 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1830-2150",
-                    "start": "2014-9-02",
-                    "end": "2014-9-17",
+                    "start": "2014-09-02",
+                    "end": "2014-09-17",
                     "room": "A327",
                     "instructor": "Jacqueline Weal"
                 },
@@ -14697,7 +14697,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1830-2150",
-                    "start": "2014-9-24",
+                    "start": "2014-09-24",
                     "end": "2014-11-29",
                     "room": "A122B",
                     "instructor": "Jacqueline Weal"
@@ -19305,7 +19305,7 @@
                     "type": "Exchange-International",
                     "days": "-------",
                     "time": "-",
-                    "start": "2014-9-02",
+                    "start": "2014-09-02",
                     "end": "2014-12-12",
                     "room": "OFFC",
                     "instructor": "Valerie Peters"
@@ -21074,7 +21074,7 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1030-1220",
-                    "start": "2014-9-02",
+                    "start": "2014-09-02",
                     "end": "2014-10-15",
                     "room": "GYM",
                     "instructor": "Carmen Bott"
@@ -23901,8 +23901,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1230-1320",
-                    "start": "2014-9-02",
-                    "end": "2014-9-04",
+                    "start": "2014-09-02",
+                    "end": "2014-09-04",
                     "room": "A314",
                     "instructor": "Robert Miller"
                 },
@@ -23910,8 +23910,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1330-1420",
-                    "start": "2014-9-02",
-                    "end": "2014-9-04",
+                    "start": "2014-09-02",
+                    "end": "2014-09-04",
                     "room": "B155",
                     "instructor": "Robert Miller"
                 },
@@ -23919,7 +23919,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1230-1420",
-                    "start": "2014-9-11",
+                    "start": "2014-09-11",
                     "end": "2014-11-29",
                     "room": "A346",
                     "instructor": "Robert Miller"
@@ -26423,8 +26423,8 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "1030-1320",
-                    "start": "2014-9-02",
-                    "end": "2014-9-05",
+                    "start": "2014-09-02",
+                    "end": "2014-09-05",
                     "room": "A314",
                     "instructor": "Sharon Ronaldson"
                 },
@@ -26441,7 +26441,7 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "1030-1320",
-                    "start": "2014-9-12",
+                    "start": "2014-09-12",
                     "end": "2014-11-29",
                     "room": "B022",
                     "instructor": "Sharon Ronaldson"
@@ -26650,8 +26650,8 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1330-1720",
-                    "start": "2014-9-02",
-                    "end": "2014-9-17",
+                    "start": "2014-09-02",
+                    "end": "2014-09-17",
                     "room": "A351",
                     "instructor": "Sharon Ronaldson"
                 },
@@ -26659,7 +26659,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1230-1620",
-                    "start": "2014-9-24",
+                    "start": "2014-09-24",
                     "end": "2014-11-29",
                     "room": "A333",
                     "instructor": "Sharon Ronaldson"
@@ -29843,7 +29843,7 @@
                     "type": "Lecture",
                     "days": "MT-R---",
                     "time": "1530-1720",
-                    "start": "2014-9-02",
+                    "start": "2014-09-02",
                     "end": "2014-10-15",
                     "room": "C307",
                     "instructor": "Wanying Zhao"
@@ -30614,7 +30614,7 @@
                     "type": "Flexible Assessment",
                     "days": "-------",
                     "time": "-",
-                    "start": "2014-9-02",
+                    "start": "2014-09-02",
                     "end": "2014-12-12",
                     "room": "OFFC",
                     "instructor": "Vince Kreiser"
@@ -30701,7 +30701,7 @@
                     "type": "Flexible Assessment",
                     "days": "-------",
                     "time": "-",
-                    "start": "2014-9-02",
+                    "start": "2014-09-02",
                     "end": "2014-12-12",
                     "room": "OFFC",
                     "instructor": "Vince Kreiser"

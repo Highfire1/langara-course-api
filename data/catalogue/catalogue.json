@@ -2014,7 +2014,7 @@
                 "lab": 2.0
             },
             "title": "Genomics and Transcriptomics",
-            "description": "Students are challenged to think critically about genome-scale data and to think creatively about how to best design and utilize powerful computational tools in their analyses. They learn how to work with large nucleic acid data sets and draw meaningful conclusions that can be applied in modern research, medicine, and industrial settings. Students explore fundamental concepts behind genomic and transcriptomic analyses and design and execute genomic and transcriptomic analyses of real datasets. This course prepares students for future work designing and creating original analyses of novel genomes and transcriptomes, and provides the foundation for diverse bioinformatics applications, such as personalized medicine, bioremediation assessment, industrial quality control, and even forensic science.\n\nPriority registration in this course is offered to students admitted to the Bachelor of Science in Bioinformatics.\n\nPrerequisite(s): A minimum \"C\" grade in BIOL 3430 and CPSC 3280."
+            "description": "Students are challenged to think critically about genome-scale data and to think creatively about how to best design and utilize powerful computational tools in their analyses. They learn how to work with large nucleic acid data sets and draw meaningful conclusions that can be applied in modern research, medicine, and industrial settings. Students explore fundamental concepts behind genomic and transcriptomic analyses and design and execute genomic and transcriptomic analyses of real datasets. This course prepares students for future work designing and creating original analyses of novel genomes and transcriptomes, and provides the foundation for diverse bioinformatics applications, such as personalized medicine, bioremediation assessment, industrial quality control, and even forensic science.\n\nPriority registration in this course is offered to students admitted to the Bachelor of Science in Bioinformatics.\n\nPrerequisite(s): A minimum \"C\" grade in BIOL 3315, 3430, and CPSC 3280."
         },
         {
             "subject": "BIOL",
@@ -2530,7 +2530,7 @@
                 "lab": 3.0
             },
             "title": "Intermediate Chemistry",
-            "description": "A continuation of the CHEM 1114 course with an increased emphasis on laboratory work. CHEM 1118 topics include solutions, descriptive kinetics, chemical equilibrium, acid-base chemistry, buffers, and electrochemistry.\n\nPrerequisite(s): A minimum \"C+\" grade in CHEM 1114, a minimum \"B\" grade in Chemistry 11, or a minimum \"C\" grade in Chemistry 11 and Chemistry 12; and an \"S\" in MATH 1150, a minimum \"C-\" grade in Precalculus 12, or MDT 70. Prerequisites are only valid for three years."
+            "description": "A continuation of the CHEM 1114 course with an increased emphasis on laboratory work. CHEM 1118 topics include solutions, descriptive kinetics, chemical equilibrium, acid-base chemistry, buffers, and electrochemistry.\n\nPrerequisite(s): One of the following: a minimum \"C+\" grade in CHEM 1114 or Chemistry 11, or a minimum \"C\" grade in Chemistry 12; and one of the following: an \"S\" grade in MATH 1150, a minimum \"C+\" grade in Precalculus 11, a score of 65 on the Math Diagnostic Test; or permission of department. Prerequisites are only valid for three years."
         },
         {
             "subject": "CHEM",
@@ -2542,7 +2542,7 @@
                 "lab": 3.0
             },
             "title": "General Chemistry I",
-            "description": "CHEM 1120 constitutes a first-year course in general college chemistry. CHEM 1120 covers quantum chemistry, bonding, absorption of energy by molecules, applications of structure and chemistry in society.\n\nStudents will receive credit for only one of CHEM 1120 or 1121.\n\nPrerequisite(s): A minimum \"C-\" grade in CHEM 1118, an \"A\" or \"B\" grade in Chemistry 12, or a successful score on Chemistry Diagnostic Test; and a minimum \"C\" grade in MATH 1152 or Precalculus 12, or MDT 75. Prerequisites are only valid for three years."
+            "description": "Students will learn modern theories of molecular properties, while also examining chemical technology's impact on society. Topics include atomic spectroscopy, orbitals and periodicity, chemical bonding, molecular geometry, molecular orbital theory, intermolecular forces, and macromolecules. Laboratories highlight hands-on experimental techniques.\n\nStudents will receive credit for only one of CHEM 1120 or 1121.\n\nPrerequisite(s): One of the following: a minimum \"C-\" grade in CHEM 1118 or a minimum \"C+\" grade in Chemistry 12; and one of the following: an \"S\" grade in MATH 1150, a minimum \"C+\" grade in Precalculus 11, or a score of 65 on the Langara Math Diagnostic Test; or permission of the department. Prerequisites are only valid for three years."
         },
         {
             "subject": "CHEM",
@@ -4298,6 +4298,18 @@
         },
         {
             "subject": "DSGN",
+            "course_code": 1400,
+            "credits": 3.0,
+            "hours": {
+                "lecture": 2.0,
+                "seminar": 2.0,
+                "lab": 0.0
+            },
+            "title": "Decolonizing the Design Process",
+            "description": "When working with Indigenous client groups designers need to be able to evaluate inherent Euro-centric assumptions regarding power, authorship, and control to decolonize the design process. The goal is to re-envision roles and methodologies to allow for more equitable and inclusive designer-client relationships. Students learn how to decolonize the design process by reflecting on their own assumptions and reconsidering the ways in which design problems and milestones might be defined, design systems might be used, and project outcomes might be evaluated. They explore how working with diverse clients can invite a shift in roles and bring new insights to their understanding of design and the value it imparts to the designer, the client, and the end user.\n\nThis course is open to all Langara students wishing to explore trends in design, as well as those intending to pursue studies in visual arts or considering careers in design.\n\nThis course focuses on design theory. It is not a design studio and does not teach design skills.\n\nPriority registration in this course is offered to students admitted to the Diploma in Design Formation."
+        },
+        {
+            "subject": "DSGN",
             "course_code": 2054,
             "credits": 2.0,
             "hours": {
@@ -4346,18 +4358,6 @@
         },
         {
             "subject": "DSGN",
-            "course_code": 2154,
-            "credits": 3.0,
-            "hours": {
-                "lecture": 3.0,
-                "seminar": 1.0,
-                "lab": 0.0
-            },
-            "title": "Career Research",
-            "description": "Discontinued as of Spring Semester 2023\n\nThis course will expose students to potential career possibilities, employment aptitude, and preparedness techniques. Through a series of guest speakers from the Applied Design Community, workshops facilitated by the instructor, and research assignments, students will explore personal career opportunities.\n\nStudents will receive credit for only one of DDSN 2154 or DGSN 2154.\n\nPrerequisite(s): A minimum \"C-\" grade in all of the following: DSGN 1151, 1152, 1153, 1250 and 1252; and a minimum \"C\" grade in DSGN 1154, 1255, and 2253."
-        },
-        {
-            "subject": "DSGN",
             "course_code": 2155,
             "credits": 3.0,
             "hours": {
@@ -4403,18 +4403,6 @@
             },
             "title": "Portfolio",
             "description": "Students define their professional profile to develop their visual identity for self-promotion. After identifying the design field they are interested in, they create a portfolio showcasing work that best represents their skills and personal and professional objectives.\n\nStudents should consider an average cost of $150.00 for producing a portfolio and printing business cards.\n\nStudents will receive credit for only one of DDSN 2254, 2427, or DSGN 2254.\n\nRegistration in this course is restricted to students admitted to the Diploma in Design Formation.\n\nPrerequisite(s): A minimum \"C-\" grade in DSGN 2054 and 2155; and a minimum \"C\" grade in DSGN 2151.\n\nCorequisite(s): DSGN 2251, 2252, and 2255."
-        },
-        {
-            "subject": "DSGN",
-            "course_code": 2255,
-            "credits": 3.0,
-            "hours": {
-                "lecture": 2.0,
-                "seminar": 0.0,
-                "lab": 2.0
-            },
-            "title": "Interior Spaces for Commercial Applications",
-            "description": "Discontinued as of Summer Semester 2023\n\nStudents will utilize computer aided 2D and 3D drafting and presentation best practices working through the Design Process to create concept presentations for Retail Store Planning as well as Trade Show booth design.\n\nStudents will only receive credit for one of DSGN 2153 or 2255.\n\nRegistration in this course is restricted to students admitted to the Diploma in Design Formation.\n\nPrerequisite(s): A minimum \"C\" grade in DSGN 1153 and 1253; and a minimum \"C-\" grade in DSGN 2253."
         },
         {
             "subject": "DSGN",
@@ -8714,6 +8702,18 @@
         },
         {
             "subject": "HSCI",
+            "course_code": 2207,
+            "credits": 3.0,
+            "hours": {
+                "lecture": 4.0,
+                "seminar": 0.0,
+                "lab": 0.0
+            },
+            "title": "Research Methods in Health Sciences",
+            "description": "Medical practice is extensively informed by the research findings of epidemiologists. Students in HSCI 2207 explore the development and design process of health-related research, and the types of methodologies, both quantitative and qualitative, which are commonly used in epidemiology.\r\n\nPrerequisite(s): Completion of a minimum of 30 credits including a minimum \"B-\" grade in all of the following: BIOL 1111 or 1115; HSCI 1130; and one of PSYC 2321, STAT 1123, 1124, or 1181."
+        },
+        {
+            "subject": "HSCI",
             "course_code": 2211,
             "credits": 3.0,
             "hours": {
@@ -8771,6 +8771,18 @@
             },
             "title": "Ecological Determinants of Human Growth, Development, and Health",
             "description": "Ecology is the study of an organism and its interactions with the physical surroundings. These interactions play an important role in determining how we develop and our health and well-being.  Students examine the concept of human health from a genetic and evolutionary perspective, and consider the ecological impacts on human evolution, growth, development, and disease. Topics include the challenges of catastrophes, industrialization, globalization, migration, poverty, war, and climate change on human health. Students study how human populations have responded and adapted to these challenges in the past, and predict what might happen to human health when exposed to novel ecological influences such as technology.\n\nPrerequisite(s): A minimum \"C\" grade in HSCI 1130 and one of the following: BIOL 1111, 1115, 1116, 1175, 1190, or HKIN 1190. \n\nNote: Students wanting to complete a BSc at SFU in Health Sciences must take BIOL 1115. Students wanting to complete a BA at SFU in Health Sciences must take one of BIOL 1111, 1115, 1116, or 1175. Students wanting neither a BSc nor a BA at SFU in Health Sciences may complete any one of BIOL 1111, 1115, 1116,  1175, 1190, or HKIN 1190."
+        },
+        {
+            "subject": "HSCI",
+            "course_code": 2230,
+            "credits": 3.0,
+            "hours": {
+                "lecture": 4.0,
+                "seminar": 0.0,
+                "lab": 0.0
+            },
+            "title": "Evaluating Epidemiological Research",
+            "description": "Students in HSCI 2230 build upon introductory epidemiological concepts taught in HSCI 1130 to further develop their skills in evaluation and critique of epidemiological research. They explore the advantages and limitations of the epidemiological approach for researching health and disease in populations.\r\n\nPrerequisite(s): Completion of a minimum of 30 credits including a minimum \"B-\" grade in all of the following: BIOL 1111 or 1115; HSCI 1130; and one of PSYC 2321, STAT 1123, 1124, or 1181."
         },
         {
             "subject": "HSCI",
@@ -14170,7 +14182,7 @@
                 "lab": 1.0
             },
             "title": "CAD for Theatre Production",
-            "description": "In this hands-on course, students are introduced to Computer Aided Drafting (CAD) using Vectorworks software. Through exercises and projects, students learn effective techniques and applications of 2D drafting and 3D digital modeling, including drawing and modeling tools, file management and organization, workflow, and conventions as they relate to drafting and orthographic projection views, to make plans and documentation packages.\n\nPriority registration in this course is offered to students admitted to the Diploma in Theatre Arts at Studio 58 (Theatre Production)."
+            "description": "In this hands-on course, students are introduced to Computer Aided Drafting (CAD) using Vectorworks software. Through exercises and projects, students learn effective techniques and applications of 2D drafting and 3D digital modeling, including drawing and modeling tools, file management and organization, workflow, and conventions as they relate to drafting and orthographic projection views, to make plans and documentation packages.\n\nRegistration in this course is restricted to students admitted to the Diploma in Theatre Arts at Studio 58 (Theatre Production)."
         },
         {
             "subject": "THEA",
@@ -14230,7 +14242,7 @@
                 "lab": 1.0
             },
             "title": "Set Design I",
-            "description": "In this hands-on course, students are introduced to the process of theatrical and stage design. Through a combination of presentations, exercises, and projects, students learn to employ strategies to effectively analyze and develop design ideas for the stage from conception to presentation.\n\nPriority registration in this course is offered to students admitted to the Diploma in Theatre Arts at Studio 58 (Theatre Production)."
+            "description": "In this hands-on course, students are introduced to the process of theatrical and stage design. Through a combination of presentations, exercises, and projects, students learn to employ strategies to effectively analyze and develop design ideas for the stage from conception to presentation.\n\nRegistration in this course is restricted to students admitted to the Diploma in Theatre Arts at Studio 58 (Theatre Production)."
         },
         {
             "subject": "THEA",

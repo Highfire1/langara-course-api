@@ -1,5 +1,5 @@
 {
-    "datetime_retrieved": "2023-04-27 14:25:11",
+    "datetime_retrieved": "2023-06-13 21:39:51",
     "year": 2016,
     "semester": 30,
     "courses_first_day": "2016-12-16",
@@ -810,8 +810,8 @@
                     "type": "Lecture",
                     "days": "-TWRF--",
                     "time": "0900-1600",
-                    "start": "2016-9-06",
-                    "end": "2016-9-09",
+                    "start": "2016-09-06",
+                    "end": "2016-09-09",
                     "room": "TBSCH",
                     "instructor": "Eric Aderneck"
                 }
@@ -967,8 +967,8 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0900-1620",
-                    "start": "2016-9-23",
-                    "end": "2016-9-23",
+                    "start": "2016-09-23",
+                    "end": "2016-09-23",
                     "room": "B023",
                     "instructor": "Kathryn Nairne"
                 }
@@ -6131,7 +6131,7 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1830-2120",
-                    "start": "2016-9-06",
+                    "start": "2016-09-06",
                     "end": "2016-10-10",
                     "room": "B254",
                     "instructor": "Phil Mentacos"
@@ -6961,7 +6961,7 @@
                     "type": " ",
                     "days": " ",
                     "time": " ",
-                    "start": "2016-9-06",
+                    "start": "2016-09-06",
                     "end": "2016-12-16",
                     "room": " ",
                     "instructor": " "
@@ -7417,7 +7417,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1130-1320",
-                    "start": "2016-9-06",
+                    "start": "2016-09-06",
                     "end": "2016-12-02",
                     "room": "T532",
                     "instructor": "Chiwei Hu"
@@ -7426,7 +7426,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1130-1220",
-                    "start": "2016-9-06",
+                    "start": "2016-09-06",
                     "end": "2016-12-02",
                     "room": "T538",
                     "instructor": "Chiwei Hu"
@@ -7435,7 +7435,7 @@
                     "type": "Lab",
                     "days": "--W----",
                     "time": "1030-1220",
-                    "start": "2016-9-06",
+                    "start": "2016-09-06",
                     "end": "2016-12-02",
                     "room": "T532",
                     "instructor": "Chiwei Hu"
@@ -7735,7 +7735,7 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0930-1020",
-                    "start": "2016-9-06",
+                    "start": "2016-09-06",
                     "end": "2016-12-02",
                     "room": "L207",
                     "instructor": "Nathan Jones"
@@ -7876,7 +7876,7 @@
                     "type": "Lecture",
                     "days": "-T-RF--",
                     "time": "1230-1320",
-                    "start": "2016-9-06",
+                    "start": "2016-09-06",
                     "end": "2016-12-02",
                     "room": "L342",
                     "instructor": "Nathan Jones"
@@ -7885,7 +7885,7 @@
                     "type": "Lab",
                     "days": "-T-----",
                     "time": "0930-1220",
-                    "start": "2016-9-06",
+                    "start": "2016-09-06",
                     "end": "2016-12-02",
                     "room": "T540",
                     "instructor": "Nathan Jones"
@@ -11437,8 +11437,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1430-1520",
-                    "start": "2016-9-06",
-                    "end": "2016-9-29",
+                    "start": "2016-09-06",
+                    "end": "2016-09-29",
                     "room": "B153",
                     "instructor": "Joe Huang"
                 },
@@ -11446,7 +11446,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1430-1520",
-                    "start": "2016-9-30",
+                    "start": "2016-09-30",
                     "end": "2016-12-03",
                     "room": "T215",
                     "instructor": "Joe Huang"
@@ -11499,8 +11499,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "0830-0920",
-                    "start": "2016-9-06",
-                    "end": "2016-9-29",
+                    "start": "2016-09-06",
+                    "end": "2016-09-29",
                     "room": "B153",
                     "instructor": "Saeed Mirjalili"
                 },
@@ -11508,7 +11508,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "0830-0920",
-                    "start": "2016-9-30",
+                    "start": "2016-09-30",
                     "end": "2016-12-03",
                     "room": "T215",
                     "instructor": "Saeed Mirjalili"
@@ -12606,7 +12606,7 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1430-1620",
-                    "start": "2016-9-06",
+                    "start": "2016-09-06",
                     "end": "2016-10-25",
                     "room": "C410",
                     "instructor": "Peter Vysek"
@@ -20709,7 +20709,7 @@
                     "type": "Flexible Assessment",
                     "days": "-------",
                     "time": "-",
-                    "start": "2016-9-06",
+                    "start": "2016-09-06",
                     "end": "2016-10-18",
                     "room": "WWW",
                     "instructor": "Michelle Shepherd"
@@ -20822,7 +20822,7 @@
                     "type": "WWW",
                     "days": "-------",
                     "time": "-",
-                    "start": "2016-9-06",
+                    "start": "2016-09-06",
                     "end": "2016-10-18",
                     "room": "WWW",
                     "instructor": "Laura Cullen, Janice Sorensen"
@@ -26105,7 +26105,7 @@
                     "type": "Lecture",
                     "days": "-------",
                     "time": "-",
-                    "start": "2016-9-06",
+                    "start": "2016-09-06",
                     "end": "2016-12-02",
                     "room": "WWW",
                     "instructor": "Deborah Schachter"
@@ -29219,8 +29219,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "0830-1020",
-                    "start": "2016-9-06",
-                    "end": "2016-9-08",
+                    "start": "2016-09-06",
+                    "end": "2016-09-08",
                     "room": "C509",
                     "instructor": "Reyla Lopez"
                 },
@@ -29237,7 +29237,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "0830-1020",
-                    "start": "2016-9-15",
+                    "start": "2016-09-15",
                     "end": "2016-12-03",
                     "room": "B149",
                     "instructor": "Reyla Lopez"
@@ -29272,8 +29272,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1230-1420",
-                    "start": "2016-9-06",
-                    "end": "2016-9-08",
+                    "start": "2016-09-06",
+                    "end": "2016-09-08",
                     "room": "A284",
                     "instructor": "Reyla Lopez"
                 },
@@ -29290,7 +29290,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1230-1420",
-                    "start": "2016-9-15",
+                    "start": "2016-09-15",
                     "end": "2016-12-03",
                     "room": "C514",
                     "instructor": "Reyla Lopez"
@@ -30395,7 +30395,7 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "1230-1520",
-                    "start": "2016-9-06",
+                    "start": "2016-09-06",
                     "end": "2016-10-14",
                     "room": "C509",
                     "instructor": "Hana Pecinova"
@@ -30492,7 +30492,7 @@
                     "type": "Practicum",
                     "days": "-TW----",
                     "time": "0730-1520",
-                    "start": "2016-9-06",
+                    "start": "2016-09-06",
                     "end": "2016-10-18",
                     "room": "OFFC",
                     "instructor": "Mary Peters, Hana Pecinova, Karen McColgan, Melinda Litynsky, Nancy Woo, Sandeep Atwal"
@@ -30544,7 +30544,7 @@
                     "type": "Practicum",
                     "days": "-TW----",
                     "time": "0730-1520",
-                    "start": "2016-9-06",
+                    "start": "2016-09-06",
                     "end": "2016-10-18",
                     "room": "OFFC",
                     "instructor": "Mary Peters, Helen Jackson, Janet Bartnik, Nastaran Vafi, Tara Mants"
@@ -31249,7 +31249,7 @@
                     "type": "WWW",
                     "days": "-------",
                     "time": "-",
-                    "start": "2016-9-06",
+                    "start": "2016-09-06",
                     "end": "2016-10-18",
                     "room": "WWW",
                     "instructor": "Monica Molag, Laura Cullen"
@@ -31345,7 +31345,7 @@
                     "type": "WWW",
                     "days": "-------",
                     "time": "-",
-                    "start": "2016-9-06",
+                    "start": "2016-09-06",
                     "end": "2016-10-18",
                     "room": "WWW",
                     "instructor": "Janice Sorensen"
@@ -31476,7 +31476,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1230-1320",
-                    "start": "2016-9-21",
+                    "start": "2016-09-21",
                     "end": "2016-10-05",
                     "room": "A130",
                     "instructor": "Lealle Ruhl"
@@ -34914,7 +34914,7 @@
                     "type": "Lecture",
                     "days": "MT-R---",
                     "time": "1530-1720",
-                    "start": "2016-9-06",
+                    "start": "2016-09-06",
                     "end": "2016-10-18",
                     "room": "B149",
                     "instructor": "Noushine Afshar"
@@ -40057,8 +40057,8 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0930-1220",
-                    "start": "2016-9-16",
-                    "end": "2016-9-16",
+                    "start": "2016-09-16",
+                    "end": "2016-09-16",
                     "room": "B155",
                     "instructor": "Heather Workman"
                 },
@@ -40066,7 +40066,7 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0930-1220",
-                    "start": "2016-9-30",
+                    "start": "2016-09-30",
                     "end": "2016-12-03",
                     "room": "B155",
                     "instructor": "Heather Workman"

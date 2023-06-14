@@ -5579,6 +5579,19 @@
         },
         {
             "subject": "HSCI",
+            "course_code": 2207,
+            "attributes": {
+                "AR": true,
+                "SC": true,
+                "HUM": false,
+                "LSC": false,
+                "SCI": true,
+                "SOC": true,
+                "UT": true
+            }
+        },
+        {
+            "subject": "HSCI",
             "course_code": 2211,
             "attributes": {
                 "AR": true,
@@ -5632,6 +5645,19 @@
         {
             "subject": "HSCI",
             "course_code": 2216,
+            "attributes": {
+                "AR": true,
+                "SC": true,
+                "HUM": false,
+                "LSC": false,
+                "SCI": true,
+                "SOC": true,
+                "UT": true
+            }
+        },
+        {
+            "subject": "HSCI",
+            "course_code": 2230,
             "attributes": {
                 "AR": true,
                 "SC": true,
@@ -7222,7 +7248,7 @@
                 "AR": false,
                 "SC": false,
                 "HUM": false,
-                "LSC": true,
+                "LSC": false,
                 "SCI": true,
                 "SOC": false,
                 "UT": true

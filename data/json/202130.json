@@ -1,5 +1,5 @@
 {
-    "datetime_retrieved": "2023-04-27 14:25:11",
+    "datetime_retrieved": "2023-06-13 21:39:51",
     "year": 2021,
     "semester": 30,
     "courses_first_day": "2021-12-16",
@@ -943,8 +943,8 @@
                     "type": "Lecture",
                     "days": "-TWRF--",
                     "time": "0900-1620",
-                    "start": "2021-9-07",
-                    "end": "2021-9-10",
+                    "start": "2021-09-07",
+                    "end": "2021-09-10",
                     "room": "A218",
                     "instructor": "Eric Aderneck"
                 }
@@ -1004,8 +1004,8 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1800-2050",
-                    "start": "2021-9-07",
-                    "end": "2021-9-13",
+                    "start": "2021-09-07",
+                    "end": "2021-09-13",
                     "room": "A218",
                     "instructor": "Erica Tiffany"
                 },
@@ -1013,7 +1013,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1800-2050",
-                    "start": "2021-9-14",
+                    "start": "2021-09-14",
                     "end": "2021-12-02",
                     "room": "B023",
                     "instructor": "Erica Tiffany"
@@ -3085,8 +3085,8 @@
                     "type": "Lecture",
                     "days": "--WR---",
                     "time": "1430-1620",
-                    "start": "2021-9-07",
-                    "end": "2021-9-23",
+                    "start": "2021-09-07",
+                    "end": "2021-09-23",
                     "room": "L215",
                     "instructor": "Kenneth Naumann"
                 },
@@ -3094,7 +3094,7 @@
                     "type": "Lecture",
                     "days": "--WR---",
                     "time": "1430-1620",
-                    "start": "2021-9-24",
+                    "start": "2021-09-24",
                     "end": "2021-12-02",
                     "room": "A310",
                     "instructor": "Kenneth Naumann"
@@ -3305,8 +3305,8 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1230-1420",
-                    "start": "2021-9-07",
-                    "end": "2021-9-23",
+                    "start": "2021-09-07",
+                    "end": "2021-09-23",
                     "room": "L215",
                     "instructor": "Michael Bridges"
                 },
@@ -3314,7 +3314,7 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1230-1420",
-                    "start": "2021-9-24",
+                    "start": "2021-09-24",
                     "end": "2021-12-02",
                     "room": "T313",
                     "instructor": "Michael Bridges"
@@ -7406,8 +7406,8 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1630-1820",
-                    "start": "2021-9-07",
-                    "end": "2021-9-13",
+                    "start": "2021-09-07",
+                    "end": "2021-09-13",
                     "room": "B026",
                     "instructor": "Andrew Hiscox"
                 },
@@ -7424,7 +7424,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1630-1820",
-                    "start": "2021-9-14",
+                    "start": "2021-09-14",
                     "end": "2021-12-02",
                     "room": "B031",
                     "instructor": "Andrew Hiscox"
@@ -7459,8 +7459,8 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1630-1820",
-                    "start": "2021-9-07",
-                    "end": "2021-9-28",
+                    "start": "2021-09-07",
+                    "end": "2021-09-28",
                     "room": "B152",
                     "instructor": "Andrew Hiscox"
                 },
@@ -7477,7 +7477,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1630-1820",
-                    "start": "2021-9-29",
+                    "start": "2021-09-29",
                     "end": "2021-12-02",
                     "room": "B253",
                     "instructor": "Andrew Hiscox"
@@ -7547,8 +7547,8 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1230-1420",
-                    "start": "2021-9-07",
-                    "end": "2021-9-15",
+                    "start": "2021-09-07",
+                    "end": "2021-09-15",
                     "room": "B248",
                     "instructor": "Gayle Hayashi"
                 },
@@ -7565,7 +7565,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1230-1420",
-                    "start": "2021-9-16",
+                    "start": "2021-09-16",
                     "end": "2021-12-02",
                     "room": "B023",
                     "instructor": "Gayle Hayashi"
@@ -7810,8 +7810,8 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1830-2020",
-                    "start": "2021-9-07",
-                    "end": "2021-9-13",
+                    "start": "2021-09-07",
+                    "end": "2021-09-13",
                     "room": "B022",
                     "instructor": "Phil Mentacos"
                 },
@@ -7828,7 +7828,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1830-2020",
-                    "start": "2021-9-14",
+                    "start": "2021-09-14",
                     "end": "2021-10-11",
                     "room": "L103",
                     "instructor": "Phil Mentacos"
@@ -7917,8 +7917,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1830-2120",
-                    "start": "2021-9-07",
-                    "end": "2021-9-13",
+                    "start": "2021-09-07",
+                    "end": "2021-09-13",
                     "room": "B152",
                     "instructor": "Ronald Shay"
                 },
@@ -7926,7 +7926,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1830-2120",
-                    "start": "2021-9-14",
+                    "start": "2021-09-14",
                     "end": "2021-12-02",
                     "room": "B253",
                     "instructor": "Ronald Shay"
@@ -7961,8 +7961,8 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1830-2020",
-                    "start": "2021-9-07",
-                    "end": "2021-9-14",
+                    "start": "2021-09-07",
+                    "end": "2021-09-14",
                     "room": "B149",
                     "instructor": "Danielle Rockel"
                 },
@@ -7979,7 +7979,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1830-2020",
-                    "start": "2021-9-15",
+                    "start": "2021-09-15",
                     "end": "2021-12-02",
                     "room": "B254",
                     "instructor": "Danielle Rockel"
@@ -12307,8 +12307,8 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1430-1620",
-                    "start": "2021-9-07",
-                    "end": "2021-9-23",
+                    "start": "2021-09-07",
+                    "end": "2021-09-23",
                     "room": "A319",
                     "instructor": "Stephanie Hummel"
                 },
@@ -12325,7 +12325,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1430-1620",
-                    "start": "2021-9-24",
+                    "start": "2021-09-24",
                     "end": "2021-12-02",
                     "room": "A321",
                     "instructor": "Stephanie Hummel"
@@ -14225,7 +14225,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "0830-1020",
-                    "start": "2021-9-07",
+                    "start": "2021-09-07",
                     "end": "2021-11-11",
                     "room": "B031",
                     "instructor": "Sahar Banisoltan"
@@ -14278,7 +14278,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1030-1220",
-                    "start": "2021-9-07",
+                    "start": "2021-09-07",
                     "end": "2021-11-11",
                     "room": "C510",
                     "instructor": "Sahar Banisoltan"
@@ -14727,7 +14727,7 @@
                     "type": "Lecture",
                     "days": "--WR---",
                     "time": "1430-1620",
-                    "start": "2021-9-07",
+                    "start": "2021-09-07",
                     "end": "2021-10-25",
                     "room": "A215",
                     "instructor": "Gladys Monagan"
@@ -14745,7 +14745,7 @@
                     "type": "Lab",
                     "days": "-T-----",
                     "time": "1430-1620",
-                    "start": "2021-9-07",
+                    "start": "2021-09-07",
                     "end": "2021-10-25",
                     "room": "B019",
                     "instructor": "Gladys Monagan"
@@ -15493,8 +15493,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "0830-1020",
-                    "start": "2021-9-07",
-                    "end": "2021-9-13",
+                    "start": "2021-09-07",
+                    "end": "2021-09-13",
                     "room": "B026",
                     "instructor": "Mahdad Khatirinejad"
                 },
@@ -15511,7 +15511,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "0830-1020",
-                    "start": "2021-9-14",
+                    "start": "2021-09-14",
                     "end": "2021-12-02",
                     "room": "B026",
                     "instructor": "Mahdad Khatirinejad"
@@ -15520,8 +15520,8 @@
                     "type": "Lab",
                     "days": "-T-----",
                     "time": "0830-1020",
-                    "start": "2021-9-07",
-                    "end": "2021-9-13",
+                    "start": "2021-09-07",
+                    "end": "2021-09-13",
                     "room": "B015",
                     "instructor": "Mahdad Khatirinejad"
                 },
@@ -15529,7 +15529,7 @@
                     "type": "Lab",
                     "days": "---R---",
                     "time": "0830-1020",
-                    "start": "2021-9-14",
+                    "start": "2021-09-14",
                     "end": "2021-12-02",
                     "room": "B015",
                     "instructor": "Mahdad Khatirinejad"
@@ -17091,8 +17091,8 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1130-1320",
-                    "start": "2021-9-07",
-                    "end": "2021-9-19",
+                    "start": "2021-09-07",
+                    "end": "2021-09-19",
                     "room": "A110",
                     "instructor": "Peter Vysek"
                 },
@@ -17100,7 +17100,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1130-1220",
-                    "start": "2021-9-20",
+                    "start": "2021-09-20",
                     "end": "2021-12-02",
                     "room": "A108",
                     "instructor": "Peter Vysek"
@@ -17109,7 +17109,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1230-1320",
-                    "start": "2021-9-20",
+                    "start": "2021-09-20",
                     "end": "2021-12-02",
                     "room": "A110",
                     "instructor": "Peter Vysek"
@@ -18958,7 +18958,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "0900-1120",
-                    "start": "2021-9-07",
+                    "start": "2021-09-07",
                     "end": "2021-12-08",
                     "room": "B009",
                     "instructor": "Erin Yorke"
@@ -18967,7 +18967,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1230-1450",
-                    "start": "2021-9-07",
+                    "start": "2021-09-07",
                     "end": "2021-12-08",
                     "room": "B009",
                     "instructor": "Erin Yorke"
@@ -18993,7 +18993,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "0900-1120",
-                    "start": "2021-9-07",
+                    "start": "2021-09-07",
                     "end": "2021-12-07",
                     "room": "B009",
                     "instructor": "Leslie Burgess"
@@ -19002,7 +19002,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1230-1450",
-                    "start": "2021-9-07",
+                    "start": "2021-09-07",
                     "end": "2021-12-07",
                     "room": "B009",
                     "instructor": "Leslie Burgess"
@@ -19028,7 +19028,7 @@
                     "type": "Lecture",
                     "days": "M-W----",
                     "time": "1600-1950",
-                    "start": "2021-9-07",
+                    "start": "2021-09-07",
                     "end": "2021-12-08",
                     "room": "B009",
                     "instructor": "Leslie Burgess"
@@ -19106,7 +19106,7 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "0900-1120",
-                    "start": "2021-9-07",
+                    "start": "2021-09-07",
                     "end": "2021-12-06",
                     "room": "B009",
                     "instructor": "Erin Yorke"
@@ -19115,7 +19115,7 @@
                     "type": "Lecture",
                     "days": "M------",
                     "time": "1230-1450",
-                    "start": "2021-9-07",
+                    "start": "2021-09-07",
                     "end": "2021-12-06",
                     "room": "B009",
                     "instructor": "Erin Yorke"
@@ -19141,7 +19141,7 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0900-1120",
-                    "start": "2021-9-07",
+                    "start": "2021-09-07",
                     "end": "2021-12-10",
                     "room": "B009",
                     "instructor": "Jennifer Erickson"
@@ -19150,7 +19150,7 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "1230-1450",
-                    "start": "2021-9-07",
+                    "start": "2021-09-07",
                     "end": "2021-12-10",
                     "room": "B009",
                     "instructor": "Jennifer Erickson"
@@ -19202,7 +19202,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "0900-1120",
-                    "start": "2021-9-07",
+                    "start": "2021-09-07",
                     "end": "2021-12-09",
                     "room": "B009",
                     "instructor": "Leslie Burgess"
@@ -19211,7 +19211,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1230-1450",
-                    "start": "2021-9-07",
+                    "start": "2021-09-07",
                     "end": "2021-12-09",
                     "room": "B009",
                     "instructor": "Leslie Burgess"
@@ -27714,8 +27714,8 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1430-1620",
-                    "start": "2021-9-07",
-                    "end": "2021-9-09",
+                    "start": "2021-09-07",
+                    "end": "2021-09-09",
                     "room": "A347",
                     "instructor": "Katrina Erdos"
                 },
@@ -27732,7 +27732,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1430-1620",
-                    "start": "2021-9-10",
+                    "start": "2021-09-10",
                     "end": "2021-12-02",
                     "room": "A346",
                     "instructor": "Katrina Erdos"
@@ -28241,8 +28241,8 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1230-1420",
-                    "start": "2021-9-07",
-                    "end": "2021-9-07",
+                    "start": "2021-09-07",
+                    "end": "2021-09-07",
                     "room": "A217",
                     "instructor": "Jenny Francis"
                 },
@@ -28250,7 +28250,7 @@
                     "type": "Lecture",
                     "days": "-T-R---",
                     "time": "1230-1420",
-                    "start": "2021-9-08",
+                    "start": "2021-09-08",
                     "end": "2021-12-02",
                     "room": "A321",
                     "instructor": "Jenny Francis"
@@ -34533,8 +34533,8 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1430-1620",
-                    "start": "2021-9-07",
-                    "end": "2021-9-13",
+                    "start": "2021-09-07",
+                    "end": "2021-09-13",
                     "room": "A321",
                     "instructor": "Donald Hill"
                 },
@@ -34551,7 +34551,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1430-1620",
-                    "start": "2021-9-14",
+                    "start": "2021-09-14",
                     "end": "2021-12-02",
                     "room": "B247",
                     "instructor": "Donald Hill"
@@ -34946,8 +34946,8 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1230-1420",
-                    "start": "2021-9-07",
-                    "end": "2021-9-13",
+                    "start": "2021-09-07",
+                    "end": "2021-09-13",
                     "room": "C510",
                     "instructor": "Donald Hill"
                 },
@@ -34964,7 +34964,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "1230-1420",
-                    "start": "2021-9-14",
+                    "start": "2021-09-14",
                     "end": "2021-12-02",
                     "room": "B246",
                     "instructor": "Donald Hill"
@@ -38200,7 +38200,7 @@
                     "start": null,
                     "end": null,
                     "room": "OFFC",
-                    "instructor": "Lanie Fajardo, Badanjit (Bobby) Litt, Michelle Su, Sara Thind, Yvonne Solway"
+                    "instructor": "Lanie Fajardo, Badanjit Litt, Michelle Su, Sara Thind, Yvonne Solway"
                 }
             ],
             "yearsemester": null
@@ -38226,7 +38226,7 @@
                     "start": null,
                     "end": null,
                     "room": "L215",
-                    "instructor": "Elsa (Thi Thu Ly) Nguyen"
+                    "instructor": "Thi Thu Ly Nguyen"
                 },
                 {
                     "type": "Lecture",
@@ -38235,7 +38235,7 @@
                     "start": null,
                     "end": null,
                     "room": "WWW",
-                    "instructor": "Elsa (Thi Thu Ly) Nguyen"
+                    "instructor": "Thi Thu Ly Nguyen"
                 },
                 {
                     "type": "Exam",
@@ -38244,7 +38244,7 @@
                     "start": "2021-12-06",
                     "end": "2021-12-06",
                     "room": "L303",
-                    "instructor": "Elsa (Thi Thu Ly) Nguyen"
+                    "instructor": "Thi Thu Ly Nguyen"
                 }
             ],
             "yearsemester": null
@@ -38381,8 +38381,8 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1230-1420",
-                    "start": "2021-9-07",
-                    "end": "2021-9-19",
+                    "start": "2021-09-07",
+                    "end": "2021-09-19",
                     "room": "A346",
                     "instructor": "Laura Cottrell"
                 },
@@ -38399,7 +38399,7 @@
                     "type": "Lecture",
                     "days": "---R---",
                     "time": "1230-1420",
-                    "start": "2021-9-20",
+                    "start": "2021-09-20",
                     "end": "2021-12-02",
                     "room": "C412",
                     "instructor": "Laura Cottrell"
@@ -38600,7 +38600,7 @@
                     "type": "Lecture",
                     "days": "---RF--",
                     "time": "0830-1020",
-                    "start": "2021-9-07",
+                    "start": "2021-09-07",
                     "end": "2021-10-19",
                     "room": "C509",
                     "instructor": "Baljit Khun-Khun"
@@ -38609,7 +38609,7 @@
                     "type": "Lecture",
                     "days": "-------",
                     "time": "1830-2020",
-                    "start": "2021-9-07",
+                    "start": "2021-09-07",
                     "end": "2021-10-19",
                     "room": "WWW",
                     "instructor": "Baljit Khun-Khun"
@@ -38679,7 +38679,7 @@
                     "type": "Lecture",
                     "days": "---RF--",
                     "time": "0830-1120",
-                    "start": "2021-9-07",
+                    "start": "2021-09-07",
                     "end": "2021-10-19",
                     "room": "T315",
                     "instructor": "Karen McColgan"
@@ -38688,7 +38688,7 @@
                     "type": "Lecture",
                     "days": "-------",
                     "time": "1830-1920",
-                    "start": "2021-9-07",
+                    "start": "2021-09-07",
                     "end": "2021-10-19",
                     "room": "WWW",
                     "instructor": "Karen McColgan"
@@ -38758,7 +38758,7 @@
                     "type": "Practicum",
                     "days": "-TW----",
                     "time": "0730-1520",
-                    "start": "2021-9-07",
+                    "start": "2021-09-07",
                     "end": "2021-10-19",
                     "room": "OFFC",
                     "instructor": "Karen McColgan, Amandeep Turre, Sandeep Atwal, Satwinder Chahal, Sonia Kang"
@@ -38810,7 +38810,7 @@
                     "type": "Practicum",
                     "days": "-TW----",
                     "time": "0730-1520",
-                    "start": "2021-9-07",
+                    "start": "2021-09-07",
                     "end": "2021-10-19",
                     "room": "OFFC",
                     "instructor": "Baljit Khun-Khun, Cristina Follador, Erin Kouwenhoven, Helen Jackson, Janet Bartnik, Mary Peters"
@@ -43607,7 +43607,7 @@
                     "type": "Lecture",
                     "days": "MT-R---",
                     "time": "1530-1720",
-                    "start": "2021-9-07",
+                    "start": "2021-09-07",
                     "end": "2021-10-19",
                     "room": "A255",
                     "instructor": "Julianne Beadle"
@@ -47840,8 +47840,8 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "0930-1220",
-                    "start": "2021-9-07",
-                    "end": "2021-9-19",
+                    "start": "2021-09-07",
+                    "end": "2021-09-19",
                     "room": "TBSCH",
                     "instructor": "Brad Gibson, Alan Brodie, Courtenay Dobbie, David Hudgins, Malcolm Dow, Mara Gottler, Yvan Morissette"
                 },
@@ -47894,7 +47894,7 @@
                     "type": "Lecture",
                     "days": "-T-----",
                     "time": "0930-1220",
-                    "start": "2021-9-20",
+                    "start": "2021-09-20",
                     "end": "2021-12-02",
                     "room": "A110",
                     "instructor": "Brad Gibson, Alan Brodie, Courtenay Dobbie, David Hudgins, Malcolm Dow, Mara Gottler, Yvan Morissette"
@@ -49018,8 +49018,8 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1530-1720",
-                    "start": "2021-9-07",
-                    "end": "2021-9-14",
+                    "start": "2021-09-07",
+                    "end": "2021-09-14",
                     "room": "B014",
                     "instructor": "Peter Vysek"
                 },
@@ -49036,7 +49036,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1330-1520",
-                    "start": "2021-9-15",
+                    "start": "2021-09-15",
                     "end": "2021-12-02",
                     "room": "B014",
                     "instructor": "Peter Vysek"
@@ -49150,8 +49150,8 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1330-1520",
-                    "start": "2021-9-07",
-                    "end": "2021-9-14",
+                    "start": "2021-09-07",
+                    "end": "2021-09-14",
                     "room": "B014",
                     "instructor": "Denis Billette"
                 },
@@ -49168,7 +49168,7 @@
                     "type": "Lecture",
                     "days": "--W----",
                     "time": "1530-1720",
-                    "start": "2021-9-15",
+                    "start": "2021-09-15",
                     "end": "2021-12-02",
                     "room": "B014",
                     "instructor": "Denis Billette"
@@ -49537,8 +49537,8 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0930-1120",
-                    "start": "2021-9-07",
-                    "end": "2021-9-14",
+                    "start": "2021-09-07",
+                    "end": "2021-09-14",
                     "room": "B029",
                     "instructor": "Tyler Higgs"
                 },
@@ -49555,7 +49555,7 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "0930-1120",
-                    "start": "2021-9-15",
+                    "start": "2021-09-15",
                     "end": "2021-12-02",
                     "room": "B014",
                     "instructor": "Tyler Higgs"
@@ -49581,8 +49581,8 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "1330-1520",
-                    "start": "2021-9-07",
-                    "end": "2021-9-14",
+                    "start": "2021-09-07",
+                    "end": "2021-09-14",
                     "room": "B029",
                     "instructor": "Tyler Higgs"
                 },
@@ -49599,7 +49599,7 @@
                     "type": "Lecture",
                     "days": "----F--",
                     "time": "1330-1520",
-                    "start": "2021-9-15",
+                    "start": "2021-09-15",
                     "end": "2021-12-02",
                     "room": "B014",
                     "instructor": "Tyler Higgs"
