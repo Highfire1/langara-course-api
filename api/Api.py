@@ -30,8 +30,8 @@ class ErrorMessage(BaseModel):
     )
 async def get_semester_courses(year:Years, semester:Semesters) -> Semester:
     
-    if year == 2023 and semester >= 30:
-        raise HTTPException(status_code=404, detail="Semester data is not available yet.")
+    #if year == 2023 and semester >= 30:
+    #    raise HTTPException(status_code=404, detail="Semester data is not available yet.")
     
     try:
         with open (f"data/json/{year}{semester}.json", "r") as fi:
@@ -57,8 +57,8 @@ async def get_semester_courses(year:Years, semester:Semesters) -> Semester:
 async def get_course_from_semester(year:Years, semester:Semesters, crn:int) -> Course:
         
     # TODO: put other error codes in the schema
-    if year == 2023 and semester >= 30:
-        raise HTTPException(status_code=404, detail="Semester data is not available yet.")
+    #if year == 2023 and semester >= 30:
+    #    raise HTTPException(status_code=404, detail="Semester data is not available yet.")
     
     try:
         
