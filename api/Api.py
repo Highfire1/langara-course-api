@@ -102,7 +102,7 @@ async def get_course_from_semester(year:Years, semester:Semesters, crn:int) -> C
     },
     )
 async def get_courseInfo() -> CourseInfoAll:
-    return CourseInfoAll.parse_file("data/build/courseInfo.json")
+    return CourseInfoAll.parse_file("data/build/Allinfo.json")
 
 
 
