@@ -5,7 +5,6 @@ from pydantic import BaseModel, Field
 
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.middleware.gzip import GZipMiddleware
-from builders.AllBuilder import AllBuilder
 
 from schema.Semester import Semester, Years, Semesters, Course
 from schema.CourseInfo import CourseInfo, CourseInfoAll
@@ -97,13 +96,13 @@ async def get_course_from_semester(year:Years, semester:Semesters, crn:int) -> C
 
 @app.get(
     "/v1/courses/all", 
-    summary="Returns all available information about all courses.",
+    summary="Gets all possible information about all courses.",
     #description="Returns information about a course.",
     responses= {
     },
     )
-async def get_courseInfo() -> AllBuilder:
-    return AllBuilder.parse_file("data/build/allInfo.json")
+async def get_courseInfo() -> CourseInfoAll:
+    return CourseInfoAll.parse_file("data/build/courseInfo.json")
 
 
 
