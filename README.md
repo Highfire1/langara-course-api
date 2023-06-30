@@ -20,3 +20,8 @@ To run:
 
 To develop locally:
 - run `uvicorn api.Api:app --host localhost --reload`
+
+TODO:
+ - completely rewrite and use a logical OOP system to encapsulate state
+ - optimize request retrieval speed
+ - implement more api routes
