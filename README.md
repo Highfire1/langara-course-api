@@ -1,10 +1,9 @@
-# Scraping API
+# [Langara Scraping API](https://github.com/Highfire1/langara-course-api)
 
-temporary version of CourseDB 
+Caches an API for course data at Langara College.
+Refreshes every two hours by default.
 
-hosts an api for course data at Langara College
-
-Data from: 
+Data sourced from: 
 - [Course and Exam Search](https://swing.langara.bc.ca/prod/hzgkfcls.P_Sel_Crse_Search)
 - [Course Attributes](https://swing.langara.bc.ca/prod/hzgkcald.P_DispCrseAttr)
 - [Course Catalogue](https://swing.langara.bc.ca/prod/hzgkcald.P_DisplayCatalog)
@@ -12,11 +11,10 @@ Data from:
 
 TODO: put the parsing into a package instead of copy pasted files
 
-Access the live api @ [http://168.138.79.49:5000/redoc](http://168.138.79.49:5000/redoc)
+Access a live api @ [https://api.langaracs.tech/redoc](https://api.langaracs.tech/redoc) (or host your own!)
 
 
-
-To run (you need to install docker):
+To run:
 - `docker compose up` then `docker compose stop` and `docker compose rm` to clear 
 - access it with [localhost:5000/docs](localhost:5000/docs)
 
