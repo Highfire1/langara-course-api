@@ -2,7 +2,9 @@ import json
 
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
+
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.middleware.gzip import GZipMiddleware
 
 from schema.Semester import Semester, Years, Semesters, Course
 from schema.CourseInfo import CourseInfo, CourseInfoAll
@@ -27,6 +29,8 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
+
+app.add_middleware(GZipMiddleware, minimum_size=1000)
 
 
 
