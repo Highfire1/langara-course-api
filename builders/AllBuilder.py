@@ -1,3 +1,4 @@
+import gzip
 import os
 
 from pydantic import BaseModel
@@ -48,6 +49,9 @@ class AllBuilder:
         
         with open(file_location, "w+") as fi:
             fi.write(save)
+            
+        with gzip.open(f"data/gzip/build/allInfo.json.gz", "wb") as fi:
+            fi.write(save.encode('utf-8'))
     
     def hydrateBuildSave(self):
         self.hydrate()

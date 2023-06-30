@@ -31,7 +31,8 @@ def parse_build_data(getFromWeb = False):
     
     #TransferParser.transfer_courses_generator()
     #TransferParser.ahk_data_generator()
-    TransferParser.parse_and_save_transfer_pdfs()
+    # unnessecary until data is refreshed
+    #TransferParser.parse_and_save_transfer_pdfs()
     
     
     c = CourseInfoBuilder()
