@@ -1,5 +1,5 @@
 {
-    "datetime_retrieved": "2023-06-13 21:39:51",
+    "datetime_retrieved": "2023-06-29 23:24:03",
     "year": 2015,
     "semester": 20,
     "courses_first_day": "2015-05-04",
@@ -10702,7 +10702,7 @@
             "title": "Intro to Calculus I Part 2",
             "add_fees": 3.4,
             "rpt_limit": 2,
-            "notes": "College credit will be given for only one of the following courses: MATH 1153/1253, MATH 1171, MATH 1173 or MATH 1174.The last day to register in MATH and STAT courses is the last day of the first week of classes. ",
+            "notes": "College credit will be given for only one of the following courses: MATH 1153/1253, MATH 1171, MATH 1173 or MATH 1174.The last day to register in MATH and STAT courses is the last day of the first week of classes.",
             "schedule": [
                 {
                     "type": "Lecture",

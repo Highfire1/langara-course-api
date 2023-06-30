@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import unicodedata
 import os
 import datetime
+import gzip
 
 from schema.Semester import Course, Semester, ScheduleEntry, RPEnum, seatsEnum, waitlistEnum
 

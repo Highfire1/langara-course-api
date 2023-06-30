@@ -1,3 +1,4 @@
+import gzip
 from pydantic import BaseModel, Field
 from enum import Enum, IntEnum
 
@@ -198,6 +199,11 @@ class Semester(BaseModel):
         
         with open(file_location, "w+") as fi:
             fi.write(self.toJSON())
+            
+        
+        with gzip.open(f"{location}/gzip/json/{self.year}{self.semester}.json.gz", "wb") as fi:
+            fi.write(self.toJSON().encode('utf-8'))
+        
     
     # sets start/end dates of semesters by looking for most common start/end dates
     # not verified to be 100% correct but should be good enough

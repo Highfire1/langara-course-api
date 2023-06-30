@@ -1,5 +1,5 @@
 {
-    "datetime_retrieved": "2023-06-13 21:39:51",
+    "datetime_retrieved": "2023-06-29 23:24:03",
     "year": 2012,
     "semester": 30,
     "courses_first_day": "2012-08-27",
@@ -13861,7 +13861,7 @@
             "title": "Essay Writing & Short Prose Sl",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "ENGL 1127, section M02 will also meet for 2 hours per week as a WWW component. ",
+            "notes": "ENGL 1127, section M02 will also meet for 2 hours per week as a WWW component.",
             "schedule": [
                 {
                     "type": "Lecture",

@@ -1,5 +1,5 @@
 {
-    "datetime_retrieved": "2023-06-13 21:39:51",
+    "datetime_retrieved": "2023-06-29 23:24:03",
     "year": 2008,
     "semester": 20,
     "courses_first_day": "2008-05-05",
@@ -1480,7 +1480,7 @@
             "title": "Professional Employability Skl",
             "add_fees": 45.9,
             "rpt_limit": null,
-            "notes": "**Cancelled**\n***NEW COURSE*** \rBUSM 2300 was fomerly BUSM 1310",
+            "notes": "**Cancelled**\n***NEW COURSE*** \nBUSM 2300 was fomerly BUSM 1310",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -1506,7 +1506,7 @@
             "title": "Professional Employability Skl",
             "add_fees": 45.9,
             "rpt_limit": null,
-            "notes": "BUSM 2300, section 002 also requires participation in seminars in addition to regular classroom hours.\n***NEW COURSE*** \rBUSM 2300 was fomerly BUSM 1310",
+            "notes": "BUSM 2300, section 002 also requires participation in seminars in addition to regular classroom hours.\n***NEW COURSE*** \nBUSM 2300 was fomerly BUSM 1310",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -2075,7 +2075,7 @@
             "title": "Co-op Work Placement I",
             "add_fees": null,
             "rpt_limit": null,
-            "notes": "***NEW COURSE*** \rCOOP 2301 was formerly COOP 2310.",
+            "notes": "***NEW COURSE*** \nCOOP 2301 was formerly COOP 2310.",
             "schedule": [
                 {
                     "type": "On Site Work",
@@ -2127,7 +2127,7 @@
             "title": "Co-op Work Placement II",
             "add_fees": null,
             "rpt_limit": null,
-            "notes": "***NEW COURSE*** \rCOOP 2501 was formerly COOP 2510.",
+            "notes": "***NEW COURSE*** \nCOOP 2501 was formerly COOP 2510.",
             "schedule": [
                 {
                     "type": "On Site Work",
@@ -8887,7 +8887,7 @@
             "title": "Lived Experience of Disability",
             "add_fees": null,
             "rpt_limit": null,
-            "notes": "For Nursing electives 4180 & 4182, students may register in either section.NURS 4182, section 001 will also meet for one hour per week as a WWW component.\n***NEW COURSE*** \rStudents may register in either NURS 4182 or NURS 4180.",
+            "notes": "For Nursing electives 4180 & 4182, students may register in either section.NURS 4182, section 001 will also meet for one hour per week as a WWW component.\n***NEW COURSE*** \nStudents may register in either NURS 4182 or NURS 4180.",
             "schedule": [
                 {
                     "type": "Lecture",

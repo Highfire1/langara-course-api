@@ -1,5 +1,5 @@
 {
-    "datetime_retrieved": "2023-06-13 21:39:51",
+    "datetime_retrieved": "2023-06-29 23:24:03",
     "year": 2011,
     "semester": 10,
     "courses_first_day": "2011-01-10",
@@ -28109,7 +28109,7 @@
             "title": "The Human Condition",
             "add_fees": null,
             "rpt_limit": null,
-            "notes": "***NEW COURSE*** \rStudents will only receive credit for either POLI 1195 (Human Behaviour) or POLI 2280 and not both courses.",
+            "notes": "***NEW COURSE*** \nStudents will only receive credit for either POLI 1195 (Human Behaviour) or POLI 2280 and not both courses.",
             "schedule": [
                 {
                     "type": "Lecture",
@@ -30934,7 +30934,7 @@
             "title": "Intro to Social Work Practice",
             "add_fees": null,
             "rpt_limit": 2,
-            "notes": "***NEW COURSE*** \rSSRV 2001 is open to all students except those in the Social Service Worker Program.",
+            "notes": "***NEW COURSE*** \nSSRV 2001 is open to all students except those in the Social Service Worker Program.",
             "schedule": [
                 {
                     "type": "Lecture",
