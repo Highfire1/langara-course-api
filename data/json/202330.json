@@ -1,5 +1,5 @@
 {
-    "datetime_retrieved": "2023-06-30 00:22:01",
+    "datetime_retrieved": "2023-06-30 15:36:45",
     "year": 2023,
     "semester": 30,
     "courses_first_day": "2023-09-05",
@@ -7,8 +7,8 @@
     "courses": [
         {
             "RP": null,
-            "seats": 3,
-            "waitlist": 7,
+            "seats": 2,
+            "waitlist": 6,
             "crn": 30918,
             "subject": "ABST",
             "course_code": 1100,
@@ -85,8 +85,8 @@
         },
         {
             "RP": null,
-            "seats": 7,
-            "waitlist": 6,
+            "seats": 6,
+            "waitlist": 5,
             "crn": 31301,
             "subject": "ABST",
             "course_code": 1115,
@@ -138,7 +138,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 21,
+            "waitlist": 22,
             "crn": 31298,
             "subject": "ABST",
             "course_code": 1116,
@@ -241,7 +241,7 @@
         },
         {
             "RP": null,
-            "seats": 25,
+            "seats": 24,
             "waitlist": null,
             "crn": 31302,
             "subject": "ABST",
@@ -267,8 +267,8 @@
         },
         {
             "RP": null,
-            "seats": 21,
-            "waitlist": 26,
+            "seats": 18,
+            "waitlist": 25,
             "crn": 30849,
             "subject": "ANTH",
             "course_code": 1120,
@@ -293,8 +293,8 @@
         },
         {
             "RP": null,
-            "seats": 23,
-            "waitlist": 25,
+            "seats": 24,
+            "waitlist": 23,
             "crn": 30850,
             "subject": "ANTH",
             "course_code": 1120,
@@ -320,7 +320,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 14,
+            "waitlist": 19,
             "crn": 30851,
             "subject": "ANTH",
             "course_code": 1120,
@@ -345,8 +345,8 @@
         },
         {
             "RP": null,
-            "seats": 28,
-            "waitlist": 17,
+            "seats": 27,
+            "waitlist": 18,
             "crn": 30852,
             "subject": "ANTH",
             "course_code": 1120,
@@ -380,7 +380,7 @@
         },
         {
             "RP": null,
-            "seats": 1,
+            "seats": 0,
             "waitlist": "Full",
             "crn": 30853,
             "subject": "ANTH",
@@ -432,7 +432,7 @@
         },
         {
             "RP": null,
-            "seats": 3,
+            "seats": 2,
             "waitlist": "Full",
             "crn": 30854,
             "subject": "ANTH",
@@ -484,7 +484,7 @@
         },
         {
             "RP": null,
-            "seats": 16,
+            "seats": 15,
             "waitlist": null,
             "crn": 30856,
             "subject": "ANTH",
@@ -510,7 +510,7 @@
         },
         {
             "RP": null,
-            "seats": 11,
+            "seats": 9,
             "waitlist": null,
             "crn": 30857,
             "subject": "ANTH",
@@ -536,8 +536,8 @@
         },
         {
             "RP": null,
-            "seats": 1,
-            "waitlist": 24,
+            "seats": 0,
+            "waitlist": 23,
             "crn": 30858,
             "subject": "ANTH",
             "course_code": 1170,
@@ -796,7 +796,7 @@
         },
         {
             "RP": null,
-            "seats": 18,
+            "seats": 17,
             "waitlist": null,
             "crn": 30946,
             "subject": "APPL",
@@ -901,7 +901,7 @@
         {
             "RP": null,
             "seats": 3,
-            "waitlist": 5,
+            "waitlist": 6,
             "crn": 30445,
             "subject": "APSC",
             "course_code": 1050,
@@ -979,7 +979,7 @@
         {
             "RP": null,
             "seats": 16,
-            "waitlist": 26,
+            "waitlist": 27,
             "crn": 30912,
             "subject": "AHIS",
             "course_code": 1112,
@@ -1004,8 +1004,8 @@
         },
         {
             "RP": null,
-            "seats": 0,
-            "waitlist": null,
+            "seats": 1,
+            "waitlist": 1,
             "crn": 30913,
             "subject": "AHIS",
             "course_code": 1114,
@@ -1031,7 +1031,7 @@
         {
             "RP": null,
             "seats": 3,
-            "waitlist": 9,
+            "waitlist": 8,
             "crn": 31282,
             "subject": "AHIS",
             "course_code": 1120,
@@ -1056,8 +1056,8 @@
         },
         {
             "RP": null,
-            "seats": 12,
-            "waitlist": 10,
+            "seats": 0,
+            "waitlist": "N/A",
             "crn": 31332,
             "subject": "AHIS",
             "course_code": 1212,
@@ -1082,7 +1082,7 @@
         },
         {
             "RP": null,
-            "seats": 12,
+            "seats": 11,
             "waitlist": 25,
             "crn": 30916,
             "subject": "AHIS",
@@ -1134,7 +1134,7 @@
         },
         {
             "RP": null,
-            "seats": 10,
+            "seats": 7,
             "waitlist": null,
             "crn": 30917,
             "subject": "AHIS",
@@ -1160,7 +1160,7 @@
         },
         {
             "RP": null,
-            "seats": 13,
+            "seats": 9,
             "waitlist": null,
             "crn": 30919,
             "subject": "AHIS",
@@ -1186,7 +1186,7 @@
         },
         {
             "RP": null,
-            "seats": 25,
+            "seats": 24,
             "waitlist": null,
             "crn": 30922,
             "subject": "AHIS",
@@ -1212,7 +1212,7 @@
         },
         {
             "RP": null,
-            "seats": 3,
+            "seats": 2,
             "waitlist": null,
             "crn": 30923,
             "subject": "AHIS",
@@ -1238,8 +1238,8 @@
         },
         {
             "RP": null,
-            "seats": 14,
-            "waitlist": 22,
+            "seats": 13,
+            "waitlist": 21,
             "crn": 30597,
             "subject": "ASIA",
             "course_code": 1100,
@@ -1264,8 +1264,8 @@
         },
         {
             "RP": null,
-            "seats": 17,
-            "waitlist": 31,
+            "seats": 12,
+            "waitlist": 32,
             "crn": 31310,
             "subject": "ASIA",
             "course_code": 1120,
@@ -1299,8 +1299,8 @@
         },
         {
             "RP": null,
-            "seats": 12,
-            "waitlist": 8,
+            "seats": 10,
+            "waitlist": 7,
             "crn": 30598,
             "subject": "ASIA",
             "course_code": 1125,
@@ -1334,8 +1334,8 @@
         },
         {
             "RP": null,
-            "seats": 13,
-            "waitlist": 11,
+            "seats": 11,
+            "waitlist": 10,
             "crn": 30599,
             "subject": "ASIA",
             "course_code": 1135,
@@ -1386,7 +1386,7 @@
         },
         {
             "RP": null,
-            "seats": 9,
+            "seats": 7,
             "waitlist": 20,
             "crn": 30601,
             "subject": "ASIA",
@@ -1412,7 +1412,7 @@
         },
         {
             "RP": null,
-            "seats": 21,
+            "seats": 20,
             "waitlist": 26,
             "crn": 30602,
             "subject": "ASIA",
@@ -1464,8 +1464,8 @@
         },
         {
             "RP": null,
-            "seats": 8,
-            "waitlist": 49,
+            "seats": 7,
+            "waitlist": 48,
             "crn": 30604,
             "subject": "ASIA",
             "course_code": 2240,
@@ -1499,7 +1499,7 @@
         },
         {
             "RP": null,
-            "seats": 4,
+            "seats": 2,
             "waitlist": 25,
             "crn": 30605,
             "subject": "ASIA",
@@ -1551,7 +1551,7 @@
         },
         {
             "RP": "P",
-            "seats": 8,
+            "seats": 4,
             "waitlist": null,
             "crn": 30745,
             "subject": "ASTR",
@@ -1640,7 +1640,7 @@
         {
             "RP": null,
             "seats": 6,
-            "waitlist": 3,
+            "waitlist": 2,
             "crn": 30266,
             "subject": "BIOL",
             "course_code": 1111,
@@ -1674,8 +1674,8 @@
         },
         {
             "RP": null,
-            "seats": 0,
-            "waitlist": 7,
+            "seats": 1,
+            "waitlist": 10,
             "crn": 30267,
             "subject": "BIOL",
             "course_code": 1111,
@@ -1709,7 +1709,7 @@
         },
         {
             "RP": null,
-            "seats": 1,
+            "seats": 0,
             "waitlist": null,
             "crn": 30268,
             "subject": "BIOL",
@@ -1753,7 +1753,7 @@
         },
         {
             "RP": null,
-            "seats": 24,
+            "seats": 25,
             "waitlist": null,
             "crn": 30269,
             "subject": "BIOL",
@@ -1788,7 +1788,7 @@
         },
         {
             "RP": null,
-            "seats": 4,
+            "seats": 3,
             "waitlist": null,
             "crn": 30270,
             "subject": "BIOL",
@@ -1823,7 +1823,7 @@
         },
         {
             "RP": null,
-            "seats": 11,
+            "seats": 9,
             "waitlist": null,
             "crn": 30271,
             "subject": "BIOL",
@@ -1858,7 +1858,7 @@
         },
         {
             "RP": null,
-            "seats": 5,
+            "seats": 0,
             "waitlist": null,
             "crn": 30272,
             "subject": "BIOL",
@@ -1893,7 +1893,7 @@
         },
         {
             "RP": null,
-            "seats": 18,
+            "seats": 17,
             "waitlist": null,
             "crn": 30273,
             "subject": "BIOL",
@@ -1963,7 +1963,7 @@
         },
         {
             "RP": null,
-            "seats": 22,
+            "seats": 19,
             "waitlist": null,
             "crn": 30275,
             "subject": "BIOL",
@@ -1998,7 +1998,7 @@
         },
         {
             "RP": null,
-            "seats": 14,
+            "seats": 13,
             "waitlist": null,
             "crn": 30276,
             "subject": "BIOL",
@@ -2033,7 +2033,7 @@
         },
         {
             "RP": null,
-            "seats": 12,
+            "seats": 9,
             "waitlist": null,
             "crn": 30277,
             "subject": "BIOL",
@@ -2069,7 +2069,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 2,
+            "waitlist": 3,
             "crn": 30278,
             "subject": "BIOL",
             "course_code": 1115,
@@ -2103,7 +2103,7 @@
         },
         {
             "RP": "P",
-            "seats": 5,
+            "seats": 1,
             "waitlist": null,
             "crn": 30279,
             "subject": "BIOL",
@@ -2138,7 +2138,7 @@
         },
         {
             "RP": "P",
-            "seats": 20,
+            "seats": 19,
             "waitlist": null,
             "crn": 30280,
             "subject": "BIOL",
@@ -2173,7 +2173,7 @@
         },
         {
             "RP": "P",
-            "seats": 11,
+            "seats": 9,
             "waitlist": null,
             "crn": 30281,
             "subject": "BIOL",
@@ -2209,7 +2209,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 5,
+            "waitlist": 6,
             "crn": 30282,
             "subject": "BIOL",
             "course_code": 1115,
@@ -2252,7 +2252,7 @@
         },
         {
             "RP": "P",
-            "seats": 16,
+            "seats": 14,
             "waitlist": null,
             "crn": 30283,
             "subject": "BIOL",
@@ -2287,7 +2287,7 @@
         },
         {
             "RP": "P",
-            "seats": 15,
+            "seats": 13,
             "waitlist": null,
             "crn": 30284,
             "subject": "BIOL",
@@ -2323,7 +2323,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 2,
+            "waitlist": 4,
             "crn": 30285,
             "subject": "BIOL",
             "course_code": 1115,
@@ -2357,8 +2357,8 @@
         },
         {
             "RP": "P",
-            "seats": 1,
-            "waitlist": null,
+            "seats": 0,
+            "waitlist": 2,
             "crn": 30286,
             "subject": "BIOL",
             "course_code": 1115,
@@ -2392,8 +2392,8 @@
         },
         {
             "RP": null,
-            "seats": 7,
-            "waitlist": null,
+            "seats": 6,
+            "waitlist": 1,
             "crn": 30287,
             "subject": "BIOL",
             "course_code": 1118,
@@ -2427,7 +2427,7 @@
         },
         {
             "RP": null,
-            "seats": 9,
+            "seats": 7,
             "waitlist": null,
             "crn": 30288,
             "subject": "BIOL",
@@ -2463,7 +2463,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 36,
+            "waitlist": 40,
             "crn": 30289,
             "subject": "BIOL",
             "course_code": 1175,
@@ -2523,7 +2523,7 @@
         },
         {
             "RP": "P",
-            "seats": 9,
+            "seats": 3,
             "waitlist": null,
             "crn": 30291,
             "subject": "BIOL",
@@ -2558,7 +2558,7 @@
         },
         {
             "RP": "P",
-            "seats": 8,
+            "seats": 4,
             "waitlist": null,
             "crn": 30292,
             "subject": "BIOL",
@@ -2602,7 +2602,7 @@
         },
         {
             "RP": "P",
-            "seats": 19,
+            "seats": 16,
             "waitlist": null,
             "crn": 30293,
             "subject": "BIOL",
@@ -2637,7 +2637,7 @@
         },
         {
             "RP": "P",
-            "seats": 27,
+            "seats": 25,
             "waitlist": null,
             "crn": 30294,
             "subject": "BIOL",
@@ -2672,7 +2672,7 @@
         },
         {
             "RP": "P",
-            "seats": 15,
+            "seats": 14,
             "waitlist": null,
             "crn": 30295,
             "subject": "BIOL",
@@ -2777,7 +2777,7 @@
         },
         {
             "RP": "P",
-            "seats": 19,
+            "seats": 15,
             "waitlist": null,
             "crn": 30298,
             "subject": "BIOL",
@@ -2847,7 +2847,7 @@
         },
         {
             "RP": "P",
-            "seats": 5,
+            "seats": 0,
             "waitlist": null,
             "crn": 30300,
             "subject": "BIOL",
@@ -2883,7 +2883,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 6,
+            "waitlist": 8,
             "crn": 30301,
             "subject": "BIOL",
             "course_code": 1191,
@@ -2917,7 +2917,7 @@
         },
         {
             "RP": "P",
-            "seats": 8,
+            "seats": 7,
             "waitlist": 8,
             "crn": 30302,
             "subject": "BIOL",
@@ -2952,8 +2952,8 @@
         },
         {
             "RP": "P",
-            "seats": 3,
-            "waitlist": 15,
+            "seats": 0,
+            "waitlist": 16,
             "crn": 30303,
             "subject": "BIOL",
             "course_code": 1215,
@@ -2987,8 +2987,8 @@
         },
         {
             "RP": "P",
-            "seats": 6,
-            "waitlist": 9,
+            "seats": 5,
+            "waitlist": 8,
             "crn": 30304,
             "subject": "BIOL",
             "course_code": 1215,
@@ -3022,7 +3022,7 @@
         },
         {
             "RP": "P",
-            "seats": 8,
+            "seats": 9,
             "waitlist": null,
             "crn": 30305,
             "subject": "BIOL",
@@ -3214,7 +3214,7 @@
         },
         {
             "RP": "P",
-            "seats": 4,
+            "seats": 3,
             "waitlist": null,
             "crn": 30311,
             "subject": "BIOL",
@@ -3250,7 +3250,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 6,
+            "waitlist": 5,
             "crn": 30312,
             "subject": "BIOL",
             "course_code": 2330,
@@ -3319,7 +3319,7 @@
         },
         {
             "RP": "P",
-            "seats": 10,
+            "seats": 9,
             "waitlist": null,
             "crn": 30314,
             "subject": "BIOL",
@@ -3390,7 +3390,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 2,
+            "waitlist": 3,
             "crn": 30316,
             "subject": "BIOL",
             "course_code": 2415,
@@ -3424,7 +3424,7 @@
         },
         {
             "RP": "P",
-            "seats": 1,
+            "seats": 0,
             "waitlist": 1,
             "crn": 30317,
             "subject": "BIOL",
@@ -3459,7 +3459,7 @@
         },
         {
             "RP": "P",
-            "seats": 11,
+            "seats": 10,
             "waitlist": null,
             "crn": 30318,
             "subject": "BIOL",
@@ -3494,7 +3494,7 @@
         },
         {
             "RP": "P",
-            "seats": 12,
+            "seats": 10,
             "waitlist": null,
             "crn": 30319,
             "subject": "BIOL",
@@ -3660,8 +3660,8 @@
         },
         {
             "RP": null,
-            "seats": 2,
-            "waitlist": 17,
+            "seats": 1,
+            "waitlist": 16,
             "crn": 30196,
             "subject": "BCAP",
             "course_code": 1200,
@@ -3686,8 +3686,8 @@
         },
         {
             "RP": null,
-            "seats": 9,
-            "waitlist": 17,
+            "seats": 6,
+            "waitlist": 6,
             "crn": 30197,
             "subject": "BCAP",
             "course_code": 1200,
@@ -3712,8 +3712,8 @@
         },
         {
             "RP": null,
-            "seats": 17,
-            "waitlist": 15,
+            "seats": 15,
+            "waitlist": 7,
             "crn": 30198,
             "subject": "BCAP",
             "course_code": 1200,
@@ -3738,8 +3738,8 @@
         },
         {
             "RP": null,
-            "seats": 4,
-            "waitlist": 16,
+            "seats": 0,
+            "waitlist": 10,
             "crn": 30199,
             "subject": "BCAP",
             "course_code": 1200,
@@ -3764,8 +3764,8 @@
         },
         {
             "RP": null,
-            "seats": 11,
-            "waitlist": 17,
+            "seats": 8,
+            "waitlist": 6,
             "crn": 30200,
             "subject": "BCAP",
             "course_code": 1200,
@@ -3790,8 +3790,8 @@
         },
         {
             "RP": null,
-            "seats": 6,
-            "waitlist": 21,
+            "seats": 4,
+            "waitlist": 14,
             "crn": 30201,
             "subject": "BCAP",
             "course_code": 1200,
@@ -3816,8 +3816,8 @@
         },
         {
             "RP": null,
-            "seats": 2,
-            "waitlist": 16,
+            "seats": 0,
+            "waitlist": 14,
             "crn": 30202,
             "subject": "BCAP",
             "course_code": 1200,
@@ -3842,8 +3842,8 @@
         },
         {
             "RP": null,
-            "seats": 7,
-            "waitlist": 10,
+            "seats": 6,
+            "waitlist": 5,
             "crn": 30203,
             "subject": "BCAP",
             "course_code": 1200,
@@ -3868,8 +3868,8 @@
         },
         {
             "RP": null,
-            "seats": 5,
-            "waitlist": 18,
+            "seats": 2,
+            "waitlist": 12,
             "crn": 30204,
             "subject": "BCAP",
             "course_code": 1200,
@@ -3903,8 +3903,8 @@
         },
         {
             "RP": null,
-            "seats": 17,
-            "waitlist": 4,
+            "seats": 16,
+            "waitlist": null,
             "crn": 30205,
             "subject": "BCAP",
             "course_code": 1200,
@@ -3938,8 +3938,8 @@
         },
         {
             "RP": null,
-            "seats": 8,
-            "waitlist": 6,
+            "seats": 7,
+            "waitlist": 1,
             "crn": 30206,
             "subject": "BCAP",
             "course_code": 1200,
@@ -3973,8 +3973,8 @@
         },
         {
             "RP": null,
-            "seats": 11,
-            "waitlist": 4,
+            "seats": 10,
+            "waitlist": null,
             "crn": 30207,
             "subject": "BCAP",
             "course_code": 1200,
@@ -4008,8 +4008,8 @@
         },
         {
             "RP": null,
-            "seats": 18,
-            "waitlist": 3,
+            "seats": 17,
+            "waitlist": null,
             "crn": 30208,
             "subject": "BCAP",
             "course_code": 1200,
@@ -4043,8 +4043,8 @@
         },
         {
             "RP": null,
-            "seats": 12,
-            "waitlist": 5,
+            "seats": 10,
+            "waitlist": null,
             "crn": 30209,
             "subject": "BCAP",
             "course_code": 1200,
@@ -4130,7 +4130,7 @@
         },
         {
             "RP": "P",
-            "seats": 27,
+            "seats": 26,
             "waitlist": null,
             "crn": 30213,
             "subject": "BCAP",
@@ -4226,7 +4226,7 @@
         },
         {
             "RP": null,
-            "seats": 10,
+            "seats": 6,
             "waitlist": 7,
             "crn": 30503,
             "subject": "BUSM",
@@ -4304,7 +4304,7 @@
         },
         {
             "RP": null,
-            "seats": 1,
+            "seats": 0,
             "waitlist": 9,
             "crn": 30507,
             "subject": "BUSM",
@@ -4357,7 +4357,7 @@
         {
             "RP": null,
             "seats": 11,
-            "waitlist": 7,
+            "waitlist": 6,
             "crn": 30509,
             "subject": "BUSM",
             "course_code": 1100,
@@ -4383,7 +4383,7 @@
         {
             "RP": null,
             "seats": 17,
-            "waitlist": 2,
+            "waitlist": 1,
             "crn": 30511,
             "subject": "BUSM",
             "course_code": 1100,
@@ -4408,7 +4408,7 @@
         },
         {
             "RP": null,
-            "seats": 19,
+            "seats": 18,
             "waitlist": 8,
             "crn": 30513,
             "subject": "BUSM",
@@ -4460,8 +4460,8 @@
         },
         {
             "RP": null,
-            "seats": 7,
-            "waitlist": 8,
+            "seats": 4,
+            "waitlist": 7,
             "crn": 30516,
             "subject": "BUSM",
             "course_code": 1100,
@@ -4486,7 +4486,7 @@
         },
         {
             "RP": null,
-            "seats": 16,
+            "seats": 15,
             "waitlist": 10,
             "crn": 30518,
             "subject": "BUSM",
@@ -4556,7 +4556,7 @@
         },
         {
             "RP": null,
-            "seats": 30,
+            "seats": 28,
             "waitlist": null,
             "crn": 30520,
             "subject": "BUSM",
@@ -4591,7 +4591,7 @@
         },
         {
             "RP": null,
-            "seats": 22,
+            "seats": 23,
             "waitlist": null,
             "crn": 30521,
             "subject": "BUSM",
@@ -4661,7 +4661,7 @@
         },
         {
             "RP": null,
-            "seats": 33,
+            "seats": 31,
             "waitlist": null,
             "crn": 30523,
             "subject": "BUSM",
@@ -4696,7 +4696,7 @@
         },
         {
             "RP": null,
-            "seats": 5,
+            "seats": 3,
             "waitlist": 12,
             "crn": 30524,
             "subject": "BUSM",
@@ -4722,8 +4722,8 @@
         },
         {
             "RP": null,
-            "seats": 17,
-            "waitlist": 2,
+            "seats": 13,
+            "waitlist": 1,
             "crn": 30525,
             "subject": "BUSM",
             "course_code": 1100,
@@ -4757,8 +4757,8 @@
         },
         {
             "RP": "P",
-            "seats": 6,
-            "waitlist": 11,
+            "seats": 5,
+            "waitlist": 12,
             "crn": 30526,
             "subject": "BUSM",
             "course_code": 1115,
@@ -4809,8 +4809,8 @@
         },
         {
             "RP": "P",
-            "seats": 10,
-            "waitlist": null,
+            "seats": 8,
+            "waitlist": 1,
             "crn": 30528,
             "subject": "BUSM",
             "course_code": 1115,
@@ -4862,7 +4862,7 @@
         {
             "RP": "P",
             "seats": 5,
-            "waitlist": 14,
+            "waitlist": 15,
             "crn": 30530,
             "subject": "BUSM",
             "course_code": 1285,
@@ -4887,8 +4887,8 @@
         },
         {
             "RP": "P",
-            "seats": 2,
-            "waitlist": 20,
+            "seats": 1,
+            "waitlist": 21,
             "crn": 30531,
             "subject": "BUSM",
             "course_code": 1285,
@@ -4922,7 +4922,7 @@
         },
         {
             "RP": "P",
-            "seats": 1,
+            "seats": 0,
             "waitlist": 16,
             "crn": 30532,
             "subject": "BUSM",
@@ -4957,7 +4957,7 @@
         },
         {
             "RP": "R",
-            "seats": 25,
+            "seats": 15,
             "waitlist": null,
             "crn": 30533,
             "subject": "BUSM",
@@ -4984,7 +4984,7 @@
         {
             "RP": null,
             "seats": 12,
-            "waitlist": 20,
+            "waitlist": 19,
             "crn": 30534,
             "subject": "BUSM",
             "course_code": 1500,
@@ -5009,8 +5009,8 @@
         },
         {
             "RP": null,
-            "seats": 10,
-            "waitlist": 20,
+            "seats": 8,
+            "waitlist": 17,
             "crn": 30535,
             "subject": "BUSM",
             "course_code": 1500,
@@ -5061,8 +5061,8 @@
         },
         {
             "RP": null,
-            "seats": 7,
-            "waitlist": 17,
+            "seats": 5,
+            "waitlist": 18,
             "crn": 30537,
             "subject": "BUSM",
             "course_code": 1500,
@@ -5088,7 +5088,7 @@
         {
             "RP": null,
             "seats": 4,
-            "waitlist": 20,
+            "waitlist": 19,
             "crn": 30538,
             "subject": "BUSM",
             "course_code": 1500,
@@ -5113,8 +5113,8 @@
         },
         {
             "RP": null,
-            "seats": 6,
-            "waitlist": 18,
+            "seats": 5,
+            "waitlist": 16,
             "crn": 30539,
             "subject": "BUSM",
             "course_code": 1500,
@@ -5165,8 +5165,8 @@
         },
         {
             "RP": null,
-            "seats": 13,
-            "waitlist": 20,
+            "seats": 12,
+            "waitlist": 19,
             "crn": 30541,
             "subject": "BUSM",
             "course_code": 1500,
@@ -5191,8 +5191,8 @@
         },
         {
             "RP": null,
-            "seats": 1,
-            "waitlist": 20,
+            "seats": 0,
+            "waitlist": 18,
             "crn": 30542,
             "subject": "BUSM",
             "course_code": 1500,
@@ -5217,8 +5217,8 @@
         },
         {
             "RP": null,
-            "seats": 14,
-            "waitlist": 22,
+            "seats": 13,
+            "waitlist": 21,
             "crn": 30543,
             "subject": "BUSM",
             "course_code": 1500,
@@ -5244,7 +5244,7 @@
         {
             "RP": null,
             "seats": 12,
-            "waitlist": 20,
+            "waitlist": 19,
             "crn": 30544,
             "subject": "BUSM",
             "course_code": 1500,
@@ -5270,7 +5270,7 @@
         {
             "RP": null,
             "seats": 3,
-            "waitlist": 20,
+            "waitlist": 19,
             "crn": 30545,
             "subject": "BUSM",
             "course_code": 1500,
@@ -5295,7 +5295,7 @@
         },
         {
             "RP": null,
-            "seats": 10,
+            "seats": 9,
             "waitlist": 20,
             "crn": 31275,
             "subject": "BUSM",
@@ -5321,8 +5321,8 @@
         },
         {
             "RP": "P",
-            "seats": 9,
-            "waitlist": 3,
+            "seats": 6,
+            "waitlist": 2,
             "crn": 30546,
             "subject": "BUSM",
             "course_code": 2115,
@@ -5356,8 +5356,8 @@
         },
         {
             "RP": "P",
-            "seats": 10,
-            "waitlist": 14,
+            "seats": 6,
+            "waitlist": 11,
             "crn": 30547,
             "subject": "BUSM",
             "course_code": 2115,
@@ -5392,7 +5392,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 10,
+            "waitlist": 11,
             "crn": 30548,
             "subject": "BUSM",
             "course_code": 2115,
@@ -5417,8 +5417,8 @@
         },
         {
             "RP": "P",
-            "seats": 8,
-            "waitlist": 12,
+            "seats": 5,
+            "waitlist": 11,
             "crn": 30551,
             "subject": "BUSM",
             "course_code": 2200,
@@ -5488,7 +5488,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": "Full",
+            "waitlist": 25,
             "crn": 31276,
             "subject": "BUSM",
             "course_code": 2200,
@@ -5522,8 +5522,8 @@
         },
         {
             "RP": "P",
-            "seats": 8,
-            "waitlist": 4,
+            "seats": 7,
+            "waitlist": 5,
             "crn": 31277,
             "subject": "BUSM",
             "course_code": 2200,
@@ -5557,8 +5557,8 @@
         },
         {
             "RP": "P",
-            "seats": 1,
-            "waitlist": 9,
+            "seats": 0,
+            "waitlist": 8,
             "crn": 30553,
             "subject": "BUSM",
             "course_code": 2200,
@@ -5584,7 +5584,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 22,
+            "waitlist": 21,
             "crn": 30554,
             "subject": "BUSM",
             "course_code": 2450,
@@ -6063,7 +6063,7 @@
         },
         {
             "RP": "R",
-            "seats": 1,
+            "seats": 0,
             "waitlist": 1,
             "crn": 30567,
             "subject": "BUSM",
@@ -6168,7 +6168,7 @@
         },
         {
             "RP": "RP",
-            "seats": 0,
+            "seats": 1,
             "waitlist": null,
             "crn": 30570,
             "subject": "BUSM",
@@ -6203,8 +6203,8 @@
         },
         {
             "RP": "RP",
-            "seats": 1,
-            "waitlist": 9,
+            "seats": 2,
+            "waitlist": 6,
             "crn": 30571,
             "subject": "BUSM",
             "course_code": 4810,
@@ -6238,7 +6238,7 @@
         },
         {
             "RP": "RP",
-            "seats": 4,
+            "seats": 5,
             "waitlist": null,
             "crn": 30572,
             "subject": "BUSM",
@@ -6526,7 +6526,7 @@
         {
             "RP": "RP",
             "seats": 1,
-            "waitlist": 5,
+            "waitlist": 4,
             "crn": 30582,
             "subject": "BUSM",
             "course_code": 4840,
@@ -6560,7 +6560,7 @@
         },
         {
             "RP": "RP",
-            "seats": 6,
+            "seats": 5,
             "waitlist": null,
             "crn": 30583,
             "subject": "BUSM",
@@ -6760,7 +6760,7 @@
         },
         {
             "RP": null,
-            "seats": 9,
+            "seats": 6,
             "waitlist": 3,
             "crn": 30238,
             "subject": "CNST",
@@ -6795,7 +6795,7 @@
         },
         {
             "RP": null,
-            "seats": 24,
+            "seats": 23,
             "waitlist": null,
             "crn": 30239,
             "subject": "CNST",
@@ -6918,8 +6918,8 @@
         },
         {
             "RP": null,
-            "seats": 0,
-            "waitlist": 2,
+            "seats": 1,
+            "waitlist": 1,
             "crn": 30325,
             "subject": "CHEM",
             "course_code": 1114,
@@ -6962,7 +6962,7 @@
         },
         {
             "RP": null,
-            "seats": 14,
+            "seats": 13,
             "waitlist": null,
             "crn": 30326,
             "subject": "CHEM",
@@ -6997,7 +6997,7 @@
         },
         {
             "RP": null,
-            "seats": 12,
+            "seats": 10,
             "waitlist": null,
             "crn": 30327,
             "subject": "CHEM",
@@ -7041,7 +7041,7 @@
         },
         {
             "RP": null,
-            "seats": 9,
+            "seats": 4,
             "waitlist": null,
             "crn": 30328,
             "subject": "CHEM",
@@ -7129,7 +7129,7 @@
         },
         {
             "RP": null,
-            "seats": 3,
+            "seats": 2,
             "waitlist": 16,
             "crn": 30330,
             "subject": "CHEM",
@@ -7173,7 +7173,7 @@
         },
         {
             "RP": null,
-            "seats": 6,
+            "seats": 5,
             "waitlist": 6,
             "crn": 30331,
             "subject": "CHEM",
@@ -7217,7 +7217,7 @@
         },
         {
             "RP": null,
-            "seats": 15,
+            "seats": 14,
             "waitlist": null,
             "crn": 30332,
             "subject": "CHEM",
@@ -7261,8 +7261,8 @@
         },
         {
             "RP": "P",
-            "seats": 1,
-            "waitlist": 1,
+            "seats": 0,
+            "waitlist": 5,
             "crn": 30333,
             "subject": "CHEM",
             "course_code": 1118,
@@ -7296,7 +7296,7 @@
         },
         {
             "RP": "P",
-            "seats": 7,
+            "seats": 6,
             "waitlist": 1,
             "crn": 30334,
             "subject": "CHEM",
@@ -7331,7 +7331,7 @@
         },
         {
             "RP": "P",
-            "seats": 16,
+            "seats": 15,
             "waitlist": null,
             "crn": 30335,
             "subject": "CHEM",
@@ -7367,7 +7367,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 14,
+            "waitlist": 15,
             "crn": 30336,
             "subject": "CHEM",
             "course_code": 1120,
@@ -7402,7 +7402,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 5,
+            "waitlist": 9,
             "crn": 30337,
             "subject": "CHEM",
             "course_code": 1120,
@@ -7436,7 +7436,7 @@
         },
         {
             "RP": "P",
-            "seats": 18,
+            "seats": 13,
             "waitlist": null,
             "crn": 30338,
             "subject": "CHEM",
@@ -7480,8 +7480,8 @@
         },
         {
             "RP": "P",
-            "seats": 8,
-            "waitlist": 8,
+            "seats": 6,
+            "waitlist": 9,
             "crn": 30339,
             "subject": "CHEM",
             "course_code": 1120,
@@ -7524,7 +7524,7 @@
         },
         {
             "RP": "P",
-            "seats": 11,
+            "seats": 8,
             "waitlist": null,
             "crn": 30340,
             "subject": "CHEM",
@@ -7559,8 +7559,8 @@
         },
         {
             "RP": "P",
-            "seats": 2,
-            "waitlist": null,
+            "seats": 0,
+            "waitlist": 2,
             "crn": 30341,
             "subject": "CHEM",
             "course_code": 1120,
@@ -7708,7 +7708,7 @@
         },
         {
             "RP": "P",
-            "seats": 20,
+            "seats": 17,
             "waitlist": null,
             "crn": 30345,
             "subject": "CHEM",
@@ -7927,7 +7927,7 @@
         },
         {
             "RP": "P",
-            "seats": 9,
+            "seats": 8,
             "waitlist": null,
             "crn": 30351,
             "subject": "CHEM",
@@ -7962,7 +7962,7 @@
         },
         {
             "RP": "P",
-            "seats": 10,
+            "seats": 9,
             "waitlist": null,
             "crn": 30352,
             "subject": "CHEM",
@@ -7998,7 +7998,7 @@
         {
             "RP": "P",
             "seats": 1,
-            "waitlist": 9,
+            "waitlist": 8,
             "crn": 30353,
             "subject": "CHEM",
             "course_code": 2416,
@@ -8032,7 +8032,7 @@
         },
         {
             "RP": null,
-            "seats": 17,
+            "seats": 16,
             "waitlist": null,
             "crn": 30789,
             "subject": "CHIN",
@@ -8058,7 +8058,7 @@
         },
         {
             "RP": null,
-            "seats": 25,
+            "seats": 26,
             "waitlist": null,
             "crn": 30790,
             "subject": "CHIN",
@@ -8110,7 +8110,7 @@
         },
         {
             "RP": "P",
-            "seats": 17,
+            "seats": 15,
             "waitlist": null,
             "crn": 30791,
             "subject": "CHIN",
@@ -8188,7 +8188,7 @@
         },
         {
             "RP": null,
-            "seats": 28,
+            "seats": 26,
             "waitlist": null,
             "crn": 30795,
             "subject": "CHIN",
@@ -8292,7 +8292,7 @@
         },
         {
             "RP": null,
-            "seats": 23,
+            "seats": 22,
             "waitlist": null,
             "crn": 31306,
             "subject": "CHIN",
@@ -8344,7 +8344,7 @@
         },
         {
             "RP": null,
-            "seats": 21,
+            "seats": 20,
             "waitlist": null,
             "crn": 30236,
             "subject": "CLST",
@@ -8683,7 +8683,7 @@
         {
             "RP": "P",
             "seats": 1,
-            "waitlist": 46,
+            "waitlist": 47,
             "crn": 31116,
             "subject": "CMNS",
             "course_code": 1114,
@@ -8857,8 +8857,8 @@
         },
         {
             "RP": "P",
-            "seats": 0,
-            "waitlist": "Full",
+            "seats": 1,
+            "waitlist": 49,
             "crn": 31121,
             "subject": "CMNS",
             "course_code": 1114,
@@ -8909,8 +8909,8 @@
         },
         {
             "RP": "P",
-            "seats": 0,
-            "waitlist": 46,
+            "seats": 1,
+            "waitlist": 47,
             "crn": 31123,
             "subject": "CMNS",
             "course_code": 1115,
@@ -8961,7 +8961,7 @@
         },
         {
             "RP": "P",
-            "seats": 3,
+            "seats": 2,
             "waitlist": 44,
             "crn": 31125,
             "subject": "CMNS",
@@ -9013,7 +9013,7 @@
         },
         {
             "RP": "P",
-            "seats": 3,
+            "seats": 2,
             "waitlist": 44,
             "crn": 31127,
             "subject": "CMNS",
@@ -9143,7 +9143,7 @@
         },
         {
             "RP": "P",
-            "seats": 7,
+            "seats": 6,
             "waitlist": 14,
             "crn": 31131,
             "subject": "CMNS",
@@ -9178,7 +9178,7 @@
         },
         {
             "RP": "P",
-            "seats": 1,
+            "seats": 0,
             "waitlist": 15,
             "crn": 31132,
             "subject": "CMNS",
@@ -9214,7 +9214,7 @@
         {
             "RP": "P",
             "seats": 8,
-            "waitlist": 14,
+            "waitlist": 13,
             "crn": 31133,
             "subject": "CMNS",
             "course_code": 1118,
@@ -9249,7 +9249,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 25,
+            "waitlist": 26,
             "crn": 31134,
             "subject": "CMNS",
             "course_code": 1118,
@@ -9284,7 +9284,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 18,
+            "waitlist": 21,
             "crn": 31135,
             "subject": "CMNS",
             "course_code": 1118,
@@ -9319,7 +9319,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 27,
+            "waitlist": 30,
             "crn": 31136,
             "subject": "CMNS",
             "course_code": 1118,
@@ -9353,7 +9353,7 @@
         },
         {
             "RP": "P",
-            "seats": 6,
+            "seats": 5,
             "waitlist": 14,
             "crn": 31137,
             "subject": "CMNS",
@@ -9379,7 +9379,7 @@
         },
         {
             "RP": "P",
-            "seats": 12,
+            "seats": 11,
             "waitlist": 17,
             "crn": 31138,
             "subject": "CMNS",
@@ -9406,7 +9406,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 29,
+            "waitlist": 30,
             "crn": 31139,
             "subject": "CMNS",
             "course_code": 1118,
@@ -9432,7 +9432,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 28,
+            "waitlist": 30,
             "crn": 31140,
             "subject": "CMNS",
             "course_code": 1118,
@@ -9736,7 +9736,7 @@
         },
         {
             "RP": null,
-            "seats": 9,
+            "seats": 6,
             "waitlist": 13,
             "crn": 30448,
             "subject": "CPSC",
@@ -9806,7 +9806,7 @@
         },
         {
             "RP": null,
-            "seats": 6,
+            "seats": 4,
             "waitlist": 14,
             "crn": 30450,
             "subject": "CPSC",
@@ -9842,7 +9842,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 30,
+            "waitlist": 31,
             "crn": 30451,
             "subject": "CPSC",
             "course_code": 1030,
@@ -9911,7 +9911,7 @@
         },
         {
             "RP": null,
-            "seats": 10,
+            "seats": 9,
             "waitlist": 12,
             "crn": 31313,
             "subject": "CPSC",
@@ -9937,7 +9937,7 @@
         },
         {
             "RP": null,
-            "seats": 13,
+            "seats": 11,
             "waitlist": 4,
             "crn": 30453,
             "subject": "CPSC",
@@ -9973,7 +9973,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 22,
+            "waitlist": 23,
             "crn": 30454,
             "subject": "CPSC",
             "course_code": 1045,
@@ -10008,7 +10008,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 16,
+            "waitlist": 19,
             "crn": 30455,
             "subject": "CPSC",
             "course_code": 1045,
@@ -10077,7 +10077,7 @@
         },
         {
             "RP": null,
-            "seats": 1,
+            "seats": 0,
             "waitlist": 12,
             "crn": 30457,
             "subject": "CPSC",
@@ -10112,7 +10112,7 @@
         },
         {
             "RP": null,
-            "seats": 15,
+            "seats": 16,
             "waitlist": null,
             "crn": 30458,
             "subject": "CPSC",
@@ -10147,7 +10147,7 @@
         },
         {
             "RP": null,
-            "seats": 8,
+            "seats": 9,
             "waitlist": 1,
             "crn": 31314,
             "subject": "CPSC",
@@ -10183,7 +10183,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 26,
+            "waitlist": 30,
             "crn": 30468,
             "subject": "CPSC",
             "course_code": 1050,
@@ -10218,7 +10218,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 8,
+            "waitlist": 11,
             "crn": 30459,
             "subject": "CPSC",
             "course_code": 1050,
@@ -10261,8 +10261,8 @@
         },
         {
             "RP": null,
-            "seats": 4,
-            "waitlist": 10,
+            "seats": 3,
+            "waitlist": 14,
             "crn": 30460,
             "subject": "CPSC",
             "course_code": 1050,
@@ -10306,7 +10306,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 9,
+            "waitlist": 10,
             "crn": 30461,
             "subject": "CPSC",
             "course_code": 1050,
@@ -10350,7 +10350,7 @@
         {
             "RP": null,
             "seats": 10,
-            "waitlist": 1,
+            "waitlist": 2,
             "crn": 30462,
             "subject": "CPSC",
             "course_code": 1050,
@@ -10393,7 +10393,7 @@
         },
         {
             "RP": null,
-            "seats": 16,
+            "seats": 15,
             "waitlist": null,
             "crn": 30463,
             "subject": "CPSC",
@@ -10437,7 +10437,7 @@
         },
         {
             "RP": null,
-            "seats": 19,
+            "seats": 17,
             "waitlist": null,
             "crn": 30464,
             "subject": "CPSC",
@@ -10482,7 +10482,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 9,
+            "waitlist": 10,
             "crn": 30465,
             "subject": "CPSC",
             "course_code": 1050,
@@ -10525,7 +10525,7 @@
         },
         {
             "RP": null,
-            "seats": 13,
+            "seats": 12,
             "waitlist": null,
             "crn": 30466,
             "subject": "CPSC",
@@ -10613,7 +10613,7 @@
         },
         {
             "RP": null,
-            "seats": 13,
+            "seats": 10,
             "waitlist": null,
             "crn": 31311,
             "subject": "CPSC",
@@ -10658,7 +10658,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 15,
+            "waitlist": 16,
             "crn": 31312,
             "subject": "CPSC",
             "course_code": 1050,
@@ -10737,7 +10737,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 8,
+            "waitlist": 9,
             "crn": 30470,
             "subject": "CPSC",
             "course_code": 1091,
@@ -10771,8 +10771,8 @@
         },
         {
             "RP": "P",
-            "seats": 1,
-            "waitlist": 32,
+            "seats": 0,
+            "waitlist": 36,
             "crn": 30471,
             "subject": "CPSC",
             "course_code": 1150,
@@ -10807,7 +10807,7 @@
         {
             "RP": "P",
             "seats": 1,
-            "waitlist": 29,
+            "waitlist": 36,
             "crn": 30472,
             "subject": "CPSC",
             "course_code": 1150,
@@ -10842,7 +10842,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 37,
+            "waitlist": 40,
             "crn": 30473,
             "subject": "CPSC",
             "course_code": 1150,
@@ -10877,7 +10877,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 35,
+            "waitlist": 40,
             "crn": 30474,
             "subject": "CPSC",
             "course_code": 1150,
@@ -10912,7 +10912,7 @@
         {
             "RP": "P",
             "seats": 1,
-            "waitlist": 35,
+            "waitlist": 43,
             "crn": 30475,
             "subject": "CPSC",
             "course_code": 1150,
@@ -10947,7 +10947,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 34,
+            "waitlist": 42,
             "crn": 30476,
             "subject": "CPSC",
             "course_code": 1150,
@@ -10982,7 +10982,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 28,
+            "waitlist": 33,
             "crn": 30477,
             "subject": "CPSC",
             "course_code": 1150,
@@ -11017,7 +11017,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 17,
+            "waitlist": 18,
             "crn": 30478,
             "subject": "CPSC",
             "course_code": 1155,
@@ -11122,7 +11122,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 31,
+            "waitlist": 32,
             "crn": 30481,
             "subject": "CPSC",
             "course_code": 1160,
@@ -11192,7 +11192,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 6,
+            "waitlist": 7,
             "crn": 30483,
             "subject": "CPSC",
             "course_code": 1181,
@@ -11226,7 +11226,7 @@
         },
         {
             "RP": "P",
-            "seats": 4,
+            "seats": 3,
             "waitlist": 17,
             "crn": 30484,
             "subject": "CPSC",
@@ -11262,7 +11262,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 12,
+            "waitlist": 13,
             "crn": 30485,
             "subject": "CPSC",
             "course_code": 1181,
@@ -11297,7 +11297,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 10,
+            "waitlist": 12,
             "crn": 30486,
             "subject": "CPSC",
             "course_code": 1181,
@@ -11367,7 +11367,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 31,
+            "waitlist": 32,
             "crn": 30488,
             "subject": "CPSC",
             "course_code": 1280,
@@ -11402,7 +11402,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 30,
+            "waitlist": 32,
             "crn": 30489,
             "subject": "CPSC",
             "course_code": 1280,
@@ -11542,7 +11542,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 27,
+            "waitlist": 29,
             "crn": 30493,
             "subject": "CPSC",
             "course_code": 2030,
@@ -11621,7 +11621,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 33,
+            "waitlist": 34,
             "crn": 30495,
             "subject": "CPSC",
             "course_code": 2150,
@@ -11690,7 +11690,7 @@
         },
         {
             "RP": "P",
-            "seats": 0,
+            "seats": 1,
             "waitlist": "Full",
             "crn": 30497,
             "subject": "CPSC",
@@ -11734,7 +11734,7 @@
         },
         {
             "RP": "P",
-            "seats": 8,
+            "seats": 7,
             "waitlist": 25,
             "crn": 30498,
             "subject": "CPSC",
@@ -11883,7 +11883,7 @@
         },
         {
             "RP": "P",
-            "seats": 15,
+            "seats": 16,
             "waitlist": null,
             "crn": 30500,
             "subject": "CPSC",
@@ -12032,7 +12032,7 @@
         },
         {
             "RP": "RP",
-            "seats": 11,
+            "seats": 10,
             "waitlist": null,
             "crn": 30510,
             "subject": "CPSC",
@@ -12137,7 +12137,7 @@
         },
         {
             "RP": null,
-            "seats": 15,
+            "seats": 14,
             "waitlist": 9,
             "crn": 30216,
             "subject": "CSIS",
@@ -12216,7 +12216,7 @@
         {
             "RP": null,
             "seats": 14,
-            "waitlist": 25,
+            "waitlist": 24,
             "crn": 30157,
             "subject": "CRIM",
             "course_code": 1115,
@@ -12241,7 +12241,7 @@
         },
         {
             "RP": null,
-            "seats": 6,
+            "seats": 5,
             "waitlist": 20,
             "crn": 31295,
             "subject": "CRIM",
@@ -12276,7 +12276,7 @@
         },
         {
             "RP": null,
-            "seats": 11,
+            "seats": 9,
             "waitlist": 13,
             "crn": 31296,
             "subject": "CRIM",
@@ -12311,8 +12311,8 @@
         },
         {
             "RP": null,
-            "seats": 2,
-            "waitlist": 25,
+            "seats": 0,
+            "waitlist": 26,
             "crn": 30158,
             "subject": "CRIM",
             "course_code": 1115,
@@ -12338,7 +12338,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 4,
+            "waitlist": 6,
             "crn": 30160,
             "subject": "CRIM",
             "course_code": 1116,
@@ -12363,8 +12363,8 @@
         },
         {
             "RP": null,
-            "seats": 1,
-            "waitlist": 5,
+            "seats": 0,
+            "waitlist": 9,
             "crn": 30159,
             "subject": "CRIM",
             "course_code": 1116,
@@ -12399,7 +12399,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 19,
+            "waitlist": 21,
             "crn": 30161,
             "subject": "CRIM",
             "course_code": 1116,
@@ -12433,8 +12433,8 @@
         },
         {
             "RP": null,
-            "seats": 0,
-            "waitlist": 4,
+            "seats": 2,
+            "waitlist": 6,
             "crn": 30162,
             "subject": "CRIM",
             "course_code": 1125,
@@ -12459,8 +12459,8 @@
         },
         {
             "RP": null,
-            "seats": 4,
-            "waitlist": 11,
+            "seats": 3,
+            "waitlist": 10,
             "crn": 30163,
             "subject": "CRIM",
             "course_code": 1125,
@@ -12486,7 +12486,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 17,
+            "waitlist": 19,
             "crn": 31297,
             "subject": "CRIM",
             "course_code": 1125,
@@ -12520,8 +12520,8 @@
         },
         {
             "RP": null,
-            "seats": 1,
-            "waitlist": 27,
+            "seats": 0,
+            "waitlist": 28,
             "crn": 31294,
             "subject": "CRIM",
             "course_code": 1125,
@@ -12547,7 +12547,7 @@
         {
             "RP": null,
             "seats": 1,
-            "waitlist": 22,
+            "waitlist": 24,
             "crn": 30164,
             "subject": "CRIM",
             "course_code": 1213,
@@ -12581,8 +12581,8 @@
         },
         {
             "RP": null,
-            "seats": 7,
-            "waitlist": 16,
+            "seats": 5,
+            "waitlist": 17,
             "crn": 30165,
             "subject": "CRIM",
             "course_code": 1215,
@@ -12608,7 +12608,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 26,
+            "waitlist": 33,
             "crn": 30166,
             "subject": "CRIM",
             "course_code": 1216,
@@ -12642,7 +12642,7 @@
         },
         {
             "RP": "P",
-            "seats": 19,
+            "seats": 17,
             "waitlist": null,
             "crn": 30167,
             "subject": "CRIM",
@@ -12669,7 +12669,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 6,
+            "waitlist": 9,
             "crn": 30168,
             "subject": "CRIM",
             "course_code": 2103,
@@ -12703,8 +12703,8 @@
         },
         {
             "RP": "P",
-            "seats": 1,
-            "waitlist": null,
+            "seats": 0,
+            "waitlist": 1,
             "crn": 30169,
             "subject": "CRIM",
             "course_code": 2295,
@@ -12738,7 +12738,7 @@
         },
         {
             "RP": "P",
-            "seats": 7,
+            "seats": 5,
             "waitlist": null,
             "crn": 30170,
             "subject": "CRIM",
@@ -12799,7 +12799,7 @@
         },
         {
             "RP": null,
-            "seats": 4,
+            "seats": 3,
             "waitlist": null,
             "crn": 30172,
             "subject": "CRIM",
@@ -12912,7 +12912,7 @@
         },
         {
             "RP": "RP",
-            "seats": 12,
+            "seats": 11,
             "waitlist": null,
             "crn": 30358,
             "subject": "DANA",
@@ -12991,7 +12991,7 @@
         {
             "RP": null,
             "seats": 2,
-            "waitlist": 19,
+            "waitlist": 20,
             "crn": 31098,
             "subject": "DSGN",
             "course_code": 1100,
@@ -13331,7 +13331,7 @@
         },
         {
             "RP": null,
-            "seats": 5,
+            "seats": 4,
             "waitlist": null,
             "crn": 31105,
             "subject": "DSGN",
@@ -13514,7 +13514,7 @@
         },
         {
             "RP": "R",
-            "seats": 5,
+            "seats": 6,
             "waitlist": 1,
             "crn": 31113,
             "subject": "DSGN",
@@ -13540,7 +13540,7 @@
         },
         {
             "RP": "R",
-            "seats": 2,
+            "seats": 1,
             "waitlist": null,
             "crn": 31114,
             "subject": "DSGN",
@@ -13670,7 +13670,7 @@
         },
         {
             "RP": "R",
-            "seats": 19,
+            "seats": 18,
             "waitlist": null,
             "crn": 31082,
             "subject": "ECED",
@@ -13774,7 +13774,7 @@
         },
         {
             "RP": "R",
-            "seats": 9,
+            "seats": 8,
             "waitlist": null,
             "crn": 31086,
             "subject": "ECED",
@@ -13878,7 +13878,7 @@
         },
         {
             "RP": "RP",
-            "seats": 23,
+            "seats": 22,
             "waitlist": null,
             "crn": 31089,
             "subject": "ECED",
@@ -14008,7 +14008,7 @@
         },
         {
             "RP": "R",
-            "seats": 9,
+            "seats": 8,
             "waitlist": null,
             "crn": 31304,
             "subject": "ECED",
@@ -14138,8 +14138,8 @@
         },
         {
             "RP": null,
-            "seats": 0,
-            "waitlist": 18,
+            "seats": 1,
+            "waitlist": "Full",
             "crn": 30783,
             "subject": "ECON",
             "course_code": 1220,
@@ -14165,7 +14165,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 5,
+            "waitlist": 7,
             "crn": 30784,
             "subject": "ECON",
             "course_code": 1220,
@@ -14190,7 +14190,7 @@
         },
         {
             "RP": null,
-            "seats": 37,
+            "seats": 34,
             "waitlist": null,
             "crn": 30786,
             "subject": "ECON",
@@ -14216,7 +14216,7 @@
         },
         {
             "RP": null,
-            "seats": 36,
+            "seats": 34,
             "waitlist": null,
             "crn": 30787,
             "subject": "ECON",
@@ -14242,7 +14242,7 @@
         },
         {
             "RP": null,
-            "seats": 30,
+            "seats": 26,
             "waitlist": null,
             "crn": 30785,
             "subject": "ECON",
@@ -14278,7 +14278,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 1,
+            "waitlist": 2,
             "crn": 30788,
             "subject": "ECON",
             "course_code": 1220,
@@ -14312,7 +14312,7 @@
         },
         {
             "RP": null,
-            "seats": 15,
+            "seats": 10,
             "waitlist": null,
             "crn": 30818,
             "subject": "ECON",
@@ -14338,8 +14338,8 @@
         },
         {
             "RP": null,
-            "seats": 11,
-            "waitlist": null,
+            "seats": 7,
+            "waitlist": 1,
             "crn": 30820,
             "subject": "ECON",
             "course_code": 1221,
@@ -14364,7 +14364,7 @@
         },
         {
             "RP": null,
-            "seats": 40,
+            "seats": 39,
             "waitlist": null,
             "crn": 30821,
             "subject": "ECON",
@@ -14390,8 +14390,8 @@
         },
         {
             "RP": null,
-            "seats": 0,
-            "waitlist": 3,
+            "seats": 1,
+            "waitlist": 5,
             "crn": 30824,
             "subject": "ECON",
             "course_code": 1221,
@@ -14555,7 +14555,7 @@
         },
         {
             "RP": "P",
-            "seats": 14,
+            "seats": 15,
             "waitlist": null,
             "crn": 30839,
             "subject": "ECON",
@@ -14956,8 +14956,8 @@
         },
         {
             "RP": "P",
-            "seats": 2,
-            "waitlist": 5,
+            "seats": 3,
+            "waitlist": 10,
             "crn": 31149,
             "subject": "ENGL",
             "course_code": 1100,
@@ -15009,7 +15009,7 @@
         {
             "RP": "P",
             "seats": 8,
-            "waitlist": 7,
+            "waitlist": 10,
             "crn": 31151,
             "subject": "ENGL",
             "course_code": 1100,
@@ -15035,7 +15035,7 @@
         {
             "RP": "P",
             "seats": 4,
-            "waitlist": 5,
+            "waitlist": 7,
             "crn": 31152,
             "subject": "ENGL",
             "course_code": 1100,
@@ -15061,7 +15061,7 @@
         {
             "RP": "P",
             "seats": 6,
-            "waitlist": 7,
+            "waitlist": 9,
             "crn": 31153,
             "subject": "ENGL",
             "course_code": 1100,
@@ -15087,7 +15087,7 @@
         {
             "RP": "P",
             "seats": 3,
-            "waitlist": 5,
+            "waitlist": 7,
             "crn": 31154,
             "subject": "ENGL",
             "course_code": 1100,
@@ -15112,8 +15112,8 @@
         },
         {
             "RP": "P",
-            "seats": 3,
-            "waitlist": null,
+            "seats": 2,
+            "waitlist": 1,
             "crn": 31155,
             "subject": "ENGL",
             "course_code": 1100,
@@ -15138,7 +15138,7 @@
         },
         {
             "RP": "P",
-            "seats": 15,
+            "seats": 13,
             "waitlist": null,
             "crn": 31156,
             "subject": "ENGL",
@@ -15165,7 +15165,7 @@
         {
             "RP": "P",
             "seats": 2,
-            "waitlist": 5,
+            "waitlist": 10,
             "crn": 31157,
             "subject": "ENGL",
             "course_code": 1100,
@@ -15191,7 +15191,7 @@
         {
             "RP": "P",
             "seats": 6,
-            "waitlist": 5,
+            "waitlist": 10,
             "crn": 31158,
             "subject": "ENGL",
             "course_code": 1100,
@@ -15242,8 +15242,8 @@
         },
         {
             "RP": "P",
-            "seats": 1,
-            "waitlist": 8,
+            "seats": 0,
+            "waitlist": 9,
             "crn": 31160,
             "subject": "ENGL",
             "course_code": 1107,
@@ -15268,7 +15268,7 @@
         },
         {
             "RP": "P",
-            "seats": 1,
+            "seats": 0,
             "waitlist": 7,
             "crn": 31161,
             "subject": "ENGL",
@@ -15295,7 +15295,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 1,
+            "waitlist": 3,
             "crn": 31162,
             "subject": "ENGL",
             "course_code": 1107,
@@ -15347,7 +15347,7 @@
         {
             "RP": "P",
             "seats": 1,
-            "waitlist": null,
+            "waitlist": 1,
             "crn": 31164,
             "subject": "ENGL",
             "course_code": 1107,
@@ -15373,7 +15373,7 @@
         {
             "RP": "P",
             "seats": 3,
-            "waitlist": null,
+            "waitlist": 2,
             "crn": 31165,
             "subject": "ENGL",
             "course_code": 1107,
@@ -15399,7 +15399,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 22,
+            "waitlist": 19,
             "crn": 31166,
             "subject": "ENGL",
             "course_code": 1107,
@@ -15425,7 +15425,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 21,
+            "waitlist": 20,
             "crn": 31167,
             "subject": "ENGL",
             "course_code": 1107,
@@ -15450,7 +15450,7 @@
         },
         {
             "RP": "P",
-            "seats": 2,
+            "seats": 1,
             "waitlist": 3,
             "crn": 31168,
             "subject": "ENGL",
@@ -15520,7 +15520,7 @@
         },
         {
             "RP": "P",
-            "seats": 18,
+            "seats": 17,
             "waitlist": null,
             "crn": 31170,
             "subject": "ENGL",
@@ -15572,7 +15572,7 @@
         },
         {
             "RP": "P",
-            "seats": 13,
+            "seats": 12,
             "waitlist": 2,
             "crn": 31172,
             "subject": "ENGL",
@@ -15598,7 +15598,7 @@
         },
         {
             "RP": "P",
-            "seats": 16,
+            "seats": 15,
             "waitlist": null,
             "crn": 31173,
             "subject": "ENGL",
@@ -15677,7 +15677,7 @@
         {
             "RP": "P",
             "seats": 3,
-            "waitlist": 8,
+            "waitlist": 9,
             "crn": 31176,
             "subject": "ENGL",
             "course_code": 1123,
@@ -15703,7 +15703,7 @@
         {
             "RP": "P",
             "seats": 5,
-            "waitlist": 5,
+            "waitlist": 9,
             "crn": 31177,
             "subject": "ENGL",
             "course_code": 1123,
@@ -15754,8 +15754,8 @@
         },
         {
             "RP": "P",
-            "seats": 0,
-            "waitlist": "Full",
+            "seats": 1,
+            "waitlist": 21,
             "crn": 31179,
             "subject": "ENGL",
             "course_code": 1123,
@@ -15832,8 +15832,8 @@
         },
         {
             "RP": "P",
-            "seats": 1,
-            "waitlist": 9,
+            "seats": 2,
+            "waitlist": 10,
             "crn": 31182,
             "subject": "ENGL",
             "course_code": 1123,
@@ -15988,7 +15988,7 @@
         },
         {
             "RP": "P",
-            "seats": 5,
+            "seats": 4,
             "waitlist": 4,
             "crn": 31189,
             "subject": "ENGL",
@@ -16015,7 +16015,7 @@
         {
             "RP": "P",
             "seats": 3,
-            "waitlist": 5,
+            "waitlist": 7,
             "crn": 31190,
             "subject": "ENGL",
             "course_code": 1123,
@@ -16040,8 +16040,8 @@
         },
         {
             "RP": "P",
-            "seats": 9,
-            "waitlist": null,
+            "seats": 8,
+            "waitlist": 2,
             "crn": 31191,
             "subject": "ENGL",
             "course_code": 1123,
@@ -16066,7 +16066,7 @@
         },
         {
             "RP": "P",
-            "seats": 3,
+            "seats": 2,
             "waitlist": 7,
             "crn": 31192,
             "subject": "ENGL",
@@ -16093,7 +16093,7 @@
         {
             "RP": "P",
             "seats": 2,
-            "waitlist": 22,
+            "waitlist": 21,
             "crn": 31193,
             "subject": "ENGL",
             "course_code": 1123,
@@ -16118,7 +16118,7 @@
         },
         {
             "RP": "P",
-            "seats": 16,
+            "seats": 11,
             "waitlist": null,
             "crn": 31194,
             "subject": "ENGL",
@@ -16144,7 +16144,7 @@
         },
         {
             "RP": "P",
-            "seats": 15,
+            "seats": 8,
             "waitlist": null,
             "crn": 31195,
             "subject": "ENGL",
@@ -16196,7 +16196,7 @@
         },
         {
             "RP": "P",
-            "seats": 21,
+            "seats": 19,
             "waitlist": null,
             "crn": 31197,
             "subject": "ENGL",
@@ -16222,7 +16222,7 @@
         },
         {
             "RP": "P",
-            "seats": 20,
+            "seats": 16,
             "waitlist": null,
             "crn": 31198,
             "subject": "ENGL",
@@ -16249,7 +16249,7 @@
         {
             "RP": "P",
             "seats": 4,
-            "waitlist": 7,
+            "waitlist": 9,
             "crn": 31199,
             "subject": "ENGL",
             "course_code": 1123,
@@ -16274,8 +16274,8 @@
         },
         {
             "RP": "P",
-            "seats": 7,
-            "waitlist": 3,
+            "seats": 6,
+            "waitlist": 5,
             "crn": 31200,
             "subject": "ENGL",
             "course_code": 1123,
@@ -16326,7 +16326,7 @@
         },
         {
             "RP": "P",
-            "seats": 6,
+            "seats": 4,
             "waitlist": 1,
             "crn": 31202,
             "subject": "ENGL",
@@ -16352,7 +16352,7 @@
         },
         {
             "RP": "P",
-            "seats": 7,
+            "seats": 5,
             "waitlist": 1,
             "crn": 31203,
             "subject": "ENGL",
@@ -16378,8 +16378,8 @@
         },
         {
             "RP": "P",
-            "seats": 7,
-            "waitlist": 9,
+            "seats": 6,
+            "waitlist": 7,
             "crn": 31204,
             "subject": "ENGL",
             "course_code": 1123,
@@ -16456,7 +16456,7 @@
         },
         {
             "RP": "P",
-            "seats": 17,
+            "seats": 13,
             "waitlist": null,
             "crn": 31317,
             "subject": "ENGL",
@@ -16492,7 +16492,7 @@
         {
             "RP": "P",
             "seats": 2,
-            "waitlist": 2,
+            "waitlist": 1,
             "crn": 31206,
             "subject": "ENGL",
             "course_code": 1123,
@@ -16527,7 +16527,7 @@
         {
             "RP": "P",
             "seats": 2,
-            "waitlist": 7,
+            "waitlist": 8,
             "crn": 31207,
             "subject": "ENGL",
             "course_code": 1123,
@@ -16561,8 +16561,8 @@
         },
         {
             "RP": "P",
-            "seats": 5,
-            "waitlist": null,
+            "seats": 4,
+            "waitlist": 5,
             "crn": 31208,
             "subject": "ENGL",
             "course_code": 1123,
@@ -16596,7 +16596,7 @@
         },
         {
             "RP": "P",
-            "seats": 13,
+            "seats": 11,
             "waitlist": null,
             "crn": 31209,
             "subject": "ENGL",
@@ -16631,8 +16631,8 @@
         },
         {
             "RP": "P",
-            "seats": 2,
-            "waitlist": 5,
+            "seats": 1,
+            "waitlist": 6,
             "crn": 31210,
             "subject": "ENGL",
             "course_code": 1123,
@@ -16667,7 +16667,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 8,
+            "waitlist": 10,
             "crn": 31211,
             "subject": "ENGL",
             "course_code": 1123,
@@ -16702,7 +16702,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 13,
+            "waitlist": "Full",
             "crn": 31212,
             "subject": "ENGL",
             "course_code": 1123,
@@ -16728,7 +16728,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 14,
+            "waitlist": "Full",
             "crn": 31213,
             "subject": "ENGL",
             "course_code": 1123,
@@ -16806,7 +16806,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 14,
+            "waitlist": "Full",
             "crn": 31216,
             "subject": "ENGL",
             "course_code": 1123,
@@ -16857,8 +16857,8 @@
         },
         {
             "RP": "P",
-            "seats": 4,
-            "waitlist": null,
+            "seats": 0,
+            "waitlist": 1,
             "crn": 31218,
             "subject": "ENGL",
             "course_code": 1123,
@@ -16883,7 +16883,7 @@
         },
         {
             "RP": "P",
-            "seats": 23,
+            "seats": 11,
             "waitlist": null,
             "crn": 31219,
             "subject": "ENGL",
@@ -16909,8 +16909,8 @@
         },
         {
             "RP": "P",
-            "seats": 4,
-            "waitlist": 1,
+            "seats": 3,
+            "waitlist": 4,
             "crn": 31220,
             "subject": "ENGL",
             "course_code": 1123,
@@ -16935,8 +16935,8 @@
         },
         {
             "RP": "P",
-            "seats": 8,
-            "waitlist": null,
+            "seats": 3,
+            "waitlist": 3,
             "crn": 31221,
             "subject": "ENGL",
             "course_code": 1123,
@@ -16962,7 +16962,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 11,
+            "waitlist": 12,
             "crn": 31222,
             "subject": "ENGL",
             "course_code": 1125,
@@ -17066,7 +17066,7 @@
         {
             "RP": "P",
             "seats": 5,
-            "waitlist": 4,
+            "waitlist": 10,
             "crn": 31226,
             "subject": "ENGL",
             "course_code": 1129,
@@ -17118,7 +17118,7 @@
         {
             "RP": "P",
             "seats": 6,
-            "waitlist": 5,
+            "waitlist": 10,
             "crn": 31228,
             "subject": "ENGL",
             "course_code": 1129,
@@ -17170,7 +17170,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 15,
+            "waitlist": 16,
             "crn": 31230,
             "subject": "ENGL",
             "course_code": 1129,
@@ -17196,7 +17196,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 3,
+            "waitlist": 5,
             "crn": 31231,
             "subject": "ENGL",
             "course_code": 1129,
@@ -17222,7 +17222,7 @@
         {
             "RP": "P",
             "seats": 4,
-            "waitlist": 3,
+            "waitlist": 9,
             "crn": 31232,
             "subject": "ENGL",
             "course_code": 1129,
@@ -17247,8 +17247,8 @@
         },
         {
             "RP": "P",
-            "seats": 2,
-            "waitlist": 1,
+            "seats": 0,
+            "waitlist": 4,
             "crn": 31233,
             "subject": "ENGL",
             "course_code": 1129,
@@ -17273,8 +17273,8 @@
         },
         {
             "RP": "P",
-            "seats": 14,
-            "waitlist": null,
+            "seats": 3,
+            "waitlist": 4,
             "crn": 31234,
             "subject": "ENGL",
             "course_code": 1129,
@@ -17326,7 +17326,7 @@
         {
             "RP": "P",
             "seats": 6,
-            "waitlist": 7,
+            "waitlist": 10,
             "crn": 31236,
             "subject": "ENGL",
             "course_code": 1130,
@@ -17351,8 +17351,8 @@
         },
         {
             "RP": "P",
-            "seats": 5,
-            "waitlist": 9,
+            "seats": 4,
+            "waitlist": 10,
             "crn": 31237,
             "subject": "ENGL",
             "course_code": 1130,
@@ -17377,8 +17377,8 @@
         },
         {
             "RP": "P",
-            "seats": 5,
-            "waitlist": 3,
+            "seats": 4,
+            "waitlist": 10,
             "crn": 31238,
             "subject": "ENGL",
             "course_code": 1130,
@@ -17404,7 +17404,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 5,
+            "waitlist": 11,
             "crn": 31239,
             "subject": "ENGL",
             "course_code": 1130,
@@ -17455,8 +17455,8 @@
         },
         {
             "RP": "P",
-            "seats": 4,
-            "waitlist": 5,
+            "seats": 3,
+            "waitlist": 10,
             "crn": 31241,
             "subject": "ENGL",
             "course_code": 1130,
@@ -17490,8 +17490,8 @@
         },
         {
             "RP": "P",
-            "seats": 5,
-            "waitlist": null,
+            "seats": 4,
+            "waitlist": 6,
             "crn": 31242,
             "subject": "ENGL",
             "course_code": 1130,
@@ -17578,7 +17578,7 @@
         {
             "RP": "P",
             "seats": 6,
-            "waitlist": 5,
+            "waitlist": 6,
             "crn": 31245,
             "subject": "ENGL",
             "course_code": 1181,
@@ -17603,7 +17603,7 @@
         },
         {
             "RP": "P",
-            "seats": 16,
+            "seats": 14,
             "waitlist": null,
             "crn": 31246,
             "subject": "ENGL",
@@ -17629,7 +17629,7 @@
         },
         {
             "RP": "P",
-            "seats": 12,
+            "seats": 11,
             "waitlist": null,
             "crn": 31247,
             "subject": "ENGL",
@@ -17681,7 +17681,7 @@
         },
         {
             "RP": "P",
-            "seats": 25,
+            "seats": 24,
             "waitlist": null,
             "crn": 31249,
             "subject": "ENGL",
@@ -17811,7 +17811,7 @@
         },
         {
             "RP": "P",
-            "seats": 8,
+            "seats": 7,
             "waitlist": null,
             "crn": 31254,
             "subject": "ENGL",
@@ -17837,7 +17837,7 @@
         },
         {
             "RP": null,
-            "seats": 8,
+            "seats": 6,
             "waitlist": 11,
             "crn": 30240,
             "subject": "ENVS",
@@ -17889,7 +17889,7 @@
         },
         {
             "RP": null,
-            "seats": 19,
+            "seats": 18,
             "waitlist": null,
             "crn": 30242,
             "subject": "FMST",
@@ -17925,7 +17925,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 25,
+            "waitlist": 26,
             "crn": 30243,
             "subject": "FMST",
             "course_code": 1115,
@@ -17959,7 +17959,7 @@
         },
         {
             "RP": null,
-            "seats": 3,
+            "seats": 2,
             "waitlist": 8,
             "crn": 30620,
             "subject": "FMGT",
@@ -17985,7 +17985,7 @@
         },
         {
             "RP": null,
-            "seats": 10,
+            "seats": 8,
             "waitlist": 9,
             "crn": 30621,
             "subject": "FMGT",
@@ -18037,8 +18037,8 @@
         },
         {
             "RP": null,
-            "seats": 4,
-            "waitlist": null,
+            "seats": 1,
+            "waitlist": 1,
             "crn": 30623,
             "subject": "FMGT",
             "course_code": 1115,
@@ -18073,7 +18073,7 @@
         {
             "RP": null,
             "seats": 13,
-            "waitlist": 2,
+            "waitlist": 1,
             "crn": 30624,
             "subject": "FMGT",
             "course_code": 1115,
@@ -18212,7 +18212,7 @@
         },
         {
             "RP": null,
-            "seats": 29,
+            "seats": 28,
             "waitlist": null,
             "crn": 30628,
             "subject": "FMGT",
@@ -18247,7 +18247,7 @@
         },
         {
             "RP": null,
-            "seats": 4,
+            "seats": 3,
             "waitlist": null,
             "crn": 31290,
             "subject": "FMGT",
@@ -18273,8 +18273,8 @@
         },
         {
             "RP": "R",
-            "seats": 11,
-            "waitlist": 3,
+            "seats": 9,
+            "waitlist": 1,
             "crn": 30629,
             "subject": "FMGT",
             "course_code": 1116,
@@ -18299,7 +18299,7 @@
         },
         {
             "RP": "R",
-            "seats": 16,
+            "seats": 17,
             "waitlist": null,
             "crn": 30630,
             "subject": "FMGT",
@@ -18395,8 +18395,8 @@
         },
         {
             "RP": "P",
-            "seats": 6,
-            "waitlist": 22,
+            "seats": 3,
+            "waitlist": 20,
             "crn": 30633,
             "subject": "FMGT",
             "course_code": 1215,
@@ -18421,8 +18421,8 @@
         },
         {
             "RP": "P",
-            "seats": 9,
-            "waitlist": 8,
+            "seats": 6,
+            "waitlist": 5,
             "crn": 30634,
             "subject": "FMGT",
             "course_code": 1215,
@@ -18456,8 +18456,8 @@
         },
         {
             "RP": "P",
-            "seats": 13,
-            "waitlist": 9,
+            "seats": 11,
+            "waitlist": 5,
             "crn": 30635,
             "subject": "FMGT",
             "course_code": 1215,
@@ -18482,7 +18482,7 @@
         },
         {
             "RP": "P",
-            "seats": 16,
+            "seats": 14,
             "waitlist": null,
             "crn": 30636,
             "subject": "FMGT",
@@ -18552,7 +18552,7 @@
         },
         {
             "RP": "P",
-            "seats": 19,
+            "seats": 11,
             "waitlist": null,
             "crn": 30638,
             "subject": "FMGT",
@@ -18578,7 +18578,7 @@
         },
         {
             "RP": "P",
-            "seats": 26,
+            "seats": 25,
             "waitlist": null,
             "crn": 30639,
             "subject": "FMGT",
@@ -18613,7 +18613,7 @@
         },
         {
             "RP": "P",
-            "seats": 13,
+            "seats": 9,
             "waitlist": null,
             "crn": 30640,
             "subject": "FMGT",
@@ -18639,7 +18639,7 @@
         },
         {
             "RP": "P",
-            "seats": 4,
+            "seats": 3,
             "waitlist": null,
             "crn": 30641,
             "subject": "FMGT",
@@ -18805,7 +18805,7 @@
         },
         {
             "RP": "P",
-            "seats": 6,
+            "seats": 5,
             "waitlist": null,
             "crn": 30647,
             "subject": "FMGT",
@@ -18840,7 +18840,7 @@
         },
         {
             "RP": "P",
-            "seats": 8,
+            "seats": 9,
             "waitlist": null,
             "crn": 30649,
             "subject": "FMGT",
@@ -19171,7 +19171,7 @@
         },
         {
             "RP": "R",
-            "seats": 1,
+            "seats": 0,
             "waitlist": 1,
             "crn": 30660,
             "subject": "FMGT",
@@ -20162,7 +20162,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": null,
+            "waitlist": 1,
             "crn": 30055,
             "subject": "FINA",
             "course_code": 2161,
@@ -20317,7 +20317,7 @@
         },
         {
             "RP": null,
-            "seats": 2,
+            "seats": 1,
             "waitlist": 25,
             "crn": 30218,
             "subject": "FSRV",
@@ -20343,7 +20343,7 @@
         },
         {
             "RP": null,
-            "seats": 5,
+            "seats": 4,
             "waitlist": 25,
             "crn": 30219,
             "subject": "FSRV",
@@ -20525,7 +20525,7 @@
         },
         {
             "RP": null,
-            "seats": 26,
+            "seats": 25,
             "waitlist": null,
             "crn": 30800,
             "subject": "FREN",
@@ -20551,7 +20551,7 @@
         },
         {
             "RP": null,
-            "seats": 28,
+            "seats": 27,
             "waitlist": null,
             "crn": 30801,
             "subject": "FREN",
@@ -20578,7 +20578,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 4,
+            "waitlist": 6,
             "crn": 30802,
             "subject": "FREN",
             "course_code": 1115,
@@ -20629,8 +20629,8 @@
         },
         {
             "RP": null,
-            "seats": 17,
-            "waitlist": 2,
+            "seats": 15,
+            "waitlist": null,
             "crn": 30804,
             "subject": "FREN",
             "course_code": 1115,
@@ -20681,7 +20681,7 @@
         },
         {
             "RP": null,
-            "seats": 14,
+            "seats": 15,
             "waitlist": 5,
             "crn": 30806,
             "subject": "FREN",
@@ -20707,8 +20707,8 @@
         },
         {
             "RP": null,
-            "seats": 14,
-            "waitlist": 1,
+            "seats": 15,
+            "waitlist": 3,
             "crn": 30807,
             "subject": "FREN",
             "course_code": 1115,
@@ -20733,7 +20733,7 @@
         },
         {
             "RP": null,
-            "seats": 17,
+            "seats": 18,
             "waitlist": null,
             "crn": 30808,
             "subject": "FREN",
@@ -20759,8 +20759,8 @@
         },
         {
             "RP": null,
-            "seats": 10,
-            "waitlist": 9,
+            "seats": 7,
+            "waitlist": 8,
             "crn": 30809,
             "subject": "FREN",
             "course_code": 1115,
@@ -20951,7 +20951,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 32,
+            "waitlist": 34,
             "crn": 30687,
             "subject": "GEOG",
             "course_code": 1110,
@@ -20977,7 +20977,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 30,
+            "waitlist": 31,
             "crn": 30690,
             "subject": "GEOG",
             "course_code": 1110,
@@ -21054,7 +21054,7 @@
         },
         {
             "RP": null,
-            "seats": 2,
+            "seats": 1,
             "waitlist": 12,
             "crn": 30695,
             "subject": "GEOG",
@@ -21080,8 +21080,8 @@
         },
         {
             "RP": null,
-            "seats": 11,
-            "waitlist": 4,
+            "seats": 10,
+            "waitlist": 3,
             "crn": 30697,
             "subject": "GEOG",
             "course_code": 1130,
@@ -21158,7 +21158,7 @@
         },
         {
             "RP": null,
-            "seats": 3,
+            "seats": 1,
             "waitlist": 22,
             "crn": 30701,
             "subject": "GEOG",
@@ -21185,7 +21185,7 @@
         {
             "RP": null,
             "seats": 16,
-            "waitlist": null,
+            "waitlist": 1,
             "crn": 30703,
             "subject": "GEOG",
             "course_code": 1160,
@@ -21298,7 +21298,7 @@
         },
         {
             "RP": null,
-            "seats": 7,
+            "seats": 6,
             "waitlist": null,
             "crn": 30709,
             "subject": "GEOG",
@@ -21412,7 +21412,7 @@
         },
         {
             "RP": null,
-            "seats": 20,
+            "seats": 21,
             "waitlist": null,
             "crn": 31255,
             "subject": "GEOG",
@@ -21438,7 +21438,7 @@
         },
         {
             "RP": "P",
-            "seats": 18,
+            "seats": 17,
             "waitlist": null,
             "crn": 30715,
             "subject": "GEOG",
@@ -21464,7 +21464,7 @@
         },
         {
             "RP": null,
-            "seats": 3,
+            "seats": 1,
             "waitlist": null,
             "crn": 30717,
             "subject": "GEOG",
@@ -21614,7 +21614,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 5,
+            "waitlist": 6,
             "crn": 30726,
             "subject": "GEOL",
             "course_code": 1107,
@@ -21657,8 +21657,8 @@
         },
         {
             "RP": null,
-            "seats": 0,
-            "waitlist": 4,
+            "seats": 1,
+            "waitlist": 7,
             "crn": 30728,
             "subject": "GEOL",
             "course_code": 1107,
@@ -21857,8 +21857,8 @@
         },
         {
             "RP": "P",
-            "seats": 17,
-            "waitlist": 6,
+            "seats": 16,
+            "waitlist": 7,
             "crn": 30255,
             "subject": "HSCI",
             "course_code": 1120,
@@ -21909,7 +21909,7 @@
         },
         {
             "RP": "P",
-            "seats": 42,
+            "seats": 41,
             "waitlist": null,
             "crn": 30257,
             "subject": "HSCI",
@@ -21935,7 +21935,7 @@
         },
         {
             "RP": "P",
-            "seats": 6,
+            "seats": 1,
             "waitlist": 16,
             "crn": 30258,
             "subject": "HSCI",
@@ -21961,7 +21961,7 @@
         },
         {
             "RP": "P",
-            "seats": 11,
+            "seats": 9,
             "waitlist": 2,
             "crn": 31303,
             "subject": "HSCI",
@@ -22013,7 +22013,7 @@
         },
         {
             "RP": "P",
-            "seats": 4,
+            "seats": 3,
             "waitlist": 10,
             "crn": 30260,
             "subject": "HSCI",
@@ -22039,8 +22039,8 @@
         },
         {
             "RP": "P",
-            "seats": 16,
-            "waitlist": 2,
+            "seats": 15,
+            "waitlist": 1,
             "crn": 30261,
             "subject": "HSCI",
             "course_code": 1195,
@@ -22092,7 +22092,7 @@
         {
             "RP": "P",
             "seats": 16,
-            "waitlist": 12,
+            "waitlist": 11,
             "crn": 30262,
             "subject": "HSCI",
             "course_code": 2212,
@@ -22195,7 +22195,7 @@
         },
         {
             "RP": null,
-            "seats": 34,
+            "seats": 30,
             "waitlist": null,
             "crn": 30928,
             "subject": "HIST",
@@ -22221,7 +22221,7 @@
         },
         {
             "RP": null,
-            "seats": 0,
+            "seats": 1,
             "waitlist": 3,
             "crn": 30931,
             "subject": "HIST",
@@ -22273,7 +22273,7 @@
         },
         {
             "RP": null,
-            "seats": 14,
+            "seats": 13,
             "waitlist": null,
             "crn": 30933,
             "subject": "HIST",
@@ -22299,8 +22299,8 @@
         },
         {
             "RP": null,
-            "seats": 7,
-            "waitlist": 1,
+            "seats": 5,
+            "waitlist": null,
             "crn": 30934,
             "subject": "HIST",
             "course_code": 1123,
@@ -22351,7 +22351,7 @@
         },
         {
             "RP": null,
-            "seats": 42,
+            "seats": 38,
             "waitlist": null,
             "crn": 30937,
             "subject": "HIST",
@@ -22377,7 +22377,7 @@
         },
         {
             "RP": null,
-            "seats": 11,
+            "seats": 10,
             "waitlist": null,
             "crn": 30939,
             "subject": "HIST",
@@ -22430,7 +22430,7 @@
         {
             "RP": null,
             "seats": 1,
-            "waitlist": 17,
+            "waitlist": 16,
             "crn": 30942,
             "subject": "HIST",
             "course_code": 2217,
@@ -22455,7 +22455,7 @@
         },
         {
             "RP": null,
-            "seats": 15,
+            "seats": 14,
             "waitlist": null,
             "crn": 30944,
             "subject": "HIST",
@@ -22516,7 +22516,7 @@
         },
         {
             "RP": null,
-            "seats": 10,
+            "seats": 9,
             "waitlist": null,
             "crn": 30947,
             "subject": "HIST",
@@ -22543,7 +22543,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 5,
+            "waitlist": 7,
             "crn": 30948,
             "subject": "HIST",
             "course_code": 2247,
@@ -22716,7 +22716,7 @@
         },
         {
             "RP": "P",
-            "seats": 19,
+            "seats": 18,
             "waitlist": null,
             "crn": 30592,
             "subject": "INTB",
@@ -22925,7 +22925,7 @@
         },
         {
             "RP": null,
-            "seats": 13,
+            "seats": 11,
             "waitlist": null,
             "crn": 30816,
             "subject": "JAPN",
@@ -22951,7 +22951,7 @@
         },
         {
             "RP": null,
-            "seats": 7,
+            "seats": 4,
             "waitlist": null,
             "crn": 30817,
             "subject": "JAPN",
@@ -22977,7 +22977,7 @@
         },
         {
             "RP": null,
-            "seats": 14,
+            "seats": 13,
             "waitlist": null,
             "crn": 30819,
             "subject": "JAPN",
@@ -23029,7 +23029,7 @@
         },
         {
             "RP": null,
-            "seats": 21,
+            "seats": 20,
             "waitlist": null,
             "crn": 30823,
             "subject": "JAPN",
@@ -23055,7 +23055,7 @@
         },
         {
             "RP": "P",
-            "seats": 19,
+            "seats": 20,
             "waitlist": null,
             "crn": 30825,
             "subject": "JAPN",
@@ -23082,7 +23082,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 8,
+            "waitlist": 9,
             "crn": 30826,
             "subject": "JAPN",
             "course_code": 1215,
@@ -23159,7 +23159,7 @@
         },
         {
             "RP": "P",
-            "seats": 0,
+            "seats": 1,
             "waitlist": 21,
             "crn": 30760,
             "subject": "JOUR",
@@ -23752,7 +23752,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 7,
+            "waitlist": 10,
             "crn": 30979,
             "subject": "KINS",
             "course_code": 1100,
@@ -23787,7 +23787,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 11,
+            "waitlist": 12,
             "crn": 30982,
             "subject": "KINS",
             "course_code": 1100,
@@ -23822,7 +23822,7 @@
         {
             "RP": null,
             "seats": 1,
-            "waitlist": 12,
+            "waitlist": 14,
             "crn": 31261,
             "subject": "KINS",
             "course_code": 1100,
@@ -23874,7 +23874,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 8,
+            "waitlist": 9,
             "crn": 30983,
             "subject": "KINS",
             "course_code": 1100,
@@ -23909,7 +23909,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 4,
+            "waitlist": 5,
             "crn": 30984,
             "subject": "KINS",
             "course_code": 1100,
@@ -23944,7 +23944,7 @@
         {
             "RP": null,
             "seats": 1,
-            "waitlist": 5,
+            "waitlist": 6,
             "crn": 30985,
             "subject": "KINS",
             "course_code": 1100,
@@ -24014,7 +24014,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 27,
+            "waitlist": 28,
             "crn": 30989,
             "subject": "KINS",
             "course_code": 1100,
@@ -24039,7 +24039,7 @@
         },
         {
             "RP": null,
-            "seats": 2,
+            "seats": 0,
             "waitlist": 27,
             "crn": 30990,
             "subject": "KINS",
@@ -24065,7 +24065,7 @@
         },
         {
             "RP": null,
-            "seats": 6,
+            "seats": 4,
             "waitlist": 1,
             "crn": 31259,
             "subject": "KINS",
@@ -24091,7 +24091,7 @@
         },
         {
             "RP": null,
-            "seats": 17,
+            "seats": 11,
             "waitlist": null,
             "crn": 31260,
             "subject": "KINS",
@@ -24118,7 +24118,7 @@
         {
             "RP": "P",
             "seats": 2,
-            "waitlist": 2,
+            "waitlist": 5,
             "crn": 30991,
             "subject": "KINS",
             "course_code": 1110,
@@ -24152,7 +24152,7 @@
         },
         {
             "RP": "P",
-            "seats": 26,
+            "seats": 21,
             "waitlist": null,
             "crn": 30992,
             "subject": "KINS",
@@ -24188,7 +24188,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 8,
+            "waitlist": 13,
             "crn": 30993,
             "subject": "KINS",
             "course_code": 1110,
@@ -24223,7 +24223,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 9,
+            "waitlist": 12,
             "crn": 30994,
             "subject": "KINS",
             "course_code": 1110,
@@ -24327,8 +24327,8 @@
         },
         {
             "RP": null,
-            "seats": 0,
-            "waitlist": 11,
+            "seats": 1,
+            "waitlist": 12,
             "crn": 30997,
             "subject": "KINS",
             "course_code": 1120,
@@ -24363,7 +24363,7 @@
         {
             "RP": null,
             "seats": 2,
-            "waitlist": 8,
+            "waitlist": 10,
             "crn": 30998,
             "subject": "KINS",
             "course_code": 1120,
@@ -24397,7 +24397,7 @@
         },
         {
             "RP": null,
-            "seats": 12,
+            "seats": 11,
             "waitlist": 21,
             "crn": 30999,
             "subject": "KINS",
@@ -24467,8 +24467,8 @@
         },
         {
             "RP": null,
-            "seats": 5,
-            "waitlist": 7,
+            "seats": 6,
+            "waitlist": 8,
             "crn": 31265,
             "subject": "KINS",
             "course_code": 1120,
@@ -24502,8 +24502,8 @@
         },
         {
             "RP": null,
-            "seats": 8,
-            "waitlist": 6,
+            "seats": 4,
+            "waitlist": 5,
             "crn": 31266,
             "subject": "KINS",
             "course_code": 1120,
@@ -24537,8 +24537,8 @@
         },
         {
             "RP": null,
-            "seats": 9,
-            "waitlist": 10,
+            "seats": 8,
+            "waitlist": 9,
             "crn": 31267,
             "subject": "KINS",
             "course_code": 1120,
@@ -24573,7 +24573,7 @@
         {
             "RP": null,
             "seats": 10,
-            "waitlist": 20,
+            "waitlist": 19,
             "crn": 31331,
             "subject": "KINS",
             "course_code": 1120,
@@ -24608,7 +24608,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 24,
+            "waitlist": 31,
             "crn": 31001,
             "subject": "KINS",
             "course_code": 1131,
@@ -24643,7 +24643,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 13,
+            "waitlist": 17,
             "crn": 31002,
             "subject": "KINS",
             "course_code": 1131,
@@ -24678,7 +24678,7 @@
         {
             "RP": "P",
             "seats": 1,
-            "waitlist": null,
+            "waitlist": 1,
             "crn": 31003,
             "subject": "KINS",
             "course_code": 1132,
@@ -24713,7 +24713,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 8,
+            "waitlist": 10,
             "crn": 31004,
             "subject": "KINS",
             "course_code": 1132,
@@ -24748,7 +24748,7 @@
         {
             "RP": "P",
             "seats": 5,
-            "waitlist": 2,
+            "waitlist": 4,
             "crn": 31005,
             "subject": "KINS",
             "course_code": 1132,
@@ -24783,7 +24783,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 12,
+            "waitlist": 16,
             "crn": 31041,
             "subject": "KINS",
             "course_code": 1150,
@@ -24818,7 +24818,7 @@
         {
             "RP": "P",
             "seats": 8,
-            "waitlist": 1,
+            "waitlist": 3,
             "crn": 31006,
             "subject": "KINS",
             "course_code": 1150,
@@ -24852,8 +24852,8 @@
         },
         {
             "RP": "P",
-            "seats": 14,
-            "waitlist": null,
+            "seats": 8,
+            "waitlist": 2,
             "crn": 31007,
             "subject": "KINS",
             "course_code": 1150,
@@ -24888,7 +24888,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 7,
+            "waitlist": 11,
             "crn": 31042,
             "subject": "KINS",
             "course_code": 1160,
@@ -24922,8 +24922,8 @@
         },
         {
             "RP": "P",
-            "seats": 5,
-            "waitlist": 8,
+            "seats": 4,
+            "waitlist": 12,
             "crn": 31043,
             "subject": "KINS",
             "course_code": 1160,
@@ -24993,7 +24993,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 4,
+            "waitlist": 5,
             "crn": 31045,
             "subject": "KINS",
             "course_code": 2030,
@@ -25027,7 +25027,7 @@
         },
         {
             "RP": null,
-            "seats": 12,
+            "seats": 8,
             "waitlist": null,
             "crn": 31272,
             "subject": "KINS",
@@ -25097,7 +25097,7 @@
         },
         {
             "RP": null,
-            "seats": 15,
+            "seats": 12,
             "waitlist": null,
             "crn": 31268,
             "subject": "KINS",
@@ -25237,7 +25237,7 @@
         },
         {
             "RP": null,
-            "seats": 7,
+            "seats": 6,
             "waitlist": 11,
             "crn": 31046,
             "subject": "KINS",
@@ -25343,7 +25343,7 @@
         {
             "RP": null,
             "seats": 14,
-            "waitlist": 2,
+            "waitlist": 3,
             "crn": 31049,
             "subject": "KINS",
             "course_code": 2030,
@@ -25455,8 +25455,8 @@
         },
         {
             "RP": null,
-            "seats": 11,
-            "waitlist": 13,
+            "seats": 9,
+            "waitlist": 12,
             "crn": 31053,
             "subject": "KINS",
             "course_code": 2030,
@@ -25552,7 +25552,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 1,
+            "waitlist": 2,
             "crn": 31056,
             "subject": "KINS",
             "course_code": 2205,
@@ -25586,7 +25586,7 @@
         },
         {
             "RP": null,
-            "seats": 15,
+            "seats": 9,
             "waitlist": null,
             "crn": 31057,
             "subject": "KINS",
@@ -25622,7 +25622,7 @@
         {
             "RP": "P",
             "seats": 6,
-            "waitlist": 6,
+            "waitlist": 9,
             "crn": 31058,
             "subject": "KINS",
             "course_code": 2206,
@@ -25647,8 +25647,8 @@
         },
         {
             "RP": "P",
-            "seats": 13,
-            "waitlist": 1,
+            "seats": 14,
+            "waitlist": 6,
             "crn": 31059,
             "subject": "KINS",
             "course_code": 2206,
@@ -25744,7 +25744,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 29,
+            "waitlist": 32,
             "crn": 31062,
             "subject": "KINS",
             "course_code": 2211,
@@ -25779,7 +25779,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 24,
+            "waitlist": 29,
             "crn": 31063,
             "subject": "KINS",
             "course_code": 2211,
@@ -25814,7 +25814,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 19,
+            "waitlist": 21,
             "crn": 31064,
             "subject": "KINS",
             "course_code": 2211,
@@ -25849,7 +25849,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 18,
+            "waitlist": 20,
             "crn": 31065,
             "subject": "KINS",
             "course_code": 2211,
@@ -25918,7 +25918,7 @@
         },
         {
             "RP": null,
-            "seats": 16,
+            "seats": 11,
             "waitlist": null,
             "crn": 31067,
             "subject": "KINS",
@@ -25954,7 +25954,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 7,
+            "waitlist": 8,
             "crn": 31068,
             "subject": "KINS",
             "course_code": 2215,
@@ -25988,8 +25988,8 @@
         },
         {
             "RP": null,
-            "seats": 5,
-            "waitlist": 5,
+            "seats": 1,
+            "waitlist": 4,
             "crn": 31069,
             "subject": "KINS",
             "course_code": 2215,
@@ -26093,8 +26093,8 @@
         },
         {
             "RP": "P",
-            "seats": 0,
-            "waitlist": 10,
+            "seats": 1,
+            "waitlist": 11,
             "crn": 31072,
             "subject": "KINS",
             "course_code": 2262,
@@ -26129,7 +26129,7 @@
         {
             "RP": "P",
             "seats": 8,
-            "waitlist": 12,
+            "waitlist": 14,
             "crn": 31274,
             "subject": "KINS",
             "course_code": 2262,
@@ -26164,7 +26164,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 26,
+            "waitlist": 28,
             "crn": 31073,
             "subject": "KINS",
             "course_code": 2262,
@@ -26198,8 +26198,8 @@
         },
         {
             "RP": "P",
-            "seats": 1,
-            "waitlist": 21,
+            "seats": 0,
+            "waitlist": 23,
             "crn": 31075,
             "subject": "KINS",
             "course_code": 2280,
@@ -26234,7 +26234,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 15,
+            "waitlist": 16,
             "crn": 31076,
             "subject": "KINS",
             "course_code": 3303,
@@ -26269,7 +26269,7 @@
         {
             "RP": "P",
             "seats": 1,
-            "waitlist": 10,
+            "waitlist": 11,
             "crn": 31077,
             "subject": "KINS",
             "course_code": 3303,
@@ -26364,7 +26364,7 @@
         },
         {
             "RP": null,
-            "seats": 19,
+            "seats": 18,
             "waitlist": null,
             "crn": 30245,
             "subject": "LAMS",
@@ -26713,7 +26713,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 20,
+            "waitlist": 21,
             "crn": 31008,
             "subject": "MARK",
             "course_code": 1115,
@@ -26739,7 +26739,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 15,
+            "waitlist": 17,
             "crn": 31009,
             "subject": "MARK",
             "course_code": 1115,
@@ -26764,7 +26764,7 @@
         },
         {
             "RP": null,
-            "seats": 7,
+            "seats": 6,
             "waitlist": 9,
             "crn": 31010,
             "subject": "MARK",
@@ -26816,8 +26816,8 @@
         },
         {
             "RP": null,
-            "seats": 12,
-            "waitlist": 7,
+            "seats": 9,
+            "waitlist": 8,
             "crn": 31012,
             "subject": "MARK",
             "course_code": 1115,
@@ -26868,7 +26868,7 @@
         },
         {
             "RP": null,
-            "seats": 21,
+            "seats": 20,
             "waitlist": null,
             "crn": 31014,
             "subject": "MARK",
@@ -26894,7 +26894,7 @@
         },
         {
             "RP": null,
-            "seats": 26,
+            "seats": 25,
             "waitlist": null,
             "crn": 31017,
             "subject": "MARK",
@@ -26920,7 +26920,7 @@
         },
         {
             "RP": null,
-            "seats": 36,
+            "seats": 35,
             "waitlist": null,
             "crn": 31018,
             "subject": "MARK",
@@ -27007,7 +27007,7 @@
         },
         {
             "RP": null,
-            "seats": 6,
+            "seats": 5,
             "waitlist": 6,
             "crn": 31016,
             "subject": "MARK",
@@ -27042,7 +27042,7 @@
         },
         {
             "RP": null,
-            "seats": 3,
+            "seats": 2,
             "waitlist": 2,
             "crn": 31019,
             "subject": "MARK",
@@ -27068,8 +27068,8 @@
         },
         {
             "RP": null,
-            "seats": 7,
-            "waitlist": 1,
+            "seats": 5,
+            "waitlist": 2,
             "crn": 31020,
             "subject": "MARK",
             "course_code": 1115,
@@ -27129,7 +27129,7 @@
         },
         {
             "RP": "P",
-            "seats": 7,
+            "seats": 6,
             "waitlist": 5,
             "crn": 31022,
             "subject": "MARK",
@@ -27155,7 +27155,7 @@
         },
         {
             "RP": "P",
-            "seats": 6,
+            "seats": 4,
             "waitlist": null,
             "crn": 31023,
             "subject": "MARK",
@@ -27182,7 +27182,7 @@
         {
             "RP": "P",
             "seats": 8,
-            "waitlist": 8,
+            "waitlist": 9,
             "crn": 31024,
             "subject": "MARK",
             "course_code": 2100,
@@ -27216,7 +27216,7 @@
         },
         {
             "RP": "P",
-            "seats": 3,
+            "seats": 2,
             "waitlist": 5,
             "crn": 31025,
             "subject": "MARK",
@@ -27312,7 +27312,7 @@
         },
         {
             "RP": "P",
-            "seats": 9,
+            "seats": 8,
             "waitlist": null,
             "crn": 31028,
             "subject": "MARK",
@@ -27451,7 +27451,7 @@
         },
         {
             "RP": "R",
-            "seats": 1,
+            "seats": 0,
             "waitlist": 1,
             "crn": 31033,
             "subject": "MARK",
@@ -27477,7 +27477,7 @@
         },
         {
             "RP": "RP",
-            "seats": 3,
+            "seats": 6,
             "waitlist": null,
             "crn": 31034,
             "subject": "MARK",
@@ -27512,8 +27512,8 @@
         },
         {
             "RP": "RP",
-            "seats": 1,
-            "waitlist": 10,
+            "seats": 4,
+            "waitlist": 9,
             "crn": 31035,
             "subject": "MARK",
             "course_code": 4810,
@@ -27547,7 +27547,7 @@
         },
         {
             "RP": "RP",
-            "seats": 1,
+            "seats": 3,
             "waitlist": null,
             "crn": 31036,
             "subject": "MARK",
@@ -27695,7 +27695,7 @@
         },
         {
             "RP": null,
-            "seats": 9,
+            "seats": 6,
             "waitlist": null,
             "crn": 30361,
             "subject": "MATH",
@@ -27721,7 +27721,7 @@
         },
         {
             "RP": null,
-            "seats": 22,
+            "seats": 20,
             "waitlist": null,
             "crn": 30362,
             "subject": "MATH",
@@ -27747,7 +27747,7 @@
         },
         {
             "RP": "P",
-            "seats": 27,
+            "seats": 26,
             "waitlist": null,
             "crn": 30363,
             "subject": "MATH",
@@ -27774,7 +27774,7 @@
         {
             "RP": "P",
             "seats": 9,
-            "waitlist": 1,
+            "waitlist": 2,
             "crn": 30364,
             "subject": "MATH",
             "course_code": 1118,
@@ -27809,7 +27809,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 2,
+            "waitlist": 3,
             "crn": 30365,
             "subject": "MATH",
             "course_code": 1118,
@@ -27843,7 +27843,7 @@
         },
         {
             "RP": null,
-            "seats": 10,
+            "seats": 9,
             "waitlist": 25,
             "crn": 30366,
             "subject": "MATH",
@@ -27869,7 +27869,7 @@
         },
         {
             "RP": null,
-            "seats": 1,
+            "seats": 0,
             "waitlist": 25,
             "crn": 30367,
             "subject": "MATH",
@@ -27947,7 +27947,7 @@
         },
         {
             "RP": null,
-            "seats": 0,
+            "seats": 13,
             "waitlist": 25,
             "crn": 30370,
             "subject": "MATH",
@@ -27973,7 +27973,7 @@
         },
         {
             "RP": null,
-            "seats": 10,
+            "seats": 9,
             "waitlist": null,
             "crn": 30371,
             "subject": "MATH",
@@ -28000,7 +28000,7 @@
         {
             "RP": "P",
             "seats": 15,
-            "waitlist": 4,
+            "waitlist": 8,
             "crn": 30372,
             "subject": "MATH",
             "course_code": 1150,
@@ -28026,7 +28026,7 @@
         {
             "RP": "P",
             "seats": 16,
-            "waitlist": 2,
+            "waitlist": 4,
             "crn": 30373,
             "subject": "MATH",
             "course_code": 1150,
@@ -28051,8 +28051,8 @@
         },
         {
             "RP": "P",
-            "seats": 10,
-            "waitlist": 11,
+            "seats": 11,
+            "waitlist": 12,
             "crn": 30374,
             "subject": "MATH",
             "course_code": 1152,
@@ -28078,7 +28078,7 @@
         {
             "RP": "P",
             "seats": 13,
-            "waitlist": null,
+            "waitlist": 3,
             "crn": 30375,
             "subject": "MATH",
             "course_code": 1152,
@@ -28103,7 +28103,7 @@
         },
         {
             "RP": "P",
-            "seats": 20,
+            "seats": 14,
             "waitlist": null,
             "crn": 30376,
             "subject": "MATH",
@@ -28129,7 +28129,7 @@
         },
         {
             "RP": "P",
-            "seats": 12,
+            "seats": 11,
             "waitlist": null,
             "crn": 30377,
             "subject": "MATH",
@@ -28181,8 +28181,8 @@
         },
         {
             "RP": "P",
-            "seats": 8,
-            "waitlist": 9,
+            "seats": 7,
+            "waitlist": 15,
             "crn": 30379,
             "subject": "MATH",
             "course_code": 1170,
@@ -28208,7 +28208,7 @@
         {
             "RP": "P",
             "seats": 11,
-            "waitlist": 10,
+            "waitlist": 11,
             "crn": 30380,
             "subject": "MATH",
             "course_code": 1170,
@@ -28234,7 +28234,7 @@
         {
             "RP": "P",
             "seats": 5,
-            "waitlist": 14,
+            "waitlist": 17,
             "crn": 30381,
             "subject": "MATH",
             "course_code": 1170,
@@ -28259,7 +28259,7 @@
         },
         {
             "RP": "P",
-            "seats": 21,
+            "seats": 22,
             "waitlist": null,
             "crn": 30382,
             "subject": "MATH",
@@ -28286,7 +28286,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 21,
+            "waitlist": 22,
             "crn": 30383,
             "subject": "MATH",
             "course_code": 1171,
@@ -28312,7 +28312,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 29,
+            "waitlist": 31,
             "crn": 30384,
             "subject": "MATH",
             "course_code": 1171,
@@ -28338,7 +28338,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 30,
+            "waitlist": 32,
             "crn": 30385,
             "subject": "MATH",
             "course_code": 1171,
@@ -28364,7 +28364,7 @@
         {
             "RP": "P",
             "seats": 31,
-            "waitlist": 11,
+            "waitlist": 20,
             "crn": 30386,
             "subject": "MATH",
             "course_code": 1171,
@@ -28416,7 +28416,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 20,
+            "waitlist": 21,
             "crn": 30388,
             "subject": "MATH",
             "course_code": 1171,
@@ -28442,7 +28442,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 10,
+            "waitlist": 13,
             "crn": 30389,
             "subject": "MATH",
             "course_code": 1171,
@@ -28468,7 +28468,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 13,
+            "waitlist": 17,
             "crn": 30390,
             "subject": "MATH",
             "course_code": 1171,
@@ -28494,7 +28494,7 @@
         {
             "RP": "P",
             "seats": 8,
-            "waitlist": 23,
+            "waitlist": 25,
             "crn": 30391,
             "subject": "MATH",
             "course_code": 1173,
@@ -28546,7 +28546,7 @@
         {
             "RP": "P",
             "seats": 11,
-            "waitlist": 2,
+            "waitlist": 5,
             "crn": 30393,
             "subject": "MATH",
             "course_code": 1174,
@@ -28572,7 +28572,7 @@
         {
             "RP": "P",
             "seats": 9,
-            "waitlist": 5,
+            "waitlist": 8,
             "crn": 30394,
             "subject": "MATH",
             "course_code": 1174,
@@ -28598,7 +28598,7 @@
         {
             "RP": "P",
             "seats": 7,
-            "waitlist": 12,
+            "waitlist": 14,
             "crn": 30395,
             "subject": "MATH",
             "course_code": 1175,
@@ -28649,7 +28649,7 @@
         },
         {
             "RP": "P",
-            "seats": 15,
+            "seats": 14,
             "waitlist": null,
             "crn": 30397,
             "subject": "MATH",
@@ -28675,7 +28675,7 @@
         },
         {
             "RP": "P",
-            "seats": 10,
+            "seats": 9,
             "waitlist": null,
             "crn": 30398,
             "subject": "MATH",
@@ -28702,7 +28702,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 5,
+            "waitlist": 9,
             "crn": 30399,
             "subject": "MATH",
             "course_code": 1271,
@@ -28727,7 +28727,7 @@
         },
         {
             "RP": "P",
-            "seats": 33,
+            "seats": 28,
             "waitlist": null,
             "crn": 30400,
             "subject": "MATH",
@@ -28754,7 +28754,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 12,
+            "waitlist": 13,
             "crn": 30401,
             "subject": "MATH",
             "course_code": 1271,
@@ -28805,7 +28805,7 @@
         },
         {
             "RP": "P",
-            "seats": 22,
+            "seats": 21,
             "waitlist": null,
             "crn": 30403,
             "subject": "MATH",
@@ -28831,7 +28831,7 @@
         },
         {
             "RP": "P",
-            "seats": 9,
+            "seats": 8,
             "waitlist": null,
             "crn": 30404,
             "subject": "MATH",
@@ -28909,7 +28909,7 @@
         },
         {
             "RP": "P",
-            "seats": 27,
+            "seats": 26,
             "waitlist": null,
             "crn": 30407,
             "subject": "MATH",
@@ -29580,7 +29580,7 @@
         },
         {
             "RP": "RP",
-            "seats": 12,
+            "seats": 11,
             "waitlist": "N/A",
             "crn": 30689,
             "subject": "NURS",
@@ -29641,7 +29641,7 @@
         },
         {
             "RP": "RP",
-            "seats": 12,
+            "seats": 11,
             "waitlist": "N/A",
             "crn": 30692,
             "subject": "NURS",
@@ -29702,7 +29702,7 @@
         },
         {
             "RP": "RP",
-            "seats": 12,
+            "seats": 11,
             "waitlist": "N/A",
             "crn": 30696,
             "subject": "NURS",
@@ -29763,7 +29763,7 @@
         },
         {
             "RP": "RP",
-            "seats": 12,
+            "seats": 11,
             "waitlist": "N/A",
             "crn": 30700,
             "subject": "NURS",
@@ -30748,8 +30748,8 @@
         },
         {
             "RP": null,
-            "seats": 0,
-            "waitlist": 33,
+            "seats": 1,
+            "waitlist": 38,
             "crn": 30223,
             "subject": "NUTR",
             "course_code": 1100,
@@ -30784,7 +30784,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 42,
+            "waitlist": 43,
             "crn": 30224,
             "subject": "NUTR",
             "course_code": 1100,
@@ -30818,7 +30818,7 @@
         },
         {
             "RP": null,
-            "seats": 11,
+            "seats": 7,
             "waitlist": 25,
             "crn": 31322,
             "subject": "NUTR",
@@ -30853,7 +30853,7 @@
         },
         {
             "RP": null,
-            "seats": 14,
+            "seats": 13,
             "waitlist": 26,
             "crn": 31323,
             "subject": "NUTR",
@@ -30923,7 +30923,7 @@
         },
         {
             "RP": null,
-            "seats": 15,
+            "seats": 14,
             "waitlist": 35,
             "crn": 31324,
             "subject": "NUTR",
@@ -30959,7 +30959,7 @@
         {
             "RP": null,
             "seats": 14,
-            "waitlist": 28,
+            "waitlist": 27,
             "crn": 31325,
             "subject": "NUTR",
             "course_code": 2112,
@@ -31055,7 +31055,7 @@
         {
             "RP": null,
             "seats": 17,
-            "waitlist": 25,
+            "waitlist": 24,
             "crn": 31326,
             "subject": "NUTR",
             "course_code": 2212,
@@ -31089,7 +31089,7 @@
         },
         {
             "RP": null,
-            "seats": 5,
+            "seats": 4,
             "waitlist": 37,
             "crn": 30228,
             "subject": "NUTR",
@@ -31211,7 +31211,7 @@
         },
         {
             "RP": null,
-            "seats": 3,
+            "seats": 2,
             "waitlist": 28,
             "crn": 30232,
             "subject": "NUTR",
@@ -31342,7 +31342,7 @@
         {
             "RP": null,
             "seats": 1,
-            "waitlist": 30,
+            "waitlist": 33,
             "crn": 30893,
             "subject": "PHIL",
             "course_code": 1100,
@@ -31367,7 +31367,7 @@
         },
         {
             "RP": null,
-            "seats": 3,
+            "seats": 2,
             "waitlist": 19,
             "crn": 30894,
             "subject": "PHIL",
@@ -31394,7 +31394,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 15,
+            "waitlist": 17,
             "crn": 30895,
             "subject": "PHIL",
             "course_code": 1100,
@@ -31419,8 +31419,8 @@
         },
         {
             "RP": null,
-            "seats": 11,
-            "waitlist": 22,
+            "seats": 9,
+            "waitlist": 24,
             "crn": 30896,
             "subject": "PHIL",
             "course_code": 1100,
@@ -31446,7 +31446,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 22,
+            "waitlist": 24,
             "crn": 30897,
             "subject": "PHIL",
             "course_code": 1100,
@@ -31472,7 +31472,7 @@
         {
             "RP": null,
             "seats": 1,
-            "waitlist": 8,
+            "waitlist": 9,
             "crn": 30898,
             "subject": "PHIL",
             "course_code": 1101,
@@ -31497,7 +31497,7 @@
         },
         {
             "RP": null,
-            "seats": 2,
+            "seats": 0,
             "waitlist": 2,
             "crn": 30899,
             "subject": "PHIL",
@@ -31523,7 +31523,7 @@
         },
         {
             "RP": null,
-            "seats": 9,
+            "seats": 8,
             "waitlist": null,
             "crn": 30900,
             "subject": "PHIL",
@@ -31550,7 +31550,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 6,
+            "waitlist": 8,
             "crn": 30901,
             "subject": "PHIL",
             "course_code": 1102,
@@ -31575,7 +31575,7 @@
         },
         {
             "RP": null,
-            "seats": 18,
+            "seats": 19,
             "waitlist": null,
             "crn": 30902,
             "subject": "PHIL",
@@ -31601,7 +31601,7 @@
         },
         {
             "RP": null,
-            "seats": 24,
+            "seats": 22,
             "waitlist": null,
             "crn": 30903,
             "subject": "PHIL",
@@ -31628,7 +31628,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 3,
+            "waitlist": 6,
             "crn": 30904,
             "subject": "PHIL",
             "course_code": 1105,
@@ -31654,7 +31654,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 4,
+            "waitlist": 7,
             "crn": 30905,
             "subject": "PHIL",
             "course_code": 1105,
@@ -31679,7 +31679,7 @@
         },
         {
             "RP": null,
-            "seats": 22,
+            "seats": 20,
             "waitlist": null,
             "crn": 30906,
             "subject": "PHIL",
@@ -31705,7 +31705,7 @@
         },
         {
             "RP": null,
-            "seats": 22,
+            "seats": 21,
             "waitlist": null,
             "crn": 31288,
             "subject": "PHIL",
@@ -31731,7 +31731,7 @@
         },
         {
             "RP": null,
-            "seats": 19,
+            "seats": 16,
             "waitlist": null,
             "crn": 30907,
             "subject": "PHIL",
@@ -31783,7 +31783,7 @@
         },
         {
             "RP": "P",
-            "seats": 17,
+            "seats": 16,
             "waitlist": null,
             "crn": 30908,
             "subject": "PHIL",
@@ -31861,8 +31861,8 @@
         },
         {
             "RP": null,
-            "seats": 2,
-            "waitlist": 3,
+            "seats": 3,
+            "waitlist": 5,
             "crn": 31264,
             "subject": "PHED",
             "course_code": 1118,
@@ -31887,7 +31887,7 @@
         },
         {
             "RP": "P",
-            "seats": 20,
+            "seats": 19,
             "waitlist": null,
             "crn": 30747,
             "subject": "PHYS",
@@ -31931,7 +31931,7 @@
         },
         {
             "RP": "P",
-            "seats": 19,
+            "seats": 16,
             "waitlist": null,
             "crn": 30748,
             "subject": "PHYS",
@@ -31975,7 +31975,7 @@
         },
         {
             "RP": "P",
-            "seats": 10,
+            "seats": 8,
             "waitlist": null,
             "crn": 30749,
             "subject": "PHYS",
@@ -32019,7 +32019,7 @@
         },
         {
             "RP": "P",
-            "seats": 18,
+            "seats": 17,
             "waitlist": null,
             "crn": 30750,
             "subject": "PHYS",
@@ -32063,7 +32063,7 @@
         },
         {
             "RP": "P",
-            "seats": 9,
+            "seats": 8,
             "waitlist": null,
             "crn": 30751,
             "subject": "PHYS",
@@ -32151,7 +32151,7 @@
         },
         {
             "RP": "P",
-            "seats": 7,
+            "seats": 8,
             "waitlist": null,
             "crn": 30753,
             "subject": "PHYS",
@@ -32195,7 +32195,7 @@
         },
         {
             "RP": "P",
-            "seats": 24,
+            "seats": 22,
             "waitlist": null,
             "crn": 30754,
             "subject": "PHYS",
@@ -32239,7 +32239,7 @@
         },
         {
             "RP": "P",
-            "seats": 13,
+            "seats": 12,
             "waitlist": null,
             "crn": 30755,
             "subject": "PHYS",
@@ -32283,7 +32283,7 @@
         },
         {
             "RP": "P",
-            "seats": 14,
+            "seats": 12,
             "waitlist": null,
             "crn": 31286,
             "subject": "PHYS",
@@ -32617,7 +32617,7 @@
         },
         {
             "RP": null,
-            "seats": 17,
+            "seats": 12,
             "waitlist": null,
             "crn": 30952,
             "subject": "POLI",
@@ -32644,7 +32644,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 17,
+            "waitlist": 16,
             "crn": 30953,
             "subject": "POLI",
             "course_code": 1100,
@@ -32670,7 +32670,7 @@
         {
             "RP": null,
             "seats": 4,
-            "waitlist": 25,
+            "waitlist": 26,
             "crn": 30954,
             "subject": "POLI",
             "course_code": 1100,
@@ -32695,7 +32695,7 @@
         },
         {
             "RP": null,
-            "seats": 15,
+            "seats": 14,
             "waitlist": null,
             "crn": 30955,
             "subject": "POLI",
@@ -32747,8 +32747,8 @@
         },
         {
             "RP": null,
-            "seats": 2,
-            "waitlist": 7,
+            "seats": 1,
+            "waitlist": 6,
             "crn": 30957,
             "subject": "POLI",
             "course_code": 1140,
@@ -32774,7 +32774,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 27,
+            "waitlist": 29,
             "crn": 30958,
             "subject": "POLI",
             "course_code": 1140,
@@ -32825,7 +32825,7 @@
         },
         {
             "RP": null,
-            "seats": 18,
+            "seats": 16,
             "waitlist": null,
             "crn": 30960,
             "subject": "POLI",
@@ -32877,7 +32877,7 @@
         },
         {
             "RP": null,
-            "seats": 8,
+            "seats": 7,
             "waitlist": null,
             "crn": 30962,
             "subject": "POLI",
@@ -32903,7 +32903,7 @@
         },
         {
             "RP": null,
-            "seats": 11,
+            "seats": 8,
             "waitlist": null,
             "crn": 30963,
             "subject": "POLI",
@@ -32930,7 +32930,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 38,
+            "waitlist": 40,
             "crn": 30001,
             "subject": "PHOT",
             "course_code": 1100,
@@ -32964,8 +32964,8 @@
         },
         {
             "RP": null,
-            "seats": 1,
-            "waitlist": 37,
+            "seats": 0,
+            "waitlist": 38,
             "crn": 31321,
             "subject": "PHOT",
             "course_code": 1100,
@@ -32999,7 +32999,7 @@
         },
         {
             "RP": null,
-            "seats": 6,
+            "seats": 3,
             "waitlist": null,
             "crn": 31334,
             "subject": "PHOT",
@@ -33035,7 +33035,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 34,
+            "waitlist": 36,
             "crn": 30002,
             "subject": "PHOT",
             "course_code": 1100,
@@ -33070,7 +33070,7 @@
         {
             "RP": "R",
             "seats": 0,
-            "waitlist": null,
+            "waitlist": 1,
             "crn": 30006,
             "subject": "PHOT",
             "course_code": 1105,
@@ -33245,7 +33245,7 @@
         },
         {
             "RP": "R",
-            "seats": 10,
+            "seats": 9,
             "waitlist": null,
             "crn": 30010,
             "subject": "PHOT",
@@ -33341,7 +33341,7 @@
         },
         {
             "RP": "R",
-            "seats": 11,
+            "seats": 10,
             "waitlist": null,
             "crn": 30013,
             "subject": "PHOT",
@@ -33411,7 +33411,7 @@
         },
         {
             "RP": "RP",
-            "seats": 12,
+            "seats": 13,
             "waitlist": null,
             "crn": 30015,
             "subject": "PHOT",
@@ -33552,7 +33552,7 @@
         {
             "RP": null,
             "seats": 4,
-            "waitlist": 14,
+            "waitlist": 18,
             "crn": 30863,
             "subject": "PSYC",
             "course_code": 1115,
@@ -33577,8 +33577,8 @@
         },
         {
             "RP": null,
-            "seats": 13,
-            "waitlist": null,
+            "seats": 8,
+            "waitlist": 2,
             "crn": 30864,
             "subject": "PSYC",
             "course_code": 1115,
@@ -33603,8 +33603,8 @@
         },
         {
             "RP": null,
-            "seats": 0,
-            "waitlist": 2,
+            "seats": 1,
+            "waitlist": 9,
             "crn": 30865,
             "subject": "PSYC",
             "course_code": 1115,
@@ -33638,8 +33638,8 @@
         },
         {
             "RP": null,
-            "seats": 1,
-            "waitlist": 30,
+            "seats": 0,
+            "waitlist": 36,
             "crn": 30866,
             "subject": "PSYC",
             "course_code": 1115,
@@ -33674,7 +33674,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 49,
+            "waitlist": "Full",
             "crn": 30867,
             "subject": "PSYC",
             "course_code": 1115,
@@ -33708,7 +33708,7 @@
         },
         {
             "RP": null,
-            "seats": 21,
+            "seats": 16,
             "waitlist": 25,
             "crn": 30868,
             "subject": "PSYC",
@@ -33735,7 +33735,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 36,
+            "waitlist": 39,
             "crn": 30869,
             "subject": "PSYC",
             "course_code": 1115,
@@ -33761,7 +33761,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 35,
+            "waitlist": 38,
             "crn": 30870,
             "subject": "PSYC",
             "course_code": 1115,
@@ -33786,8 +33786,8 @@
         },
         {
             "RP": null,
-            "seats": 2,
-            "waitlist": 25,
+            "seats": 1,
+            "waitlist": 28,
             "crn": 30871,
             "subject": "PSYC",
             "course_code": 1215,
@@ -33812,8 +33812,8 @@
         },
         {
             "RP": null,
-            "seats": 11,
-            "waitlist": null,
+            "seats": 10,
+            "waitlist": 5,
             "crn": 30872,
             "subject": "PSYC",
             "course_code": 1215,
@@ -33838,8 +33838,8 @@
         },
         {
             "RP": null,
-            "seats": 0,
-            "waitlist": 24,
+            "seats": 1,
+            "waitlist": 25,
             "crn": 30873,
             "subject": "PSYC",
             "course_code": 1215,
@@ -33864,7 +33864,7 @@
         },
         {
             "RP": null,
-            "seats": 49,
+            "seats": 38,
             "waitlist": null,
             "crn": 30874,
             "subject": "PSYC",
@@ -33899,8 +33899,8 @@
         },
         {
             "RP": null,
-            "seats": 1,
-            "waitlist": 11,
+            "seats": 0,
+            "waitlist": 14,
             "crn": 30875,
             "subject": "PSYC",
             "course_code": 1215,
@@ -33935,7 +33935,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 37,
+            "waitlist": 40,
             "crn": 30876,
             "subject": "PSYC",
             "course_code": 1215,
@@ -33960,7 +33960,7 @@
         },
         {
             "RP": null,
-            "seats": 31,
+            "seats": 24,
             "waitlist": 4,
             "crn": 30877,
             "subject": "PSYC",
@@ -33986,8 +33986,8 @@
         },
         {
             "RP": null,
-            "seats": 1,
-            "waitlist": 9,
+            "seats": 0,
+            "waitlist": 14,
             "crn": 31315,
             "subject": "PSYC",
             "course_code": 1215,
@@ -34013,7 +34013,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": null,
+            "waitlist": 1,
             "crn": 30878,
             "subject": "PSYC",
             "course_code": 2318,
@@ -34048,7 +34048,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 23,
+            "waitlist": 25,
             "crn": 30879,
             "subject": "PSYC",
             "course_code": 2320,
@@ -34074,7 +34074,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 11,
+            "waitlist": 14,
             "crn": 30880,
             "subject": "PSYC",
             "course_code": 2321,
@@ -34203,7 +34203,7 @@
         },
         {
             "RP": "P",
-            "seats": 8,
+            "seats": 5,
             "waitlist": null,
             "crn": 30885,
             "subject": "PSYC",
@@ -34256,7 +34256,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 18,
+            "waitlist": 19,
             "crn": 30887,
             "subject": "PSYC",
             "course_code": 2341,
@@ -34282,7 +34282,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 13,
+            "waitlist": 15,
             "crn": 30888,
             "subject": "PSYC",
             "course_code": 2341,
@@ -34308,7 +34308,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 8,
+            "waitlist": 10,
             "crn": 30889,
             "subject": "PSYC",
             "course_code": 2425,
@@ -34342,7 +34342,7 @@
         },
         {
             "RP": "P",
-            "seats": 21,
+            "seats": 20,
             "waitlist": null,
             "crn": 30890,
             "subject": "PSYC",
@@ -34544,7 +34544,7 @@
         {
             "RP": null,
             "seats": 13,
-            "waitlist": 1,
+            "waitlist": 2,
             "crn": 30177,
             "subject": "RECR",
             "course_code": 2295,
@@ -34735,7 +34735,7 @@
         },
         {
             "RP": "RP",
-            "seats": 20,
+            "seats": 19,
             "waitlist": null,
             "crn": 30183,
             "subject": "RECR",
@@ -34787,7 +34787,7 @@
         },
         {
             "RP": null,
-            "seats": 18,
+            "seats": 20,
             "waitlist": null,
             "crn": 30924,
             "subject": "RELS",
@@ -34840,7 +34840,7 @@
         {
             "RP": "RP",
             "seats": 0,
-            "waitlist": 9,
+            "waitlist": 8,
             "crn": 30846,
             "subject": "SCIE",
             "course_code": 1114,
@@ -34944,7 +34944,7 @@
         },
         {
             "RP": "R",
-            "seats": 17,
+            "seats": 16,
             "waitlist": null,
             "crn": 30613,
             "subject": "SSRV",
@@ -34970,7 +34970,7 @@
         },
         {
             "RP": "R",
-            "seats": 17,
+            "seats": 16,
             "waitlist": null,
             "crn": 30614,
             "subject": "SSRV",
@@ -34996,7 +34996,7 @@
         },
         {
             "RP": "R",
-            "seats": 19,
+            "seats": 18,
             "waitlist": null,
             "crn": 30615,
             "subject": "SSRV",
@@ -35022,7 +35022,7 @@
         },
         {
             "RP": "R",
-            "seats": 20,
+            "seats": 19,
             "waitlist": null,
             "crn": 30616,
             "subject": "SSRV",
@@ -35048,7 +35048,7 @@
         },
         {
             "RP": "R",
-            "seats": 17,
+            "seats": 16,
             "waitlist": null,
             "crn": 30617,
             "subject": "SSRV",
@@ -35074,7 +35074,7 @@
         },
         {
             "RP": "R",
-            "seats": 19,
+            "seats": 18,
             "waitlist": null,
             "crn": 30618,
             "subject": "SSRV",
@@ -35126,8 +35126,8 @@
         },
         {
             "RP": null,
-            "seats": 4,
-            "waitlist": 25,
+            "seats": 2,
+            "waitlist": 24,
             "crn": 30964,
             "subject": "SOCI",
             "course_code": 1120,
@@ -35152,7 +35152,7 @@
         },
         {
             "RP": null,
-            "seats": 24,
+            "seats": 23,
             "waitlist": 25,
             "crn": 30965,
             "subject": "SOCI",
@@ -35178,7 +35178,7 @@
         },
         {
             "RP": null,
-            "seats": 23,
+            "seats": 22,
             "waitlist": 36,
             "crn": 30966,
             "subject": "SOCI",
@@ -35213,8 +35213,8 @@
         },
         {
             "RP": null,
-            "seats": 2,
-            "waitlist": 25,
+            "seats": 0,
+            "waitlist": 26,
             "crn": 30967,
             "subject": "SOCI",
             "course_code": 1120,
@@ -35291,7 +35291,7 @@
         },
         {
             "RP": null,
-            "seats": 10,
+            "seats": 9,
             "waitlist": null,
             "crn": 30969,
             "subject": "SOCI",
@@ -35317,7 +35317,7 @@
         },
         {
             "RP": null,
-            "seats": 37,
+            "seats": 36,
             "waitlist": null,
             "crn": 30970,
             "subject": "SOCI",
@@ -35352,7 +35352,7 @@
         },
         {
             "RP": null,
-            "seats": 9,
+            "seats": 6,
             "waitlist": 25,
             "crn": 30971,
             "subject": "SOCI",
@@ -35378,7 +35378,7 @@
         },
         {
             "RP": null,
-            "seats": 15,
+            "seats": 14,
             "waitlist": 22,
             "crn": 31330,
             "subject": "SOCI",
@@ -35430,7 +35430,7 @@
         },
         {
             "RP": null,
-            "seats": 21,
+            "seats": 20,
             "waitlist": 1,
             "crn": 30973,
             "subject": "SOCI",
@@ -35457,7 +35457,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 25,
+            "waitlist": 27,
             "crn": 30974,
             "subject": "SOCI",
             "course_code": 1126,
@@ -35509,7 +35509,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 35,
+            "waitlist": 36,
             "crn": 30978,
             "subject": "SOCI",
             "course_code": 1127,
@@ -35534,7 +35534,7 @@
         },
         {
             "RP": null,
-            "seats": 8,
+            "seats": 7,
             "waitlist": 21,
             "crn": 30980,
             "subject": "SOCI",
@@ -35586,7 +35586,7 @@
         },
         {
             "RP": null,
-            "seats": 24,
+            "seats": 23,
             "waitlist": null,
             "crn": 30831,
             "subject": "SPAN",
@@ -35612,8 +35612,8 @@
         },
         {
             "RP": null,
-            "seats": 3,
-            "waitlist": 1,
+            "seats": 1,
+            "waitlist": 2,
             "crn": 30834,
             "subject": "SPAN",
             "course_code": 1115,
@@ -35638,7 +35638,7 @@
         },
         {
             "RP": null,
-            "seats": 8,
+            "seats": 7,
             "waitlist": null,
             "crn": 30836,
             "subject": "SPAN",
@@ -35664,7 +35664,7 @@
         },
         {
             "RP": null,
-            "seats": 29,
+            "seats": 28,
             "waitlist": null,
             "crn": 30838,
             "subject": "SPAN",
@@ -35716,7 +35716,7 @@
         },
         {
             "RP": null,
-            "seats": 14,
+            "seats": 12,
             "waitlist": null,
             "crn": 31285,
             "subject": "SPAN",
@@ -35742,7 +35742,7 @@
         },
         {
             "RP": null,
-            "seats": 11,
+            "seats": 10,
             "waitlist": null,
             "crn": 30832,
             "subject": "SPAN",
@@ -35777,7 +35777,7 @@
         },
         {
             "RP": null,
-            "seats": 18,
+            "seats": 20,
             "waitlist": null,
             "crn": 30842,
             "subject": "SPAN",
@@ -35803,7 +35803,7 @@
         },
         {
             "RP": "P",
-            "seats": 11,
+            "seats": 10,
             "waitlist": null,
             "crn": 30844,
             "subject": "SPAN",
@@ -35855,7 +35855,7 @@
         },
         {
             "RP": null,
-            "seats": 26,
+            "seats": 25,
             "waitlist": 25,
             "crn": 30410,
             "subject": "STAT",
@@ -35881,8 +35881,8 @@
         },
         {
             "RP": null,
-            "seats": 1,
-            "waitlist": 25,
+            "seats": 0,
+            "waitlist": 26,
             "crn": 30411,
             "subject": "STAT",
             "course_code": 1123,
@@ -35908,7 +35908,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 26,
+            "waitlist": 28,
             "crn": 30412,
             "subject": "STAT",
             "course_code": 1123,
@@ -35934,7 +35934,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 31,
+            "waitlist": 32,
             "crn": 30413,
             "subject": "STAT",
             "course_code": 1123,
@@ -35959,7 +35959,7 @@
         },
         {
             "RP": null,
-            "seats": 29,
+            "seats": 27,
             "waitlist": 25,
             "crn": 30414,
             "subject": "STAT",
@@ -35986,7 +35986,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 31,
+            "waitlist": 32,
             "crn": 30415,
             "subject": "STAT",
             "course_code": 1123,
@@ -36011,7 +36011,7 @@
         },
         {
             "RP": null,
-            "seats": 21,
+            "seats": 16,
             "waitlist": 25,
             "crn": 30416,
             "subject": "STAT",
@@ -36064,7 +36064,7 @@
         {
             "RP": null,
             "seats": 1,
-            "waitlist": 24,
+            "waitlist": 25,
             "crn": 30419,
             "subject": "STAT",
             "course_code": 1123,
@@ -36089,7 +36089,7 @@
         },
         {
             "RP": "P",
-            "seats": 23,
+            "seats": 24,
             "waitlist": null,
             "crn": 30420,
             "subject": "STAT",
@@ -36116,7 +36116,7 @@
         {
             "RP": "P",
             "seats": 9,
-            "waitlist": 16,
+            "waitlist": 18,
             "crn": 30421,
             "subject": "STAT",
             "course_code": 1124,
@@ -36142,7 +36142,7 @@
         {
             "RP": "P",
             "seats": 17,
-            "waitlist": 3,
+            "waitlist": 5,
             "crn": 30422,
             "subject": "STAT",
             "course_code": 1124,
@@ -36168,7 +36168,7 @@
         {
             "RP": "P",
             "seats": 12,
-            "waitlist": 12,
+            "waitlist": 16,
             "crn": 30423,
             "subject": "STAT",
             "course_code": 1124,
@@ -36193,7 +36193,7 @@
         },
         {
             "RP": "P",
-            "seats": 22,
+            "seats": 18,
             "waitlist": null,
             "crn": 30424,
             "subject": "STAT",
@@ -36219,8 +36219,8 @@
         },
         {
             "RP": "P",
-            "seats": 17,
-            "waitlist": 5,
+            "seats": 16,
+            "waitlist": 7,
             "crn": 30425,
             "subject": "STAT",
             "course_code": 1124,
@@ -36245,7 +36245,7 @@
         },
         {
             "RP": "P",
-            "seats": 32,
+            "seats": 31,
             "waitlist": null,
             "crn": 30426,
             "subject": "STAT",
@@ -36272,7 +36272,7 @@
         {
             "RP": "P",
             "seats": 15,
-            "waitlist": 18,
+            "waitlist": 21,
             "crn": 30427,
             "subject": "STAT",
             "course_code": 1124,
@@ -36297,7 +36297,7 @@
         },
         {
             "RP": "P",
-            "seats": 1,
+            "seats": 0,
             "waitlist": 7,
             "crn": 30428,
             "subject": "STAT",
@@ -36324,7 +36324,7 @@
         {
             "RP": "P",
             "seats": 0,
-            "waitlist": 5,
+            "waitlist": 7,
             "crn": 30429,
             "subject": "STAT",
             "course_code": 1181,
@@ -36350,7 +36350,7 @@
         {
             "RP": "P",
             "seats": 9,
-            "waitlist": 3,
+            "waitlist": 4,
             "crn": 30430,
             "subject": "STAT",
             "course_code": 1181,
@@ -38181,7 +38181,7 @@
         },
         {
             "RP": "RP",
-            "seats": 0,
+            "seats": 1,
             "waitlist": 6,
             "crn": 30098,
             "subject": "WMDD",
@@ -38217,7 +38217,7 @@
         {
             "RP": "RP",
             "seats": 0,
-            "waitlist": 4,
+            "waitlist": 5,
             "crn": 30099,
             "subject": "WMDD",
             "course_code": 4885,
@@ -38251,7 +38251,7 @@
         },
         {
             "RP": "RP",
-            "seats": 5,
+            "seats": 6,
             "waitlist": null,
             "crn": 30100,
             "subject": "WMDD",
@@ -39047,8 +39047,8 @@
         },
         {
             "RP": null,
-            "seats": 2,
-            "waitlist": 25,
+            "seats": 0,
+            "waitlist": 26,
             "crn": 30250,
             "subject": "WMST",
             "course_code": 1116,
@@ -39108,8 +39108,8 @@
         },
         {
             "RP": null,
-            "seats": 1,
-            "waitlist": 30,
+            "seats": 0,
+            "waitlist": 29,
             "crn": 30252,
             "subject": "WMST",
             "course_code": 1216,
@@ -39144,7 +39144,7 @@
         {
             "RP": null,
             "seats": 0,
-            "waitlist": 24,
+            "waitlist": 25,
             "crn": 30253,
             "subject": "WMST",
             "course_code": 1230,
@@ -39438,8 +39438,8 @@
         },
         {
             "RP": "RP",
-            "seats": 2,
-            "waitlist": 4,
+            "seats": 1,
+            "waitlist": 2,
             "crn": 30142,
             "subject": "EXPE",
             "course_code": 4802,
@@ -39464,7 +39464,7 @@
         },
         {
             "RP": "RP",
-            "seats": 6,
+            "seats": 5,
             "waitlist": null,
             "crn": 30143,
             "subject": "EXPE",
