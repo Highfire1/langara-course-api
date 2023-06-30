@@ -22,6 +22,8 @@ origins = [
     "*",
 ]
 
+app.add_middleware(GZipMiddleware, minimum_size=500) # only gzip responses above 500 bytes
+
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
@@ -29,8 +31,6 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
-app.add_middleware(GZipMiddleware, minimum_size=1000)
 
 
 
@@ -97,7 +97,6 @@ async def get_course_from_semester(year:Years, semester:Semesters, crn:int) -> C
 @app.get(
     "/v1/courses/all", 
     summary="Gets all possible information about all courses.",
-    #description="Returns information about a course.",
     responses= {
     },
     )
