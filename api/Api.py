@@ -7,7 +7,7 @@ from schema.Semester import Semester, Years, Semesters, Course
 from schema.CourseInfo import CourseInfo, CourseInfoAll
 
 
-desc = "Gets course data from the Langara website. Data refreshes daily at midnight. Pull requests welcome!"
+desc = "Gets course data from the Langara website. Data refreshes hourly. All data belongs to Langara College or BC Transfer Guide and is summarized here in order to help students. Pull requests welcome!"
 
 app = FastAPI(
     title="Langara Courses API (unofficial)",

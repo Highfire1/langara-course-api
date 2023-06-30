@@ -23,8 +23,6 @@ class SemesterParser:
         
         if year < 2000:
             raise Exception("Course data is not available prior to 2000.")
-        if year > 2023:
-            raise Exception("Course data is not available for the future.")
         if semester not in [10, 20, 30]:
             raise Exception(f"Invalid semester {semester}. Semester must be 10, 20 or 30.")
         
@@ -71,11 +69,8 @@ class SemesterParser:
     
     # Loads and parses ALL pages 
     def loadParseSaveAll(getPagesFromWeb:bool = False) -> None:
-        for year in range(2000, 2023 + 1):
+        for year in range(2000, 2023):
             for semester in range(10, 31, 10):
-                
-                if year == 2023 and semester == 30:
-                    return
                 
                 p = SemesterParser(year, semester)
                 p.loadPage(getPageFromWeb=getPagesFromWeb)
