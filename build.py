@@ -60,7 +60,7 @@ def UPDATE_ALL(getFromWeb = False):
 # it checks if data for a new semester is available
 # then updates data for the current semester
 # very primitive, should probably be redone properly in the future
-def update_latest_semester():
+def update_latest_semester(notify=True):
     
     # check to see if a newer semester is available
     pages = os.listdir("data/pages")
@@ -104,7 +104,7 @@ def update_latest_semester():
     p.loadPageFromWeb()
     newData = p.parseAndSave()    
     
-    if len(oldData.courses) < len(newData.courses):
+    if len(oldData.courses) < len(newData.courses) and notify:
         
         out = []
         

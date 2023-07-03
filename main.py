@@ -15,7 +15,7 @@ if not os.path.exists("data/json/"):
 
 # update semester data every 30 minutes
 increment1 = 60 * 30
-update_latest_semester()
+update_latest_semester(notify=False) # don't send notification on first run
 schedule.every(increment1).seconds.do(update_latest_semester)
 
 # rebuild big json file every 24 hours
