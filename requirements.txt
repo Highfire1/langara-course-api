@@ -7,3 +7,4 @@ requests
 pdfquery
 six
 pydantic
+python-dotenv

@@ -13,8 +13,8 @@ if not os.path.exists("data/json/"):
     parse_build_data(getFromWeb=True)
 
 
-# update semester data every 2 hours
-increment1 = 60 * 60 * 2    
+# update semester data every 30 minutes
+increment1 = 60 * 30
 update_latest_semester()
 schedule.every(increment1).seconds.do(update_latest_semester)
 
