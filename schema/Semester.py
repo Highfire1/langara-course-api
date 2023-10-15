@@ -109,6 +109,8 @@ class Semesters(IntEnum):
     fall = 30
 
 class Years(IntEnum):
+    _2025 = 2025
+    _2024 = 2024
     _2023 = 2023
     _2022 = 2022
     _2021 = 2021
